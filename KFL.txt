@@ -1,0 +1,1812 @@
+(function()
+local _IlOOOlO0Ol = {}
+local _I00OOIOl = 29957
+while true do
+    if _I00OOIOl == 105920 then local _II0OO0 = 0.37030415906035097 _I00OOIOl = 32599
+    elseif _I00OOIOl == 101840 then local _II0lIO = 0.7530417776637711 _I00OOIOl = 45380
+    elseif _I00OOIOl == 98978 then local _lOlIlO = 0.6489423178555739 _I00OOIOl = 48451
+    elseif _I00OOIOl == 48750 then _IlOOOlO0Ol[((473 + 562 + 315) - 562 - 315)] = "Backpack"; _I00OOIOl = 17574
+    elseif _I00OOIOl == 35599 then _IlOOOlO0Ol[((403 + 347 + 348) - 347 - 348)] = 0.4; _I00OOIOl = 23388
+    elseif _I00OOIOl == 67134 then local _l0ll0O = 0.6802262520263791 _I00OOIOl = 31512
+    elseif _I00OOIOl == 4070 then _IlOOOlO0Ol[((467 + 253 + 677) - 253 - 677)] = 15; _I00OOIOl = 22668
+    elseif _I00OOIOl == 94117 then local _I0O0l0 = 0.023241877827853807 _I00OOIOl = 50121
+    elseif _I00OOIOl == 62938 then local _II0I0O = 0.9029726244148681 _I00OOIOl = 26648
+    elseif _I00OOIOl == 25218 then _IlOOOlO0Ol[((708 + 384 + 45) - 384 - 45)] = 0.9; _I00OOIOl = 6515
+    elseif _I00OOIOl == 22177 then _IlOOOlO0Ol[((800 + 99 + 604) - 99 - 604)] = "PocketDim"; _I00OOIOl = 28370
+    elseif _I00OOIOl == 36105 then _IlOOOlO0Ol[((432 + 745 + 758) - 745 - 758)] = 0.55; _I00OOIOl = 13336
+    elseif _I00OOIOl == 46979 then _IlOOOlO0Ol[((659 + 104 + 48) - 104 - 48)] = 0; _I00OOIOl = 30360
+    elseif _I00OOIOl == 38257 then _IlOOOlO0Ol[((387 + 534 + 188) - 534 - 188)] = "Измерение [V]"; _I00OOIOl = 49265
+    elseif _I00OOIOl == 33298 then _IlOOOlO0Ol[((799 + 802 + 726) - 802 - 726)] = "GameMap"; _I00OOIOl = 22177
+    elseif _I00OOIOl == 18801 then _IlOOOlO0Ol[((459 + 558 + 665) - 558 - 665)] = 0.3; _I00OOIOl = 20001
+    elseif _I00OOIOl == 81676 then local _lO0lll = 0.993700778036348 _I00OOIOl = 35021
+    elseif _I00OOIOl == 81955 then local _Illl0O = 0.0826449675451526 _I00OOIOl = 31693
+    elseif _I00OOIOl == 67268 then local _IOII00 = 0.5410214624470626 _I00OOIOl = 23034
+    elseif _I00OOIOl == 11660 then _IlOOOlO0Ol[((441 + 964 + 536) - 964 - 536)] = "WeldConstraint"; _I00OOIOl = 3327
+    elseif _I00OOIOl == 42979 then _IlOOOlO0Ol[((915 + 494 + 86) - 494 - 86)] = "ImageLabel"; _I00OOIOl = 22334
+    elseif _I00OOIOl == 21458 then _IlOOOlO0Ol[((617 + 111 + 432) - 111 - 432)] = 1; _I00OOIOl = 35021
+    elseif _I00OOIOl == 106910 then local _ll0OOl = 0.8854470580291078 _I00OOIOl = 1481
+    elseif _I00OOIOl == 2664 then _IlOOOlO0Ol[((810 + 271 + 611) - 271 - 611)] = "–"; _I00OOIOl = 21068
+    elseif _I00OOIOl == 23325 then _IlOOOlO0Ol[((624 + 929 + 81) - 929 - 81)] = 30; _I00OOIOl = 40585
+    elseif _I00OOIOl == 75398 then local _l0IlI0 = 0.652618106886714 _I00OOIOl = 32683
+    elseif _I00OOIOl == 91240 then local _lOIIII = 0.3878298704503068 _I00OOIOl = 50190
+    elseif _I00OOIOl == 42012 then _IlOOOlO0Ol[((587 + 361 + 891) - 361 - 891)] = 1; _I00OOIOl = 6059
+    elseif _I00OOIOl == 1479 then _IlOOOlO0Ol[((586 + 983 + 43) - 983 - 43)] = 1; _I00OOIOl = 42012
+    elseif _I00OOIOl == 69213 then local _lllllO = 0.7226133640354646 _I00OOIOl = 19335
+    elseif _I00OOIOl == 19674 then _IlOOOlO0Ol[((582 + 372 + 757) - 372 - 757)] = 10; _I00OOIOl = 31260
+    elseif _I00OOIOl == 109116 then local _IOOIOI = 0.07165086235279727 _I00OOIOl = 36195
+    elseif _I00OOIOl == 18919 then _IlOOOlO0Ol[((839 + 347 + 992) - 347 - 992)] = 0.1; _I00OOIOl = 4276
+    elseif _I00OOIOl == 71145 then local _lI0OlI = 0.04186804376367981 _I00OOIOl = 4713
+    elseif _I00OOIOl == 22143 then _IlOOOlO0Ol[((385 + 704 + 394) - 704 - 394)] = "Лобби [X]"; _I00OOIOl = 28489
+    elseif _I00OOIOl == 6059 then _IlOOOlO0Ol[((588 + 977 + 459) - 977 - 459)] = 1; _I00OOIOl = 45280
+    elseif _I00OOIOl == 32431 then _IlOOOlO0Ol[((854 + 483 + 512) - 483 - 512)] = 1; _I00OOIOl = 30915
+    elseif _I00OOIOl == 85226 then local _lOlI0l = 0.13488817812501386 _I00OOIOl = 21068
+    elseif _I00OOIOl == 75773 then local _l0lOOO = 0.031677318811348054 _I00OOIOl = 44835
+    elseif _I00OOIOl == 37490 then _IlOOOlO0Ol[((574 + 468 + 576) - 468 - 576)] = 25; _I00OOIOl = 19867
+    elseif _I00OOIOl == 37542 then _IlOOOlO0Ol[((487 + 678 + 320) - 678 - 320)] = 1; _I00OOIOl = 33204
+    elseif _I00OOIOl == 60387 then local _l0Olll = 0.3888241985939366 _I00OOIOl = 26671
+    elseif _I00OOIOl == 42824 then _IlOOOlO0Ol[((471 + 67 + 950) - 67 - 950)] = "rbxassetid://756847338"; _I00OOIOl = 41174
+    elseif _I00OOIOl == 28328 then _IlOOOlO0Ol[((485 + 62 + 440) - 62 - 440)] = 1; _I00OOIOl = 9045
+    elseif _I00OOIOl == 37308 then _IlOOOlO0Ol[((842 + 827 + 326) - 827 - 326)] = 0; _I00OOIOl = 3425
+    elseif _I00OOIOl == 88754 then local _IlOIll = 0.13192879949995728 _I00OOIOl = 40622
+    elseif _I00OOIOl == 71458 then local _IIOOI0 = 0.5173983736437172 _I00OOIOl = 37898
+    elseif _I00OOIOl == 20448 then _IlOOOlO0Ol[((555 + 474 + 234) - 474 - 234)] = 0; _I00OOIOl = 47651
+    elseif _I00OOIOl == 32683 then _IlOOOlO0Ol[((540 + 559 + 552) - 559 - 552)] = 1; _I00OOIOl = 21281
+    elseif _I00OOIOl == 16934 then _IlOOOlO0Ol[((478 + 905 + 742) - 905 - 742)] = "CoreGui"; _I00OOIOl = 34670
+    elseif _I00OOIOl == 28977 then _IlOOOlO0Ol[((523 + 808 + 876) - 808 - 876)] = 1; _I00OOIOl = 20393
+    elseif _I00OOIOl == 27283 then _IlOOOlO0Ol[((939 + 998 + 801) - 998 - 801)] = 15; _I00OOIOl = 37156
+    elseif _I00OOIOl == 60361 then local _l00lOI = 0.7166207356865371 _I00OOIOl = 30360
+    elseif _I00OOIOl == 103804 then local _l0lIII = 0.12670556434854585 _I00OOIOl = 35599
+    elseif _I00OOIOl == 47747 then _IlOOOlO0Ol[((572 + 264 + 316) - 264 - 316)] = 20; _I00OOIOl = 31365
+    elseif _I00OOIOl == 102034 then local _l0OIOl = 0.07718582601305557 _I00OOIOl = 15523
+    elseif _I00OOIOl == 66611 then local _lOI0Il = 0.3787111161670573 _I00OOIOl = 28470
+    elseif _I00OOIOl == 22046 then _IlOOOlO0Ol[((435 + 133 + 173) - 133 - 173)] = 25; _I00OOIOl = 45915
+    elseif _I00OOIOl == 62248 then local _lIOlI0 = 0.9398008441835298 _I00OOIOl = 42464
+    elseif _I00OOIOl == 13956 then _IlOOOlO0Ol[((917 + 210 + 326) - 210 - 326)] = 1; _I00OOIOl = 28201
+    elseif _I00OOIOl == 43320 then _IlOOOlO0Ol[((431 + 815 + 346) - 815 - 346)] = "FrontFace"; _I00OOIOl = 36105
+    elseif _I00OOIOl == 48516 then _IlOOOlO0Ol[((607 + 275 + 708) - 275 - 708)] = 30; _I00OOIOl = 12231
+    elseif _I00OOIOl == 47576 then _IlOOOlO0Ol[((647 + 865 + 994) - 865 - 994)] = 0.9; _I00OOIOl = 37898
+    elseif _I00OOIOl == 19245 then _IlOOOlO0Ol[((876 + 729 + 580) - 729 - 580)] = 0; _I00OOIOl = 31512
+    elseif _I00OOIOl == 12297 then _IlOOOlO0Ol[((890 + 572 + 607) - 572 - 607)] = 1; _I00OOIOl = 11248
+    elseif _I00OOIOl == 33733 then _IlOOOlO0Ol[((453 + 926 + 527) - 926 - 527)] = 0.12; _I00OOIOl = 25706
+    elseif _I00OOIOl == 37244 then _IlOOOlO0Ol[((434 + 89 + 713) - 89 - 713)] = 0.05; _I00OOIOl = 22046
+    elseif _I00OOIOl == 87207 then local _IIII0I = 0.847585286773937 _I00OOIOl = 11197
+    elseif _I00OOIOl == 36690 then _IlOOOlO0Ol[((665 + 658 + 951) - 658 - 951)] = 0; _I00OOIOl = 22588
+    elseif _I00OOIOl == 23388 then _IlOOOlO0Ol[((404 + 249 + 900) - 249 - 900)] = 120; _I00OOIOl = 28541
+    elseif _I00OOIOl == 48523 then _IlOOOlO0Ol[((394 + 127 + 666) - 127 - 666)] = 0; _I00OOIOl = 4966
+    elseif _I00OOIOl == 8101 then _IlOOOlO0Ol[((937 + 286 + 646) - 286 - 646)] = 0.02; _I00OOIOl = 40255
+    elseif _I00OOIOl == 36967 then _IlOOOlO0Ol[((929 + 696 + 424) - 696 - 424)] = "rbxassetid://10408727838"; _I00OOIOl = 31964
+    elseif _I00OOIOl == 96982 then local _lI0Ol0 = 0.7708057926682793 _I00OOIOl = 33204
+    elseif _I00OOIOl == 8721 then _IlOOOlO0Ol[((357 + 578 + 802) - 578 - 802)] = 215; _I00OOIOl = 24966
+    elseif _I00OOIOl == 100421 then local _IlIllO = 0.03441831054188904 _I00OOIOl = 3327
+    elseif _I00OOIOl == 16356 then _IlOOOlO0Ol[((942 + 622 + 264) - 622 - 264)] = 0; _I00OOIOl = 20960
+    elseif _I00OOIOl == 87927 then local _lIIOlI = 0.5174004622949292 _I00OOIOl = 5672
+    elseif _I00OOIOl == 29957 then _IlOOOlO0Ol[((347 + 146 + 620) - 146 - 620)] = "Players"; _I00OOIOl = 11806
+    elseif _I00OOIOl == 92924 then local _Il0IO0 = 0.5670863644636753 _I00OOIOl = 8449
+    elseif _I00OOIOl == 4713 then _IlOOOlO0Ol[((426 + 935 + 168) - 935 - 168)] = 0; _I00OOIOl = 5312
+    elseif _I00OOIOl == 100763 then local _IlII0I = 0.006036534646397418 _I00OOIOl = 37764
+    elseif _I00OOIOl == 22089 then _IlOOOlO0Ol[((375 + 863 + 37) - 863 - 37)] = "Режим: "; _I00OOIOl = 1670
+    elseif _I00OOIOl == 31672 then _IlOOOlO0Ol[((409 + 369 + 957) - 369 - 957)] = 0.8; _I00OOIOl = 50790
+    elseif _I00OOIOl == 49206 then _IlOOOlO0Ol[((401 + 608 + 555) - 608 - 555)] = 0.3; _I00OOIOl = 11910
+    elseif _I00OOIOl == 11435 then _IlOOOlO0Ol[((368 + 17 + 375) - 17 - 375)] = "Language: English 🇺🇸"; _I00OOIOl = 47163
+    elseif _I00OOIOl == 72639 then local _IIII0O = 0.13643763472030979 _I00OOIOl = 19335
+    elseif _I00OOIOl == 65117 then local _lOlOl0 = 0.1785705164656115 _I00OOIOl = 38662
+    elseif _I00OOIOl == 9045 then _IlOOOlO0Ol[((486 + 460 + 8) - 460 - 8)] = 1; _I00OOIOl = 37542
+    elseif _I00OOIOl == 64994 then local _I0llIl = 0.04854881812919565 _I00OOIOl = 8200
+    elseif _I00OOIOl == 11164 then _IlOOOlO0Ol[((509 + 721 + 855) - 721 - 855)] = 25; _I00OOIOl = 38546
+    elseif _I00OOIOl == 96560 then local _l00O0l = 0.036661410413658446 _I00OOIOl = 25218
+    elseif _I00OOIOl == 6057 then _IlOOOlO0Ol[((834 + 399 + 79) - 399 - 79)] = 2; _I00OOIOl = 6758
+    elseif _I00OOIOl == 68744 then local _IOIlIl = 0.5843619405004613 _I00OOIOl = 40042
+    elseif _I00OOIOl == 100172 then local _I00II0 = 0.9574151279867499 _I00OOIOl = 23271
+    elseif _I00OOIOl == 16471 then _IlOOOlO0Ol[((638 + 77 + 120) - 77 - 120)] = 0; _I00OOIOl = 1426
+    elseif _I00OOIOl == 62350 then local _l000lI = 0.12048398252290127 _I00OOIOl = 18919
+    elseif _I00OOIOl == 86957 then local _l0I0Ol = 0.7734937582985492 _I00OOIOl = 35809
+    elseif _I00OOIOl == 16940 then _IlOOOlO0Ol[((449 + 178 + 207) - 178 - 207)] = 2; _I00OOIOl = 33803
+    elseif _I00OOIOl == 69106 then local _IIOll0 = 0.8018334170506548 _I00OOIOl = 16592
+    elseif _I00OOIOl == 22588 then _IlOOOlO0Ol[((666 + 419 + 680) - 419 - 680)] = 1; _I00OOIOl = 8478
+    elseif _I00OOIOl == 82291 then local _lII0lI = 0.6306664397343462 _I00OOIOl = 6057
+    elseif _I00OOIOl == 7286 then _IlOOOlO0Ol[((456 + 992 + 728) - 992 - 728)] = "ParticleEmitter"; _I00OOIOl = 1798
+    elseif _I00OOIOl == 20953 then _IlOOOlO0Ol[((490 + 80 + 701) - 80 - 701)] = "Yellow"; _I00OOIOl = 28703
+    elseif _I00OOIOl == 31592 then _IlOOOlO0Ol[((355 + 456 + 871) - 456 - 871)] = 20; _I00OOIOl = 46826
+    elseif _I00OOIOl == 20001 then _IlOOOlO0Ol[((460 + 566 + 249) - 566 - 249)] = 1; _I00OOIOl = 18828
+    elseif _I00OOIOl == 19335 then _IlOOOlO0Ol[((581 + 21 + 72) - 21 - 72)] = 0; _I00OOIOl = 19674
+    elseif _I00OOIOl == 23885 then _IlOOOlO0Ol[((430 + 700 + 905) - 700 - 905)] = "Part"; _I00OOIOl = 43320
+    elseif _I00OOIOl == 27499 then _IlOOOlO0Ol[((649 + 361 + 618) - 361 - 618)] = 0; _I00OOIOl = 31372
+    elseif _I00OOIOl == 23802 then _IlOOOlO0Ol[((423 + 101 + 630) - 101 - 630)] = 0; _I00OOIOl = 12541
+    elseif _I00OOIOl == 16562 then _IlOOOlO0Ol[((837 + 149 + 817) - 149 - 817)] = 3.5; _I00OOIOl = 7247
+    elseif _I00OOIOl == 34691 then _IlOOOlO0Ol[((408 + 318 + 460) - 318 - 460)] = 0.6; _I00OOIOl = 31672
+    elseif _I00OOIOl == 24134 then _IlOOOlO0Ol[((867 + 454 + 396) - 454 - 396)] = 122; _I00OOIOl = 14665
+    elseif _I00OOIOl == 19263 then _IlOOOlO0Ol[((922 + 854 + 524) - 854 - 524)] = 0; _I00OOIOl = 49852
+    elseif _I00OOIOl == 26899 then _IlOOOlO0Ol[((620 + 778 + 265) - 778 - 265)] = "Frame"; _I00OOIOl = 34503
+    elseif _I00OOIOl == 48616 then _IlOOOlO0Ol[((798 + 323 + 81) - 323 - 81)] = "LobbyMap"; _I00OOIOl = 33298
+    elseif _I00OOIOl == 3425 then _IlOOOlO0Ol[((843 + 39 + 131) - 39 - 131)] = 0; _I00OOIOl = 24488
+    elseif _I00OOIOl == 80334 then local _IOO0I0 = 0.602226889030375 _I00OOIOl = 38546
+    elseif _I00OOIOl == 28935 then _IlOOOlO0Ol[((669 + 713 + 195) - 713 - 195)] = 1; _I00OOIOl = 15744
+    elseif _I00OOIOl == 5818 then _IlOOOlO0Ol[((664 + 825 + 609) - 825 - 609)] = 0; _I00OOIOl = 36690
+    elseif _I00OOIOl == 3024 then _IlOOOlO0Ol[((597 + 593 + 907) - 593 - 907)] = 0; _I00OOIOl = 31665
+    elseif _I00OOIOl == 18014 then _IlOOOlO0Ol[((683 + 949 + 702) - 949 - 702)] = 1; _I00OOIOl = 45294
+    elseif _I00OOIOl == 49419 then _IlOOOlO0Ol[((630 + 66 + 29) - 66 - 29)] = "UIListLayout"; _I00OOIOl = 26346
+    elseif _I00OOIOl == 13839 then _IlOOOlO0Ol[((448 + 452 + 770) - 452 - 770)] = 0; _I00OOIOl = 16940
+    elseif _I00OOIOl == 17167 then _IlOOOlO0Ol[((378 + 475 + 243) - 475 - 243)] = "Цвет: Зелёный (Rick)"; _I00OOIOl = 7429
+    elseif _I00OOIOl == 91358 then local _IlO0OI = 0.30010957774176794 _I00OOIOl = 44056
+    elseif _I00OOIOl == 60176 then local _l00llO = 0.03418973278960591 _I00OOIOl = 20073
+    elseif _I00OOIOl == 31260 then _IlOOOlO0Ol[((583 + 281 + 10) - 281 - 10)] = 0; _I00OOIOl = 40041
+    elseif _I00OOIOl == 102450 then local _I0l0Ol = 0.6352577911996983 _I00OOIOl = 45378
+    elseif _I00OOIOl == 8720 then _IlOOOlO0Ol[((850 + 804 + 862) - 804 - 862)] = 0; _I00OOIOl = 23667
+    elseif _I00OOIOl == 36519 then _IlOOOlO0Ol[((730 + 5 + 622) - 5 - 622)] = 1; _I00OOIOl = 48458
+    elseif _I00OOIOl == 5672 then _IlOOOlO0Ol[((382 + 96 + 540) - 96 - 540)] = "Язык: Русский 🇷🇺"; _I00OOIOl = 41351
+    elseif _I00OOIOl == 2537 then _IlOOOlO0Ol[((849 + 617 + 268) - 617 - 268)] = 0; _I00OOIOl = 8720
+    elseif _I00OOIOl == 102703 then local _l0IIIO = 0.7974063487414178 _I00OOIOl = 37244
+    elseif _I00OOIOl == 24634 then _IlOOOlO0Ol[((565 + 572 + 737) - 572 - 737)] = 0; _I00OOIOl = 42436
+    elseif _I00OOIOl == 18270 then _IlOOOlO0Ol[((481 + 342 + 42) - 342 - 42)] = 1; _I00OOIOl = 24021
+    elseif _I00OOIOl == 1553 then _IlOOOlO0Ol[((533 + 235 + 516) - 235 - 516)] = 15; _I00OOIOl = 29008
+    elseif _I00OOIOl == 19821 then _IlOOOlO0Ol[((658 + 96 + 407) - 96 - 407)] = 0.65; _I00OOIOl = 46979
+    elseif _I00OOIOl == 35577 then _IlOOOlO0Ol[((396 + 272 + 461) - 272 - 461)] = 0; _I00OOIOl = 37390
+    elseif _I00OOIOl == 45280 then _IlOOOlO0Ol[((589 + 628 + 97) - 628 - 97)] = 12; _I00OOIOl = 43009
+    elseif _I00OOIOl == 82415 then local _IOll00 = 0.48441555016092563 _I00OOIOl = 4622
+    elseif _I00OOIOl == 11256 then _IlOOOlO0Ol[((714 + 920 + 230) - 920 - 230)] = 60; _I00OOIOl = 10573
+    elseif _I00OOIOl == 18114 then _IlOOOlO0Ol[((502 + 697 + 331) - 697 - 331)] = 0; _I00OOIOl = 4291
+    elseif _I00OOIOl == 70653 then local _lO0I0I = 0.48352534924433077 _I00OOIOl = 41351
+    elseif _I00OOIOl == 30360 then _IlOOOlO0Ol[((660 + 516 + 27) - 516 - 27)] = 1; _I00OOIOl = 2665
+    elseif _I00OOIOl == 6758 then _IlOOOlO0Ol[((835 + 259 + 528) - 259 - 528)] = 1; _I00OOIOl = 34081
+    elseif _I00OOIOl == 43009 then _IlOOOlO0Ol[((590 + 784 + 535) - 784 - 535)] = "TextButton"; _I00OOIOl = 33772
+    elseif _I00OOIOl == 44435 then _IlOOOlO0Ol[((818 + 417 + 943) - 417 - 943)] = 0.4; _I00OOIOl = 41072
+    elseif _I00OOIOl == 18828 then _IlOOOlO0Ol[((461 + 766 + 180) - 766 - 180)] = 0; _I00OOIOl = 35005
+    elseif _I00OOIOl == 11205 then _IlOOOlO0Ol[((512 + 964 + 583) - 964 - 583)] = 7.5; _I00OOIOl = 40873
+    elseif _I00OOIOl == 65820 then local _llI0O0 = 0.8226390957997021 _I00OOIOl = 2665
+    elseif _I00OOIOl == 22853 then _IlOOOlO0Ol[((820 + 939 + 861) - 939 - 861)] = 200; _I00OOIOl = 42830
+    elseif _I00OOIOl == 44777 then _IlOOOlO0Ol[((728 + 431 + 423) - 431 - 423)] = 50; _I00OOIOl = 4622
+    elseif _I00OOIOl == 108668 then local _I00llI = 0.8129605771022881 _I00OOIOl = 19959
+    elseif _I00OOIOl == 24084 then _IlOOOlO0Ol[((546 + 676 + 17) - 676 - 17)] = "PortalGunGui"; _I00OOIOl = 11737
+    elseif _I00OOIOl == 63846 then local _I0IOl0 = 0.5289420020119088 _I00OOIOl = 17875
+    elseif _I00OOIOl == 25217 then _IlOOOlO0Ol[((445 + 577 + 915) - 577 - 915)] = 0.22; _I00OOIOl = 23436
+    elseif _I00OOIOl == 68242 then local _IlOOI0 = 0.5732007112075571 _I00OOIOl = 31693
+    elseif _I00OOIOl == 88307 then local _lOOIll = 0.6176720238268107 _I00OOIOl = 41825
+    elseif _I00OOIOl == 77673 then local _ll0llI = 0.9913879138999065 _I00OOIOl = 3327
+    elseif _I00OOIOl == 50790 then _IlOOOlO0Ol[((410 + 945 + 912) - 945 - 912)] = 1.3; _I00OOIOl = 39134
+    elseif _I00OOIOl == 32651 then _IlOOOlO0Ol[((711 + 336 + 268) - 336 - 268)] = 30; _I00OOIOl = 50121
+    elseif _I00OOIOl == 70440 then local _IOOlIl = 0.6476012275341915 _I00OOIOl = 23034
+    elseif _I00OOIOl == 4184 then _IlOOOlO0Ol[((912 + 961 + 167) - 961 - 167)] = "PointLight"; _I00OOIOl = 3582
+    elseif _I00OOIOl == 40622 then _IlOOOlO0Ol[((372 + 588 + 165) - 588 - 165)] = "Game [C]"; _I00OOIOl = 20025
+    elseif _I00OOIOl == 21499 then _IlOOOlO0Ol[((733 + 218 + 597) - 218 - 597)] = 11; _I00OOIOl = 11566
+    elseif _I00OOIOl == 34121 then _IlOOOlO0Ol[((824 + 787 + 261) - 787 - 261)] = 360; _I00OOIOl = 38662
+    elseif _I00OOIOl == 92086 then local _l0OllO = 0.7170221647572281 _I00OOIOl = 19237
+    elseif _I00OOIOl == 43972 then _IlOOOlO0Ol[((671 + 244 + 396) - 244 - 396)] = "TextBox"; _I00OOIOl = 30213
+    elseif _I00OOIOl == 47583 then _IlOOOlO0Ol[((657 + 190 + 232) - 190 - 232)] = "TextLabel"; _I00OOIOl = 19821
+    elseif _I00OOIOl == 31316 then _IlOOOlO0Ol[((738 + 592 + 318) - 592 - 318)] = 0.9; _I00OOIOl = 31570
+    elseif _I00OOIOl == 26325 then _IlOOOlO0Ol[((830 + 271 + 162) - 271 - 162)] = "Normal"; _I00OOIOl = 14402
+    elseif _I00OOIOl == 84802 then local _I0OO0O = 0.0449857519119361 _I00OOIOl = 27153
+    elseif _I00OOIOl == 7429 then _IlOOOlO0Ol[((379 + 116 + 825) - 116 - 825)] = "Цвет: Жёлтый (Evil Morty)"; _I00OOIOl = 17160
+    elseif _I00OOIOl == 43513 then _IlOOOlO0Ol[((892 + 990 + 922) - 990 - 922)] = 0.99; _I00OOIOl = 41572
+    elseif _I00OOIOl == 31693 then _IlOOOlO0Ol[((680 + 130 + 76) - 130 - 76)] = 60; _I00OOIOl = 50813
+    elseif _I00OOIOl == 22052 then _IlOOOlO0Ol[((693 + 770 + 235) - 770 - 235)] = 0.9; _I00OOIOl = 48228
+    elseif _I00OOIOl == 88594 then local _l00l0O = 0.12045360849989095 _I00OOIOl = 44200
+    elseif _I00OOIOl == 44837 then _IlOOOlO0Ol[((872 + 230 + 19) - 230 - 19)] = 0.01; _I00OOIOl = 35388
+    elseif _I00OOIOl == 13961 then _IlOOOlO0Ol[((721 + 42 + 423) - 42 - 423)] = 6; _I00OOIOl = 27902
+    elseif _I00OOIOl == 102086 then local _IIII0l = 0.11719036901719049 _I00OOIOl = 40114
+    elseif _I00OOIOl == 45378 then _IlOOOlO0Ol[((642 + 479 + 777) - 479 - 777)] = 1; _I00OOIOl = 49804
+    elseif _I00OOIOl == 1120 then _IlOOOlO0Ol[((475 + 168 + 152) - 168 - 152)] = 0.5; _I00OOIOl = 21480
+    elseif _I00OOIOl == 38264 then _IlOOOlO0Ol[((674 + 256 + 624) - 256 - 624)] = 0.75; _I00OOIOl = 3226
+    elseif _I00OOIOl == 22393 then _IlOOOlO0Ol[((577 + 180 + 565) - 180 - 565)] = 1; _I00OOIOl = 17492
+    elseif _I00OOIOl == 20795 then _IlOOOlO0Ol[((727 + 382 + 316) - 382 - 316)] = 50; _I00OOIOl = 44777
+    elseif _I00OOIOl == 15395 then _IlOOOlO0Ol[((691 + 854 + 895) - 854 - 895)] = 14; _I00OOIOl = 2439
+    elseif _I00OOIOl == 7357 then _IlOOOlO0Ol[((717 + 114 + 189) - 114 - 189)] = 1; _I00OOIOl = 44661
+    elseif _I00OOIOl == 18244 then _IlOOOlO0Ol[((904 + 581 + 500) - 581 - 500)] = 1; _I00OOIOl = 37764
+    elseif _I00OOIOl == 88322 then local _IIlllI = 0.3758917207668898 _I00OOIOl = 21480
+    elseif _I00OOIOl == 35021 then _IlOOOlO0Ol[((618 + 978 + 578) - 978 - 578)] = 1; _I00OOIOl = 47695
+    elseif _I00OOIOl == 47160 then _IlOOOlO0Ol[((869 + 211 + 640) - 211 - 640)] = 15; _I00OOIOl = 8660
+    elseif _I00OOIOl == 61163 then local _IIOOll = 0.12722649940735709 _I00OOIOl = 8721
+    elseif _I00OOIOl == 87464 then local _lII0lO = 0.3627652325474571 _I00OOIOl = 33733
+    elseif _I00OOIOl == 15337 then _IlOOOlO0Ol[((668 + 301 + 270) - 301 - 270)] = 1; _I00OOIOl = 28935
+    elseif _I00OOIOl == 107362 then local _lIIl0O = 0.9048926624625725 _I00OOIOl = 44056
+    elseif _I00OOIOl == 79822 then local _lIOOO0 = 0.8421548164933776 _I00OOIOl = 35577
+    elseif _I00OOIOl == 82637 then local _IOO00I = 0.21237331722084685 _I00OOIOl = 38264
+    elseif _I00OOIOl == 36865 then _IlOOOlO0Ol[((492 + 92 + 468) - 92 - 468)] = 245; _I00OOIOl = 26423
+    elseif _I00OOIOl == 25936 then _IlOOOlO0Ol[((350 + 692 + 339) - 692 - 339)] = "RunService"; _I00OOIOl = 14250
+    elseif _I00OOIOl == 32525 then _IlOOOlO0Ol[((452 + 541 + 600) - 541 - 600)] = 0.12; _I00OOIOl = 33733
+    elseif _I00OOIOl == 80499 then local _II0lOI = 0.025807089575649256 _I00OOIOl = 1369
+    elseif _I00OOIOl == 26671 then _IlOOOlO0Ol[((655 + 461 + 817) - 461 - 817)] = 0; _I00OOIOl = 44373
+    elseif _I00OOIOl == 41101 then _IlOOOlO0Ol[((364 + 601 + 154) - 601 - 154)] = "Color: Green (Ricks)"; _I00OOIOl = 50850
+    elseif _I00OOIOl == 28470 then _IlOOOlO0Ol[((906 + 535 + 394) - 535 - 394)] = "Part"; _I00OOIOl = 15407
+    elseif _I00OOIOl == 76677 then local _I0IOIO = 0.5076808722842697 _I00OOIOl = 15337
+    elseif _I00OOIOl == 76690 then local _IIll0O = 0.9435008790925756 _I00OOIOl = 35599
+    elseif _I00OOIOl == 26543 then _IlOOOlO0Ol[((933 + 594 + 461) - 594 - 461)] = 255; _I00OOIOl = 48766
+    elseif _I00OOIOl == 84022 then local _IlIOOI = 0.06635323136391691 _I00OOIOl = 47460
+    elseif _I00OOIOl == 19717 then _IlOOOlO0Ol[((719 + 589 + 954) - 589 - 954)] = "UICorner"; _I00OOIOl = 35250
+    elseif _I00OOIOl == 94180 then local _I0l0I0 = 0.839146509349036 _I00OOIOl = 22089
+    elseif _I00OOIOl == 41825 then _IlOOOlO0Ol[((878 + 415 + 688) - 415 - 688)] = 0; _I00OOIOl = 35809
+    elseif _I00OOIOl == 11331 then _IlOOOlO0Ol[((568 + 711 + 117) - 711 - 117)] = 1; _I00OOIOl = 1642
+    elseif _I00OOIOl == 23712 then _IlOOOlO0Ol[((636 + 28 + 993) - 28 - 993)] = 1; _I00OOIOl = 43072
+    elseif _I00OOIOl == 1115 then _IlOOOlO0Ol[((374 + 351 + 326) - 351 - 326)] = "Follow [F]"; _I00OOIOl = 22089
+    elseif _I00OOIOl == 26330 then _IlOOOlO0Ol[((480 + 137 + 142) - 137 - 142)] = "Frame"; _I00OOIOl = 18270
+    elseif _I00OOIOl == 45380 then _IlOOOlO0Ol[((859 + 174 + 246) - 174 - 246)] = "Steps"; _I00OOIOl = 35821
+    elseif _I00OOIOl == 49671 then _IlOOOlO0Ol[((641 + 416 + 342) - 416 - 342)] = 30; _I00OOIOl = 45378
+    elseif _I00OOIOl == 7208 then _IlOOOlO0Ol[((494 + 427 + 933) - 427 - 933)] = 200; _I00OOIOl = 35825
+    elseif _I00OOIOl == 9890 then _IlOOOlO0Ol[((945 + 32 + 260) - 32 - 260)] = 2; _I00OOIOl = 6601
+    elseif _I00OOIOl == 35817 then _IlOOOlO0Ol[((633 + 216 + 411) - 216 - 411)] = "Frame"; _I00OOIOl = 1083
+    elseif _I00OOIOl == 68641 then local _I0lllI = 0.7215195130603999 _I00OOIOl = 34121
+    elseif _I00OOIOl == 109651 then local _Il0lOI = 0.6757479864683568 _I00OOIOl = 50889
+    elseif _I00OOIOl == 73214 then local _IIllO0 = 0.7788873278423507 _I00OOIOl = 34322
+    elseif _I00OOIOl == 50660 then _IlOOOlO0Ol[((538 + 786 + 855) - 786 - 855)] = "PointLight"; _I00OOIOl = 47521
+    elseif _I00OOIOl == 106971 then local _II00I0 = 0.6120217397644752 _I00OOIOl = 22853
+    elseif _I00OOIOl == 48158 then _IlOOOlO0Ol[((522 + 719 + 516) - 719 - 516)] = 0; _I00OOIOl = 28977
+    elseif _I00OOIOl == 35005 then _IlOOOlO0Ol[((462 + 252 + 491) - 252 - 491)] = "rbxassetid://243660364"; _I00OOIOl = 45538
+    elseif _I00OOIOl == 44872 then _IlOOOlO0Ol[((935 + 101 + 237) - 101 - 237)] = 3; _I00OOIOl = 31468
+    elseif _I00OOIOl == 45538 then _IlOOOlO0Ol[((463 + 972 + 339) - 972 - 339)] = 0.2; _I00OOIOl = 4387
+    elseif _I00OOIOl == 108425 then local _I0I0Ol = 0.12835522647978947 _I00OOIOl = 17340
+    elseif _I00OOIOl == 90306 then local _IlIO0O = 0.36623969185234106 _I00OOIOl = 38264
+    elseif _I00OOIOl == 80214 then local _l0Il0l = 0.6692645558851864 _I00OOIOl = 14665
+    elseif _I00OOIOl == 77410 then local _lII0I0 = 0.34961649877542 _I00OOIOl = 44777
+    elseif _I00OOIOl == 76488 then local _lIllII = 0.8392144493269562 _I00OOIOl = 24979
+    elseif _I00OOIOl == 28054 then _IlOOOlO0Ol[((579 + 551 + 841) - 551 - 841)] = 1; _I00OOIOl = 14784
+    elseif _I00OOIOl == 82207 then local _l000Ol = 0.12914497444397854 _I00OOIOl = 44777
+    elseif _I00OOIOl == 45915 then _IlOOOlO0Ol[((436 + 931 + 430) - 931 - 430)] = 25; _I00OOIOl = 44191
+    elseif _I00OOIOl == 92342 then local _IOOlll = 0.7555420195895137 _I00OOIOl = 12548
+    elseif _I00OOIOl == 25706 then _IlOOOlO0Ol[((454 + 529 + 536) - 529 - 536)] = 0.025; _I00OOIOl = 38346
+    elseif _I00OOIOl == 45701 then _IlOOOlO0Ol[((735 + 570 + 446) - 570 - 446)] = 0; _I00OOIOl = 8430
+    elseif _I00OOIOl == 109058 then local _IlI0Il = 0.536779592951074 _I00OOIOl = 38073
+    elseif _I00OOIOl == 66706 then local _I0IOl0 = 0.6347767178556246 _I00OOIOl = 42464
+    elseif _I00OOIOl == 5984 then _IlOOOlO0Ol[((354 + 961 + 835) - 961 - 835)] = 255; _I00OOIOl = 31592
+    elseif _I00OOIOl == 11197 then _IlOOOlO0Ol[((422 + 982 + 763) - 982 - 763)] = 0.45; _I00OOIOl = 23802
+    elseif _I00OOIOl == 6036 then _IlOOOlO0Ol[((644 + 957 + 405) - 957 - 405)] = 0; _I00OOIOl = 43196
+    elseif _I00OOIOl == 73085 then local _II0I00 = 0.31849203019382843 _I00OOIOl = 23667
+    elseif _I00OOIOl == 100167 then local _IOIOOO = 0.8682726141311983 _I00OOIOl = 1120
+    elseif _I00OOIOl == 44466 then _IlOOOlO0Ol[((525 + 113 + 576) - 113 - 576)] = 2; _I00OOIOl = 42064
+    elseif _I00OOIOl == 48451 then _IlOOOlO0Ol[((804 + 307 + 283) - 307 - 283)] = 0; _I00OOIOl = 3114
+    elseif _I00OOIOl == 91591 then local _IO00II = 0.8483748481166926 _I00OOIOl = 27603
+    elseif _I00OOIOl == 33679 then _IlOOOlO0Ol[((699 + 36 + 849) - 36 - 849)] = 60; _I00OOIOl = 10803
+    elseif _I00OOIOl == 8257 then _IlOOOlO0Ol[((902 + 843 + 78) - 843 - 78)] = 15; _I00OOIOl = 18349
+    elseif _I00OOIOl == 13220 then _IlOOOlO0Ol[((702 + 673 + 49) - 673 - 49)] = 1; _I00OOIOl = 45922
+    elseif _I00OOIOl == 101943 then local _IllO0O = 0.9508052092700349 _I00OOIOl = 44373
+    elseif _I00OOIOl == 84779 then local _l00O0I = 0.17587683632330198 _I00OOIOl = 47163
+    elseif _I00OOIOl == 37624 then _IlOOOlO0Ol[((885 + 932 + 377) - 932 - 377)] = 1.5; _I00OOIOl = 35245
+    elseif _I00OOIOl == 1642 then _IlOOOlO0Ol[((569 + 594 + 814) - 594 - 814)] = 0; _I00OOIOl = 15523
+    elseif _I00OOIOl == 100572 then local _lO0O0O = 0.9550927811405855 _I00OOIOl = 1792
+    elseif _I00OOIOl == 5120 then _IlOOOlO0Ol[((698 + 895 + 955) - 895 - 955)] = 50; _I00OOIOl = 33679
+    elseif _I00OOIOl == 29605 then _IlOOOlO0Ol[((802 + 215 + 657) - 215 - 657)] = 0; _I00OOIOl = 23034
+    elseif _I00OOIOl == 1786 then _IlOOOlO0Ol[((809 + 972 + 358) - 972 - 358)] = "+"; _I00OOIOl = 2664
+    elseif _I00OOIOl == 17875 then _IlOOOlO0Ol[((689 + 206 + 115) - 206 - 115)] = 4; _I00OOIOl = 27153
+    elseif _I00OOIOl == 15885 then _IlOOOlO0Ol[((443 + 288 + 175) - 288 - 175)] = 0.22; _I00OOIOl = 12734
+    elseif _I00OOIOl == 20650 then _IlOOOlO0Ol[((398 + 698 + 874) - 698 - 874)] = "Portal Gun"; _I00OOIOl = 24231
+    elseif _I00OOIOl == 10803 then _IlOOOlO0Ol[((700 + 610 + 84) - 610 - 84)] = 1; _I00OOIOl = 13882
+    elseif _I00OOIOl == 97707 then local _IOOl00 = 0.04109422412940689 _I00OOIOl = 10958
+    elseif _I00OOIOl == 6515 then _IlOOOlO0Ol[((709 + 358 + 3) - 358 - 3)] = 0; _I00OOIOl = 38558
+    elseif _I00OOIOl == 38871 then _IlOOOlO0Ol[((390 + 181 + 581) - 181 - 581)] = 6; _I00OOIOl = 25153
+    elseif _I00OOIOl == 39471 then _IlOOOlO0Ol[((705 + 826 + 940) - 826 - 940)] = 0; _I00OOIOl = 4509
+    elseif _I00OOIOl == 4622 then _IlOOOlO0Ol[((729 + 523 + 80) - 523 - 80)] = 60; _I00OOIOl = 36519
+    elseif _I00OOIOl == 37107 then _IlOOOlO0Ol[((458 + 879 + 934) - 879 - 934)] = 0; _I00OOIOl = 18801
+    elseif _I00OOIOl == 45922 then _IlOOOlO0Ol[((703 + 117 + 674) - 117 - 674)] = 11; _I00OOIOl = 44730
+    elseif _I00OOIOl == 45850 then _IlOOOlO0Ol[((366 + 567 + 844) - 567 - 844)] = "Size: Normal 🧍"; _I00OOIOl = 23770
+    elseif _I00OOIOl == 8660 then _IlOOOlO0Ol[((870 + 337 + 38) - 337 - 38)] = 0; _I00OOIOl = 45699
+    elseif _I00OOIOl == 15556 then _IlOOOlO0Ol[((629 + 387 + 340) - 387 - 340)] = 1; _I00OOIOl = 49419
+    elseif _I00OOIOl == 49852 then _IlOOOlO0Ol[((923 + 378 + 695) - 378 - 695)] = 0.5; _I00OOIOl = 11864
+    elseif _I00OOIOl == 64710 then local _IIIIOl = 0.6293565350916743 _I00OOIOl = 36339
+    elseif _I00OOIOl == 78194 then local _l0IlOI = 0.46797852736735157 _I00OOIOl = 42830
+    elseif _I00OOIOl == 10573 then _IlOOOlO0Ol[((715 + 502 + 289) - 502 - 289)] = 1; _I00OOIOl = 15991
+    elseif _I00OOIOl == 29117 then _IlOOOlO0Ol[((381 + 561 + 272) - 561 - 272)] = "Размер: Большой 🚗"; _I00OOIOl = 5672
+    elseif _I00OOIOl == 5174 then _IlOOOlO0Ol[((900 + 108 + 71) - 108 - 71)] = 7; _I00OOIOl = 13224
+    elseif _I00OOIOl == 36350 then _IlOOOlO0Ol[((857 + 810 + 155) - 810 - 155)] = "LobbyMap"; _I00OOIOl = 16939
+    elseif _I00OOIOl == 36195 then _IlOOOlO0Ol[((438 + 606 + 74) - 606 - 74)] = 0; _I00OOIOl = 23123
+    elseif _I00OOIOl == 27902 then _IlOOOlO0Ol[((722 + 546 + 788) - 546 - 788)] = "TextButton"; _I00OOIOl = 24242
+    elseif _I00OOIOl == 78046 then local _lllO0l = 0.21222480366304475 _I00OOIOl = 31365
+    elseif _I00OOIOl == 24507 then _IlOOOlO0Ol[((686 + 879 + 642) - 879 - 642)] = 13; _I00OOIOl = 27771
+    elseif _I00OOIOl == 109049 then local _IIl000 = 0.9332514776832594 _I00OOIOl = 2403
+    elseif _I00OOIOl == 21281 then _IlOOOlO0Ol[((541 + 682 + 579) - 682 - 579)] = 200; _I00OOIOl = 44248
+    elseif _I00OOIOl == 36578 then _IlOOOlO0Ol[((737 + 37 + 711) - 37 - 711)] = "TextButton"; _I00OOIOl = 31316
+    elseif _I00OOIOl == 11737 then _IlOOOlO0Ol[((547 + 236 + 83) - 236 - 83)] = "CoreGui"; _I00OOIOl = 32824
+    elseif _I00OOIOl == 33492 then _IlOOOlO0Ol[((881 + 317 + 14) - 317 - 14)] = 0; _I00OOIOl = 12035
+    elseif _I00OOIOl == 38662 then _IlOOOlO0Ol[((825 + 663 + 358) - 663 - 358)] = 0.3; _I00OOIOl = 26196
+    elseif _I00OOIOl == 27771 then _IlOOOlO0Ol[((687 + 715 + 185) - 715 - 185)] = "UICorner"; _I00OOIOl = 46712
+    elseif _I00OOIOl == 10958 then _IlOOOlO0Ol[((613 + 276 + 462) - 276 - 462)] = 0; _I00OOIOl = 8023
+    elseif _I00OOIOl == 86008 then local _IOIOOl = 0.05517382597135101 _I00OOIOl = 48379
+    elseif _I00OOIOl == 13224 then _IlOOOlO0Ol[((901 + 354 + 14) - 354 - 14)] = 0.2; _I00OOIOl = 8257
+    elseif _I00OOIOl == 82211 then local _lO0lI0 = 0.23382742163355585 _I00OOIOl = 2857
+    elseif _I00OOIOl == 2310 then _IlOOOlO0Ol[((696 + 304 + 891) - 304 - 891)] = 30; _I00OOIOl = 11373
+    elseif _I00OOIOl == 26417 then _IlOOOlO0Ol[((753 + 504 + 588) - 504 - 588)] = " %[%w+%]"; _I00OOIOl = 29121
+    elseif _I00OOIOl == 9193 then _IlOOOlO0Ol[((746 + 111 + 236) - 111 - 236)] = 1; _I00OOIOl = 45661
+    elseif _I00OOIOl == 20021 then _IlOOOlO0Ol[((782 + 21 + 734) - 21 - 734)] = 0; _I00OOIOl = 35761
+    elseif _I00OOIOl == 46242 then _IlOOOlO0Ol[((676 + 841 + 901) - 841 - 901)] = 0.67; _I00OOIOl = 19959
+    elseif _I00OOIOl == 74024 then local _lOI0Ol = 0.3489597643815764 _I00OOIOl = 31592
+    elseif _I00OOIOl == 76118 then local _l0l0OI = 0.23633903229774655 _I00OOIOl = 6496
+    elseif _I00OOIOl == 41174 then _IlOOOlO0Ol[((472 + 544 + 678) - 544 - 678)] = 2; _I00OOIOl = 48750
+    elseif _I00OOIOl == 78713 then local _l0lO00 = 0.9644387795524159 _I00OOIOl = 46870
+    elseif _I00OOIOl == 22543 then _IlOOOlO0Ol[((612 + 8 + 139) - 8 - 139)] = 0; _I00OOIOl = 10958
+    elseif _I00OOIOl == 47319 then _IlOOOlO0Ol[((791 + 103 + 886) - 103 - 886)] = 6; _I00OOIOl = 50889
+    elseif _I00OOIOl == 4387 then _IlOOOlO0Ol[((464 + 281 + 961) - 281 - 961)] = 0.4; _I00OOIOl = 34581
+    elseif _I00OOIOl == 49188 then _IlOOOlO0Ol[((622 + 828 + 799) - 828 - 799)] = 0; _I00OOIOl = 1286
+    elseif _I00OOIOl == 11512 then _IlOOOlO0Ol[((384 + 342 + 761) - 342 - 761)] = "Обычный [Z]"; _I00OOIOl = 22143
+    elseif _I00OOIOl == 33803 then _IlOOOlO0Ol[((450 + 98 + 574) - 98 - 574)] = "Part"; _I00OOIOl = 38368
+    elseif _I00OOIOl == 24021 then _IlOOOlO0Ol[((482 + 290 + 545) - 290 - 545)] = 0; _I00OOIOl = 36463
+    elseif _I00OOIOl == 89475 then local _IO00l0 = 0.7968509589397227 _I00OOIOl = 42607
+    elseif _I00OOIOl == 101395 then local _llOllI = 0.4364168900836274 _I00OOIOl = 13224
+    elseif _I00OOIOl == 95377 then local _lIOOlI = 0.9831762898955749 _I00OOIOl = 22668
+    elseif _I00OOIOl == 22209 then _IlOOOlO0Ol[((767 + 306 + 799) - 306 - 799)] = "Green"; _I00OOIOl = 7138
+    elseif _I00OOIOl == 81882 then local _llIOlO = 0.5011045092687649 _I00OOIOl = 11435
+    elseif _I00OOIOl == 86969 then local _I00lI0 = 0.8401582248649633 _I00OOIOl = 3486
+    elseif _I00OOIOl == 93228 then local _IIllOI = 0.0072956054005473 _I00OOIOl = 44435
+    elseif _I00OOIOl == 96222 then local _lOOIlO = 0.8629342601878304 _I00OOIOl = 48228
+    elseif _I00OOIOl == 50850 then _IlOOOlO0Ol[((365 + 446 + 661) - 446 - 661)] = "Color: Yellow (Evil Morty)"; _I00OOIOl = 45850
+    elseif _I00OOIOl == 4291 then _IlOOOlO0Ol[((503 + 880 + 646) - 880 - 646)] = 5000; _I00OOIOl = 17275
+    elseif _I00OOIOl == 65787 then local _lllOII = 0.8004935844813595 _I00OOIOl = 37624
+    elseif _I00OOIOl == 73921 then local _I0II0l = 0.2542384394116962 _I00OOIOl = 34364
+    elseif _I00OOIOl == 34503 then _IlOOOlO0Ol[((621 + 770 + 769) - 770 - 769)] = 1; _I00OOIOl = 49188
+    elseif _I00OOIOl == 81554 then local _l00lII = 0.888545847333012 _I00OOIOl = 28935
+    elseif _I00OOIOl == 46048 then _IlOOOlO0Ol[((505 + 463 + 557) - 463 - 557)] = 20; _I00OOIOl = 49359
+    elseif _I00OOIOl == 4276 then _IlOOOlO0Ol[((840 + 644 + 786) - 644 - 786)] = 0; _I00OOIOl = 14853
+    elseif _I00OOIOl == 2437 then _IlOOOlO0Ol[((797 + 367 + 597) - 367 - 597)] = "Normal"; _I00OOIOl = 48616
+    elseif _I00OOIOl == 9061 then _IlOOOlO0Ol[((500 + 979 + 822) - 979 - 822)] = "Model"; _I00OOIOl = 34364
+    elseif _I00OOIOl == 21068 then _IlOOOlO0Ol[((811 + 110 + 572) - 110 - 572)] = "HumanoidRootPart"; _I00OOIOl = 26705
+    elseif _I00OOIOl == 20913 then _IlOOOlO0Ol[((521 + 856 + 786) - 856 - 786)] = 0; _I00OOIOl = 48158
+    elseif _I00OOIOl == 22137 then _IlOOOlO0Ol[((563 + 468 + 272) - 468 - 272)] = 0; _I00OOIOl = 5958
+    elseif _I00OOIOl == 70018 then local _llII0l = 0.6950782618759378 _I00OOIOl = 5984
+    elseif _I00OOIOl == 37330 then _IlOOOlO0Ol[((724 + 457 + 814) - 457 - 814)] = 0; _I00OOIOl = 6496
+    elseif _I00OOIOl == 71949 then local _I0IO00 = 0.7601634518544699 _I00OOIOl = 22634
+    elseif _I00OOIOl == 79078 then local _II0O0I = 0.7917687320658792 _I00OOIOl = 29605
+    elseif _I00OOIOl == 16592 then _IlOOOlO0Ol[((931 + 304 + 553) - 304 - 553)] = 255; _I00OOIOl = 25645
+    elseif _I00OOIOl == 45661 then _IlOOOlO0Ol[((747 + 145 + 259) - 145 - 259)] = 1; _I00OOIOl = 12292
+    elseif _I00OOIOl == 50480 then _IlOOOlO0Ol[((552 + 721 + 998) - 721 - 998)] = "Frame"; _I00OOIOl = 35098
+    elseif _I00OOIOl == 106853 then local _lOl00O = 0.8672075978528035 _I00OOIOl = 47437
+    elseif _I00OOIOl == 11566 then _IlOOOlO0Ol[((734 + 359 + 890) - 359 - 890)] = "UICorner"; _I00OOIOl = 45701
+    elseif _I00OOIOl == 71443 then local _lIlOOO = 0.4470854945420424 _I00OOIOl = 31592
+    elseif _I00OOIOl == 104500 then local _lI0I0I = 0.8459366837798882 _I00OOIOl = 16664
+    elseif _I00OOIOl == 41072 then _IlOOOlO0Ol[((819 + 49 + 192) - 49 - 192)] = 0.8; _I00OOIOl = 22853
+    elseif _I00OOIOl == 1792 then _IlOOOlO0Ol[((653 + 621 + 706) - 621 - 706)] = 52; _I00OOIOl = 15900
+    elseif _I00OOIOl == 21480 then _IlOOOlO0Ol[((476 + 515 + 179) - 515 - 179)] = "ScreenGui"; _I00OOIOl = 2217
+    elseif _I00OOIOl == 44491 then _IlOOOlO0Ol[((673 + 941 + 678) - 941 - 678)] = 0; _I00OOIOl = 38264
+    elseif _I00OOIOl == 107948 then local _lI0llO = 0.7692977481132853 _I00OOIOl = 15556
+    elseif _I00OOIOl == 66753 then local _IOllO0 = 0.4486509464098969 _I00OOIOl = 16938
+    elseif _I00OOIOl == 31059 then _IlOOOlO0Ol[((713 + 936 + 514) - 936 - 514)] = 50; _I00OOIOl = 11256
+    elseif _I00OOIOl == 28703 then _IlOOOlO0Ol[((491 + 605 + 131) - 605 - 131)] = 255; _I00OOIOl = 36865
+    elseif _I00OOIOl == 34081 then _IlOOOlO0Ol[((836 + 242 + 716) - 242 - 716)] = 1; _I00OOIOl = 16562
+    elseif _I00OOIOl == 7748 then _IlOOOlO0Ol[((593 + 174 + 158) - 174 - 158)] = 0; _I00OOIOl = 29415
+    elseif _I00OOIOl == 6601 then _IlOOOlO0Ol[((946 + 828 + 197) - 828 - 197)] = 1; _I00OOIOl = 39993
+    elseif _I00OOIOl == 75540 then local _lOll0O = 0.4006733833212798 _I00OOIOl = 7247
+    elseif _I00OOIOl == 13706 then _IlOOOlO0Ol[((626 + 152 + 121) - 152 - 121)] = 0; _I00OOIOl = 22481
+    elseif _I00OOIOl == 96558 then local _l0l00l = 0.3004029334579337 _I00OOIOl = 50427
+    elseif _I00OOIOl == 8924 then _IlOOOlO0Ol[((816 + 564 + 854) - 564 - 854)] = 0; _I00OOIOl = 41770
+    elseif _I00OOIOl == 92417 then local _I0Il0I = 0.9365911399010439 _I00OOIOl = 6968
+    elseif _I00OOIOl == 83622 then local _lIOl0l = 0.08745449653624171 _I00OOIOl = 5184
+    elseif _I00OOIOl == 12292 then _IlOOOlO0Ol[((748 + 756 + 526) - 756 - 526)] = 11; _I00OOIOl = 8200
+    elseif _I00OOIOl == 8023 then _IlOOOlO0Ol[((614 + 103 + 396) - 103 - 396)] = 1; _I00OOIOl = 16644
+    elseif _I00OOIOl == 4303 then _IlOOOlO0Ol[((756 + 833 + 519) - 833 - 519)] = 0; _I00OOIOl = 15430
+    elseif _I00OOIOl == 88353 then local _IlIIOI = 0.12313035127459204 _I00OOIOl = 5184
+    elseif _I00OOIOl == 31365 then _IlOOOlO0Ol[((573 + 61 + 994) - 61 - 994)] = 20; _I00OOIOl = 37490
+    elseif _I00OOIOl == 48228 then _IlOOOlO0Ol[((694 + 107 + 83) - 107 - 83)] = 0; _I00OOIOl = 40625
+    elseif _I00OOIOl == 83576 then local _lll000 = 0.9521537635544779 _I00OOIOl = 29121
+    elseif _I00OOIOl == 15636 then _IlOOOlO0Ol[((679 + 695 + 131) - 695 - 131)] = 0; _I00OOIOl = 31693
+    elseif _I00OOIOl == 108231 then local _lllOlI = 0.991570224001527 _I00OOIOl = 28935
+    elseif _I00OOIOl == 89941 then local _IOIIlI = 0.36533178882177986 _I00OOIOl = 11248
+    elseif _I00OOIOl == 72106 then local _lOOllI = 0.8275169594639589 _I00OOIOl = 46870
+    elseif _I00OOIOl == 46826 then _IlOOOlO0Ol[((356 + 246 + 272) - 246 - 272)] = 255; _I00OOIOl = 8721
+    elseif _I00OOIOl == 16939 then _IlOOOlO0Ol[((858 + 175 + 839) - 175 - 839)] = "Tower"; _I00OOIOl = 45380
+    elseif _I00OOIOl == 25153 then _IlOOOlO0Ol[((391 + 449 + 280) - 449 - 280)] = 260; _I00OOIOl = 22146
+    elseif _I00OOIOl == 22668 then _IlOOOlO0Ol[((468 + 207 + 675) - 207 - 675)] = 15; _I00OOIOl = 30474
+    elseif _I00OOIOl == 101270 then local _IIOIIO = 0.5114485900391207 _I00OOIOl = 42830
+    elseif _I00OOIOl == 17114 then _IlOOOlO0Ol[((407 + 541 + 882) - 541 - 882)] = "Part"; _I00OOIOl = 34691
+    elseif _I00OOIOl == 44056 then _IlOOOlO0Ol[((489 + 674 + 194) - 674 - 194)] = 0; _I00OOIOl = 20953
+    elseif _I00OOIOl == 38558 then _IlOOOlO0Ol[((710 + 355 + 143) - 355 - 143)] = 0; _I00OOIOl = 32651
+    elseif _I00OOIOl == 5956 then _IlOOOlO0Ol[((921 + 859 + 637) - 859 - 637)] = 0.5; _I00OOIOl = 19263
+    elseif _I00OOIOl == 49913 then _IlOOOlO0Ol[((880 + 964 + 967) - 964 - 967)] = 0; _I00OOIOl = 33492
+    elseif _I00OOIOl == 79195 then local _lIOI00 = 0.9010372064390222 _I00OOIOl = 47319
+    elseif _I00OOIOl == 33772 then _IlOOOlO0Ol[((591 + 334 + 549) - 334 - 549)] = 0; _I00OOIOl = 45904
+    elseif _I00OOIOl == 72436 then local _IOOIO0 = 0.8629388683106883 _I00OOIOl = 21499
+    elseif _I00OOIOl == 38258 then _IlOOOlO0Ol[((440 + 947 + 829) - 947 - 829)] = 0.65; _I00OOIOl = 11660
+    elseif _I00OOIOl == 47437 then _IlOOOlO0Ol[((601 + 207 + 564) - 207 - 564)] = 1; _I00OOIOl = 11198
+    elseif _I00OOIOl == 76439 then local _llOO0I = 0.8198414286379275 _I00OOIOl = 42035
+    elseif _I00OOIOl == 91098 then local _IOOOIO = 0.14457826267039842 _I00OOIOl = 48228
+    elseif _I00OOIOl == 42035 then _IlOOOlO0Ol[((807 + 527 + 30) - 527 - 30)] = 210; _I00OOIOl = 44835
+    elseif _I00OOIOl == 49359 then _IlOOOlO0Ol[((506 + 687 + 825) - 687 - 825)] = "Part"; _I00OOIOl = 50190
+    elseif _I00OOIOl == 6540 then _IlOOOlO0Ol[((389 + 806 + 907) - 806 - 907)] = "Normal"; _I00OOIOl = 38871
+    elseif _I00OOIOl == 35388 then _IlOOOlO0Ol[((873 + 892 + 507) - 892 - 507)] = 0; _I00OOIOl = 43580
+    elseif _I00OOIOl == 102827 then local _IIIO0I = 0.5505983356829136 _I00OOIOl = 27771
+    elseif _I00OOIOl == 23667 then _IlOOOlO0Ol[((851 + 29 + 924) - 29 - 924)] = 1; _I00OOIOl = 40499
+    elseif _I00OOIOl == 11953 then _IlOOOlO0Ol[((827 + 57 + 698) - 57 - 698)] = "HumanoidRootPart"; _I00OOIOl = 23271
+    elseif _I00OOIOl == 93654 then local _l0lllO = 0.30676473658797787 _I00OOIOl = 18114
+    elseif _I00OOIOl == 16664 then _IlOOOlO0Ol[((470 + 520 + 497) - 520 - 497)] = "Sound"; _I00OOIOl = 42824
+    elseif _I00OOIOl == 3797 then _IlOOOlO0Ol[((536 + 31 + 875) - 31 - 875)] = 0; _I00OOIOl = 18791
+    elseif _I00OOIOl == 41496 then _IlOOOlO0Ol[((400 + 343 + 327) - 343 - 327)] = "Handle"; _I00OOIOl = 49206
+    elseif _I00OOIOl == 32862 then _IlOOOlO0Ol[((497 + 680 + 427) - 680 - 427)] = 0; _I00OOIOl = 16206
+    elseif _I00OOIOl == 10153 then _IlOOOlO0Ol[((786 + 928 + 990) - 928 - 990)] = 0; _I00OOIOl = 2857
+    elseif _I00OOIOl == 81352 then local _lIIO0O = 0.29958089900217155 _I00OOIOl = 31365
+    elseif _I00OOIOl == 28541 then _IlOOOlO0Ol[((405 + 832 + 244) - 832 - 244)] = 120; _I00OOIOl = 13605
+    elseif _I00OOIOl == 89393 then local _I0IlOI = 0.5019797392100936 _I00OOIOl = 10193
+    elseif _I00OOIOl == 11248 then _IlOOOlO0Ol[((891 + 484 + 49) - 484 - 49)] = 0; _I00OOIOl = 43513
+    elseif _I00OOIOl == 37734 then _IlOOOlO0Ol[((651 + 881 + 285) - 881 - 285)] = 45; _I00OOIOl = 17340
+    elseif _I00OOIOl == 28764 then _IlOOOlO0Ol[((914 + 656 + 853) - 656 - 853)] = 1; _I00OOIOl = 42979
+    elseif _I00OOIOl == 89805 then local _lllIO0 = 0.9175189942979051 _I00OOIOl = 48451
+    elseif _I00OOIOl == 19050 then _IlOOOlO0Ol[((742 + 507 + 141) - 507 - 141)] = 65; _I00OOIOl = 23988
+    elseif _I00OOIOl == 27153 then _IlOOOlO0Ol[((690 + 184 + 816) - 184 - 816)] = 1; _I00OOIOl = 15395
+    elseif _I00OOIOl == 96948 then local _I00IIl = 0.7301419555396558 _I00OOIOl = 40585
+    elseif _I00OOIOl == 68063 then local _IIl0Ol = 0.9147944675523468 _I00OOIOl = 9193
+    elseif _I00OOIOl == 41770 then _IlOOOlO0Ol[((817 + 232 + 101) - 232 - 101)] = "rbxassetid://243660364"; _I00OOIOl = 44435
+    elseif _I00OOIOl == 13445 then _IlOOOlO0Ol[((609 + 181 + 170) - 181 - 170)] = 30; _I00OOIOl = 37818
+    elseif _I00OOIOl == 92348 then local _l0lOll = 0.42142732851307163 _I00OOIOl = 33318
+    elseif _I00OOIOl == 23988 then _IlOOOlO0Ol[((743 + 641 + 434) - 641 - 434)] = 65; _I00OOIOl = 16938
+    elseif _I00OOIOl == 84453 then local _lI0OIl = 0.5617080029801056 _I00OOIOl = 50879
+    elseif _I00OOIOl == 8478 then _IlOOOlO0Ol[((667 + 607 + 557) - 607 - 557)] = 1; _I00OOIOl = 15337
+    elseif _I00OOIOl == 27733 then _IlOOOlO0Ol[((514 + 720 + 529) - 720 - 529)] = 1; _I00OOIOl = 40683
+    elseif _I00OOIOl == 18822 then _IlOOOlO0Ol[((926 + 510 + 665) - 510 - 665)] = 0.5; _I00OOIOl = 5085
+    elseif _I00OOIOl == 30915 then _IlOOOlO0Ol[((855 + 93 + 251) - 93 - 251)] = 0; _I00OOIOl = 32322
+    elseif _I00OOIOl == 7279 then _IlOOOlO0Ol[((628 + 8 + 162) - 8 - 162)] = 30; _I00OOIOl = 15556
+    elseif _I00OOIOl == 67366 then local _l0l0O0 = 0.16861630050918586 _I00OOIOl = 28977
+    elseif _I00OOIOl == 38577 then _IlOOOlO0Ol[((527 + 707 + 428) - 707 - 428)] = 0; _I00OOIOl = 2176
+    elseif _I00OOIOl == 7247 then _IlOOOlO0Ol[((838 + 669 + 525) - 669 - 525)] = 0; _I00OOIOl = 18919
+    elseif _I00OOIOl == 44730 then _IlOOOlO0Ol[((704 + 679 + 704) - 679 - 704)] = "UICorner"; _I00OOIOl = 39471
+    elseif _I00OOIOl == 84825 then local _lI00IO = 0.9933832159496295 _I00OOIOl = 20913
+    elseif _I00OOIOl == 50427 then _IlOOOlO0Ol[((759 + 630 + 310) - 630 - 310)] = 50; _I00OOIOl = 3988
+    elseif _I00OOIOl == 40251 then _IlOOOlO0Ol[((758 + 329 + 346) - 329 - 346)] = 50; _I00OOIOl = 50427
+    elseif _I00OOIOl == 68668 then local _I00Il0 = 0.33795287490203374 _I00OOIOl = 18270
+    elseif _I00OOIOl == 93036 then local _I0l0II = 0.757360210234506 _I00OOIOl = 40499
+    elseif _I00OOIOl == 15782 then _IlOOOlO0Ol[((707 + 216 + 359) - 216 - 359)] = "TextButton"; _I00OOIOl = 25218
+    elseif _I00OOIOl == 17574 then _IlOOOlO0Ol[((474 + 274 + 902) - 274 - 902)] = 5; _I00OOIOl = 1120
+    elseif _I00OOIOl == 47695 then _IlOOOlO0Ol[((619 + 28 + 985) - 28 - 985)] = 18; _I00OOIOl = 26899
+    elseif _I00OOIOl == 41351 then _IlOOOlO0Ol[((383 + 35 + 606) - 35 - 606)] = "← Назад"; _I00OOIOl = 11512
+    elseif _I00OOIOl == 20393 then _IlOOOlO0Ol[((524 + 434 + 329) - 434 - 329)] = 15; _I00OOIOl = 44466
+    elseif _I00OOIOl == 34581 then _IlOOOlO0Ol[((465 + 55 + 860) - 55 - 860)] = 0; _I00OOIOl = 33318
+    elseif _I00OOIOl == 80722 then local _I00l0I = 0.3043339964040819 _I00OOIOl = 47319
+    elseif _I00OOIOl == 75598 then local _lI0ll0 = 0.580586997713978 _I00OOIOl = 36865
+    elseif _I00OOIOl == 94816 then local _IlOIII = 0.1273634987822152 _I00OOIOl = 1798
+    elseif _I00OOIOl == 40114 then _IlOOOlO0Ol[((766 + 658 + 711) - 658 - 711)] = "EN"; _I00OOIOl = 22209
+    elseif _I00OOIOl == 12548 then _IlOOOlO0Ol[((941 + 400 + 893) - 400 - 893)] = 1; _I00OOIOl = 16356
+    elseif _I00OOIOl == 17826 then _IlOOOlO0Ol[((377 + 880 + 413) - 880 - 413)] = "Время (1-14с):"; _I00OOIOl = 17167
+    elseif _I00OOIOl == 89140 then local _ll00lI = 0.8223168169127483 _I00OOIOl = 34121
+    elseif _I00OOIOl == 5085 then _IlOOOlO0Ol[((927 + 298 + 188) - 298 - 188)] = "Yellow"; _I00OOIOl = 36918
+    elseif _I00OOIOl == 33318 then _IlOOOlO0Ol[((466 + 152 + 484) - 152 - 484)] = 8; _I00OOIOl = 4070
+    elseif _I00OOIOl == 18791 then _IlOOOlO0Ol[((537 + 768 + 819) - 768 - 819)] = 2; _I00OOIOl = 50660
+    elseif _I00OOIOl == 109926 then local _l00llO = 0.5256271849194211 _I00OOIOl = 48458
+    elseif _I00OOIOl == 26648 then _IlOOOlO0Ol[((414 + 169 + 346) - 169 - 346)] = 0; _I00OOIOl = 22372
+    elseif _I00OOIOl == 28201 then _IlOOOlO0Ol[((918 + 426 + 254) - 426 - 254)] = 0; _I00OOIOl = 12072
+    elseif _I00OOIOl == 8449 then _IlOOOlO0Ol[((428 + 704 + 638) - 704 - 638)] = 90; _I00OOIOl = 27730
+    elseif _I00OOIOl == 67316 then local _lO0O0O = 0.8729143912682401 _I00OOIOl = 37898
+    elseif _I00OOIOl == 11373 then _IlOOOlO0Ol[((697 + 230 + 235) - 230 - 235)] = 50; _I00OOIOl = 5120
+    elseif _I00OOIOl == 8430 then _IlOOOlO0Ol[((736 + 723 + 195) - 723 - 195)] = 6; _I00OOIOl = 36578
+    elseif _I00OOIOl == 38408 then _IlOOOlO0Ol[((845 + 532 + 204) - 532 - 204)] = "Normal"; _I00OOIOl = 33192
+    elseif _I00OOIOl == 2439 then _IlOOOlO0Ol[((692 + 696 + 552) - 696 - 552)] = "TextButton"; _I00OOIOl = 22052
+    elseif _I00OOIOl == 12734 then _IlOOOlO0Ol[((444 + 682 + 375) - 682 - 375)] = 0.16; _I00OOIOl = 25217
+    elseif _I00OOIOl == 7138 then _IlOOOlO0Ol[((768 + 986 + 796) - 986 - 796)] = "Yellow"; _I00OOIOl = 5075
+    elseif _I00OOIOl == 37818 then _IlOOOlO0Ol[((610 + 477 + 510) - 477 - 510)] = 1; _I00OOIOl = 6682
+    elseif _I00OOIOl == 45866 then _IlOOOlO0Ol[((421 + 554 + 714) - 554 - 714)] = 0.45; _I00OOIOl = 11197
+    elseif _I00OOIOl == 38546 then _IlOOOlO0Ol[((510 + 59 + 775) - 59 - 775)] = 1; _I00OOIOl = 10046
+    elseif _I00OOIOl == 42464 then _IlOOOlO0Ol[((360 + 974 + 892) - 974 - 892)] = "EN"; _I00OOIOl = 40042
+    elseif _I00OOIOl == 11806 then _IlOOOlO0Ol[((348 + 533 + 224) - 533 - 224)] = "UserInputService"; _I00OOIOl = 17924
+    elseif _I00OOIOl == 3486 then _IlOOOlO0Ol[((765 + 967 + 2) - 967 - 2)] = "RU"; _I00OOIOl = 40114
+    elseif _I00OOIOl == 101131 then local _Il0lOl = 0.5650476886661745 _I00OOIOl = 36865
+    elseif _I00OOIOl == 40873 then _IlOOOlO0Ol[((513 + 850 + 364) - 850 - 364)] = 0; _I00OOIOl = 27733
+    elseif _I00OOIOl == 104161 then local _lllOII = 0.6207752260578054 _I00OOIOl = 12025
+    elseif _I00OOIOl == 68830 then local _llIIOl = 0.13676402078975913 _I00OOIOl = 24507
+    elseif _I00OOIOl == 96244 then local _Ill00l = 0.11824905804186703 _I00OOIOl = 9334
+    elseif _I00OOIOl == 13882 then _IlOOOlO0Ol[((701 + 358 + 740) - 358 - 740)] = 1; _I00OOIOl = 13220
+    elseif _I00OOIOl == 48301 then _IlOOOlO0Ol[((829 + 15 + 938) - 15 - 938)] = "Model"; _I00OOIOl = 26325
+    elseif _I00OOIOl == 106283 then local _IlOIIO = 0.504225232649938 _I00OOIOl = 47437
+    elseif _I00OOIOl == 36463 then _IlOOOlO0Ol[((483 + 82 + 28) - 82 - 28)] = 1; _I00OOIOl = 7161
+    elseif _I00OOIOl == 26423 then _IlOOOlO0Ol[((493 + 428 + 311) - 428 - 311)] = 180; _I00OOIOl = 7208
+    elseif _I00OOIOl == 109834 then local _IlOlll = 0.9635639361464499 _I00OOIOl = 29415
+    elseif _I00OOIOl == 4338 then _IlOOOlO0Ol[((814 + 630 + 904) - 630 - 904)] = 0.8; _I00OOIOl = 4202
+    elseif _I00OOIOl == 29417 then _IlOOOlO0Ol[((518 + 461 + 704) - 461 - 704)] = 1; _I00OOIOl = 16581
+    elseif _I00OOIOl == 35098 then _IlOOOlO0Ol[((553 + 546 + 893) - 546 - 893)] = 0; _I00OOIOl = 20073
+    elseif _I00OOIOl == 107940 then local _ll0lIl = 0.4578717689620686 _I00OOIOl = 43320
+    elseif _I00OOIOl == 90663 then local _lIO0IO = 0.40327953305473463 _I00OOIOl = 20953
+    elseif _I00OOIOl == 66921 then local _llIOIO = 0.5468612421658867 _I00OOIOl = 40114
+    elseif _I00OOIOl == 13336 then _IlOOOlO0Ol[((433 + 75 + 422) - 75 - 422)] = 0.75; _I00OOIOl = 37244
+    elseif _I00OOIOl == 16206 then _IlOOOlO0Ol[((498 + 910 + 755) - 910 - 755)] = 0.3; _I00OOIOl = 14007
+    elseif _I00OOIOl == 45294 then _IlOOOlO0Ol[((684 + 455 + 645) - 455 - 645)] = 1; _I00OOIOl = 18486
+    elseif _I00OOIOl == 3582 then _IlOOOlO0Ol[((913 + 307 + 779) - 307 - 779)] = "SurfaceGui"; _I00OOIOl = 28764
+    elseif _I00OOIOl == 27730 then _IlOOOlO0Ol[((429 + 510 + 967) - 510 - 967)] = "WeldConstraint"; _I00OOIOl = 23885
+    elseif _I00OOIOl == 80428 then local _I0IOlI = 0.21835310756310422 _I00OOIOl = 5453
+    elseif _I00OOIOl == 103200 then local _IOOO00 = 0.3004111342255831 _I00OOIOl = 20913
+    elseif _I00OOIOl == 40255 then _IlOOOlO0Ol[((938 + 570 + 773) - 570 - 773)] = 30; _I00OOIOl = 27283
+    elseif _I00OOIOl == 68056 then local _lO00lO = 0.712957326439062 _I00OOIOl = 22143
+    elseif _I00OOIOl == 89636 then local _I0IIll = 0.5462261122016937 _I00OOIOl = 25218
+    elseif _I00OOIOl == 94407 then local _lIO00O = 0.6831413224490889 _I00OOIOl = 17875
+    elseif _I00OOIOl == 14007 then _IlOOOlO0Ol[((499 + 207 + 945) - 207 - 945)] = 1; _I00OOIOl = 9061
+    elseif _I00OOIOl == 43072 then _IlOOOlO0Ol[((637 + 808 + 135) - 808 - 135)] = 30; _I00OOIOl = 16471
+    elseif _I00OOIOl == 40683 then _IlOOOlO0Ol[((515 + 159 + 742) - 159 - 742)] = 0; _I00OOIOl = 3625
+    elseif _I00OOIOl == 48766 then _IlOOOlO0Ol[((934 + 992 + 670) - 992 - 670)] = 0.3; _I00OOIOl = 44872
+    elseif _I00OOIOl == 65081 then local _I0OO0l = 0.8570131751084022 _I00OOIOl = 25936
+    elseif _I00OOIOl == 13531 then _IlOOOlO0Ol[((412 + 834 + 1000) - 834 - 1000)] = 220; _I00OOIOl = 18902
+    elseif _I00OOIOl == 83734 then local _ll00l0 = 0.866520549490437 _I00OOIOl = 46475
+    elseif _I00OOIOl == 26986 then _IlOOOlO0Ol[((784 + 9 + 701) - 9 - 701)] = 0.9; _I00OOIOl = 14365
+    elseif _I00OOIOl == 47521 then _IlOOOlO0Ol[((539 + 377 + 777) - 377 - 777)] = 30; _I00OOIOl = 32683
+    elseif _I00OOIOl == 4509 then _IlOOOlO0Ol[((706 + 825 + 201) - 825 - 201)] = 6; _I00OOIOl = 15782
+    elseif _I00OOIOl == 44661 then _IlOOOlO0Ol[((718 + 586 + 785) - 586 - 785)] = 11; _I00OOIOl = 19717
+    elseif _I00OOIOl == 3101 then _IlOOOlO0Ol[((545 + 332 + 352) - 332 - 352)] = "ScreenGui"; _I00OOIOl = 24084
+    elseif _I00OOIOl == 21107 then _IlOOOlO0Ol[((371 + 766 + 984) - 766 - 984)] = "Lobby [X]"; _I00OOIOl = 40622
+    elseif _I00OOIOl == 93020 then local _lOIO0l = 0.43368151674853106 _I00OOIOl = 18349
+    elseif _I00OOIOl == 30458 then _IlOOOlO0Ol[((531 + 892 + 862) - 892 - 862)] = 0; _I00OOIOl = 21518
+    elseif _I00OOIOl == 61697 then local _lI0IOO = 0.6800576085115135 _I00OOIOl = 36918
+    elseif _I00OOIOl == 11910 then _IlOOOlO0Ol[((402 + 603 + 343) - 603 - 343)] = 0.9; _I00OOIOl = 35599
+    elseif _I00OOIOl == 23034 then _IlOOOlO0Ol[((803 + 106 + 665) - 106 - 665)] = 210; _I00OOIOl = 48451
+    elseif _I00OOIOl == 2403 then _IlOOOlO0Ol[((425 + 959 + 855) - 959 - 855)] = 0.15; _I00OOIOl = 4713
+    elseif _I00OOIOl == 17492 then _IlOOOlO0Ol[((578 + 967 + 156) - 967 - 156)] = 65; _I00OOIOl = 28054
+    elseif _I00OOIOl == 99642 then local _I0l0l0 = 0.24080962373879178 _I00OOIOl = 26196
+    elseif _I00OOIOl == 31570 then _IlOOOlO0Ol[((739 + 389 + 561) - 389 - 561)] = 0; _I00OOIOl = 25991
+    elseif _I00OOIOl == 46712 then _IlOOOlO0Ol[((688 + 157 + 137) - 157 - 137)] = 0; _I00OOIOl = 17875
+    elseif _I00OOIOl == 6078 then _IlOOOlO0Ol[((752 + 190 + 614) - 190 - 614)] = "Yellow"; _I00OOIOl = 26417
+    elseif _I00OOIOl == 22334 then _IlOOOlO0Ol[((916 + 176 + 63) - 176 - 63)] = 1; _I00OOIOl = 13956
+    elseif _I00OOIOl == 35809 then _IlOOOlO0Ol[((879 + 865 + 571) - 865 - 571)] = 0; _I00OOIOl = 49913
+    elseif _I00OOIOl == 101722 then local _I0OlII = 0.3407454668130184 _I00OOIOl = 24242
+    elseif _I00OOIOl == 28489 then _IlOOOlO0Ol[((386 + 629 + 609) - 629 - 609)] = "Карта [C]"; _I00OOIOl = 38257
+    elseif _I00OOIOl == 40625 then _IlOOOlO0Ol[((695 + 376 + 388) - 376 - 388)] = 0; _I00OOIOl = 2310
+    elseif _I00OOIOl == 76946 then local _Ill0l0 = 0.6508938996677984 _I00OOIOl = 14665
+    elseif _I00OOIOl == 69281 then local _IOO0O0 = 0.5446598017324343 _I00OOIOl = 21107
+    elseif _I00OOIOl == 40430 then _IlOOOlO0Ol[((899 + 773 + 438) - 773 - 438)] = 5.5; _I00OOIOl = 5174
+    elseif _I00OOIOl == 26046 then _IlOOOlO0Ol[((635 + 581 + 8) - 581 - 8)] = 0; _I00OOIOl = 23712
+    elseif _I00OOIOl == 95945 then local _IIl0ll = 0.3991050627435623 _I00OOIOl = 1786
+    elseif _I00OOIOl == 17924 then _IlOOOlO0Ol[((349 + 473 + 212) - 473 - 212)] = "TweenService"; _I00OOIOl = 25936
+    elseif _I00OOIOl == 46137 then _IlOOOlO0Ol[((420 + 614 + 592) - 614 - 592)] = 0.6; _I00OOIOl = 45866
+    elseif _I00OOIOl == 6496 then _IlOOOlO0Ol[((725 + 190 + 463) - 190 - 463)] = 0; _I00OOIOl = 22919
+    elseif _I00OOIOl == 38479 then _IlOOOlO0Ol[((496 + 865 + 717) - 865 - 717)] = 200; _I00OOIOl = 32862
+    elseif _I00OOIOl == 50879 then _IlOOOlO0Ol[((557 + 670 + 126) - 670 - 126)] = 20; _I00OOIOl = 24500
+    elseif _I00OOIOl == 47651 then _IlOOOlO0Ol[((556 + 475 + 347) - 475 - 347)] = 0; _I00OOIOl = 50879
+    elseif _I00OOIOl == 38059 then _IlOOOlO0Ol[((682 + 115 + 648) - 115 - 648)] = 72; _I00OOIOl = 18014
+    elseif _I00OOIOl == 67732 then local _Il0l0I = 0.25255000332665856 _I00OOIOl = 36578
+    elseif _I00OOIOl == 14853 then _IlOOOlO0Ol[((841 + 659 + 856) - 659 - 856)] = 0.01; _I00OOIOl = 37308
+    elseif _I00OOIOl == 43580 then _IlOOOlO0Ol[((874 + 461 + 651) - 461 - 651)] = 0; _I00OOIOl = 10379
+    elseif _I00OOIOl == 16644 then _IlOOOlO0Ol[((615 + 761 + 10) - 761 - 10)] = "–"; _I00OOIOl = 16834
+    elseif _I00OOIOl == 95363 then local _llIll0 = 0.9831496417326524 _I00OOIOl = 46048
+    elseif _I00OOIOl == 37156 then _IlOOOlO0Ol[((940 + 979 + 230) - 979 - 230)] = 0; _I00OOIOl = 12548
+    elseif _I00OOIOl == 12541 then _IlOOOlO0Ol[((424 + 736 + 736) - 736 - 736)] = 0.55; _I00OOIOl = 2403
+    elseif _I00OOIOl == 13605 then _IlOOOlO0Ol[((406 + 466 + 855) - 466 - 855)] = 120; _I00OOIOl = 17114
+    elseif _I00OOIOl == 11198 then _IlOOOlO0Ol[((602 + 994 + 481) - 994 - 481)] = 1; _I00OOIOl = 5557
+    elseif _I00OOIOl == 107314 then local _l0lOlO = 0.3361205362918557 _I00OOIOl = 23271
+    elseif _I00OOIOl == 10193 then _IlOOOlO0Ol[((776 + 921 + 947) - 921 - 947)] = 1; _I00OOIOl = 13085
+    elseif _I00OOIOl == 24488 then _IlOOOlO0Ol[((844 + 889 + 893) - 889 - 893)] = 1; _I00OOIOl = 38408
+    elseif _I00OOIOl == 18902 then _IlOOOlO0Ol[((413 + 369 + 612) - 369 - 612)] = 220; _I00OOIOl = 26648
+    elseif _I00OOIOl == 84571 then local _IIl0ll = 0.027815532302713275 _I00OOIOl = 9045
+    elseif _I00OOIOl == 38346 then _IlOOOlO0Ol[((455 + 789 + 100) - 789 - 100)] = "WeldConstraint"; _I00OOIOl = 7286
+    elseif _I00OOIOl == 94384 then local _IIllOl = 0.6425828633993796 _I00OOIOl = 10573
+    elseif _I00OOIOl == 40042 then _IlOOOlO0Ol[((361 + 988 + 180) - 988 - 180)] = "Mode: "; _I00OOIOl = 8122
+    elseif _I00OOIOl == 70049 then local _l0l0Il = 0.20701814347038794 _I00OOIOl = 36578
+    elseif _I00OOIOl == 23646 then _IlOOOlO0Ol[((418 + 349 + 832) - 349 - 832)] = "Part"; _I00OOIOl = 34723
+    elseif _I00OOIOl == 102532 then local _lOOII0 = 0.8957316149650211 _I00OOIOl = 30299
+    elseif _I00OOIOl == 49185 then _IlOOOlO0Ol[((771 + 470 + 789) - 470 - 789)] = 0; _I00OOIOl = 46870
+    elseif _I00OOIOl == 107413 then local _lI0l0l = 0.5837517349343457 _I00OOIOl = 23646
+    elseif _I00OOIOl == 62425 then local _l0IIOI = 0.1701974541929463 _I00OOIOl = 23770
+    elseif _I00OOIOl == 40041 then _IlOOOlO0Ol[((584 + 326 + 777) - 326 - 777)] = 0; _I00OOIOl = 9334
+    elseif _I00OOIOl == 62738 then local _IllI0I = 0.4818264517670803 _I00OOIOl = 44200
+    elseif _I00OOIOl == 49184 then _IlOOOlO0Ol[((778 + 871 + 746) - 871 - 746)] = 1; _I00OOIOl = 1369
+    elseif _I00OOIOl == 27492 then _IlOOOlO0Ol[((529 + 117 + 791) - 117 - 791)] = 1; _I00OOIOl = 26596
+    elseif _I00OOIOl == 25991 then _IlOOOlO0Ol[((740 + 122 + 419) - 122 - 419)] = 0; _I00OOIOl = 6968
+    elseif _I00OOIOl == 80871 then local _lIIIlO = 0.9391904088920869 _I00OOIOl = 16356
+    elseif _I00OOIOl == 28370 then _IlOOOlO0Ol[((801 + 284 + 595) - 284 - 595)] = "Follow"; _I00OOIOl = 29605
+    elseif _I00OOIOl == 21518 then _IlOOOlO0Ol[((532 + 989 + 705) - 989 - 705)] = 2; _I00OOIOl = 1553
+    elseif _I00OOIOl == 96756 then local _IIllIl = 0.48983832607522215 _I00OOIOl = 3486
+    elseif _I00OOIOl == 34723 then _IlOOOlO0Ol[((419 + 23 + 647) - 23 - 647)] = "Bulb"; _I00OOIOl = 46137
+    elseif _I00OOIOl == 1426 then _IlOOOlO0Ol[((639 + 934 + 681) - 934 - 681)] = 0; _I00OOIOl = 27603
+    elseif _I00OOIOl == 63833 then local _I0lIlO = 0.45335865291815736 _I00OOIOl = 45178
+    elseif _I00OOIOl == 3327 then _IlOOOlO0Ol[((442 + 60 + 49) - 60 - 49)] = 0.16; _I00OOIOl = 15885
+    elseif _I00OOIOl == 36918 then _IlOOOlO0Ol[((928 + 805 + 50) - 805 - 50)] = "rbxassetid://120062250958572"; _I00OOIOl = 36967
+    elseif _I00OOIOl == 74132 then local _lIOOOI = 0.5540214661155897 _I00OOIOl = 45699
+    elseif _I00OOIOl == 31665 then _IlOOOlO0Ol[((598 + 691 + 615) - 691 - 615)] = 0; _I00OOIOl = 12761
+    elseif _I00OOIOl == 16581 then _IlOOOlO0Ol[((519 + 249 + 991) - 249 - 991)] = 15; _I00OOIOl = 46454
+    elseif _I00OOIOl == 1670 then _IlOOOlO0Ol[((376 + 409 + 543) - 409 - 543)] = "Настройки"; _I00OOIOl = 17826
+    elseif _I00OOIOl == 15430 then _IlOOOlO0Ol[((757 + 73 + 705) - 73 - 705)] = 0; _I00OOIOl = 40251
+    elseif _I00OOIOl == 106023 then local _IO0O0I = 0.5518398575493091 _I00OOIOl = 38558
+    elseif _I00OOIOl == 72380 then local _IlO0lO = 0.9652452605896659 _I00OOIOl = 23770
+    elseif _I00OOIOl == 40974 then _IlOOOlO0Ol[((596 + 506 + 358) - 506 - 358)] = 60; _I00OOIOl = 3024
+    elseif _I00OOIOl == 48458 then _IlOOOlO0Ol[((731 + 394 + 123) - 394 - 123)] = 1; _I00OOIOl = 19211
+    elseif _I00OOIOl == 19867 then _IlOOOlO0Ol[((575 + 767 + 241) - 767 - 241)] = 0; _I00OOIOl = 5831
+    elseif _I00OOIOl == 7375 then _IlOOOlO0Ol[((560 + 209 + 89) - 209 - 89)] = 35; _I00OOIOl = 7094
+    elseif _I00OOIOl == 50121 then _IlOOOlO0Ol[((712 + 995 + 276) - 995 - 276)] = 50; _I00OOIOl = 31059
+    elseif _I00OOIOl == 22634 then _IlOOOlO0Ol[((789 + 619 + 950) - 619 - 950)] = "UICorner"; _I00OOIOl = 1481
+    elseif _I00OOIOl == 17340 then _IlOOOlO0Ol[((652 + 830 + 156) - 830 - 156)] = 45; _I00OOIOl = 1792
+    elseif _I00OOIOl == 3226 then _IlOOOlO0Ol[((675 + 985 + 726) - 985 - 726)] = 0; _I00OOIOl = 46242
+    elseif _I00OOIOl == 71811 then local _lllOl0 = 0.11293481312671894 _I00OOIOl = 19717
+    elseif _I00OOIOl == 103802 then local _lI00lI = 0.22523984509885164 _I00OOIOl = 33803
+    elseif _I00OOIOl == 10046 then _IlOOOlO0Ol[((511 + 755 + 563) - 755 - 563)] = 0; _I00OOIOl = 11205
+    elseif _I00OOIOl == 15991 then _IlOOOlO0Ol[((716 + 102 + 361) - 102 - 361)] = 1; _I00OOIOl = 7357
+    elseif _I00OOIOl == 13116 then _IlOOOlO0Ol[((352 + 615 + 782) - 615 - 782)] = 189707; _I00OOIOl = 16764
+    elseif _I00OOIOl == 35245 then _IlOOOlO0Ol[((886 + 713 + 635) - 713 - 635)] = "Model"; _I00OOIOl = 49351
+    elseif _I00OOIOl == 5831 then _IlOOOlO0Ol[((576 + 821 + 341) - 821 - 341)] = "TextLabel"; _I00OOIOl = 22393
+    elseif _I00OOIOl == 86341 then local _lOIO0l = 0.20712706678146164 _I00OOIOl = 45380
+    elseif _I00OOIOl == 38368 then _IlOOOlO0Ol[((451 + 956 + 603) - 956 - 603)] = 0.12; _I00OOIOl = 32525
+    elseif _I00OOIOl == 69730 then local _lIOOOO = 0.19434399193446772 _I00OOIOl = 17924
+    elseif _I00OOIOl == 89453 then local _lI0IO0 = 0.6289363113854729 _I00OOIOl = 5075
+    elseif _I00OOIOl == 48379 then _IlOOOlO0Ol[((755 + 610 + 358) - 610 - 358)] = 0; _I00OOIOl = 4303
+    elseif _I00OOIOl == 98162 then local _IIO00O = 0.41805966065854383 _I00OOIOl = 42830
+    elseif _I00OOIOl == 39134 then _IlOOOlO0Ol[((411 + 19 + 887) - 19 - 887)] = 220; _I00OOIOl = 13531
+    elseif _I00OOIOl == 61031 then local _I00lll = 0.6103638544179116 _I00OOIOl = 31512
+    elseif _I00OOIOl == 41572 then _IlOOOlO0Ol[((893 + 719 + 893) - 719 - 893)] = 1; _I00OOIOl = 3947
+    elseif _I00OOIOl == 22919 then _IlOOOlO0Ol[((726 + 853 + 237) - 853 - 237)] = 30; _I00OOIOl = 20795
+    elseif _I00OOIOl == 14250 then _IlOOOlO0Ol[((351 + 948 + 522) - 948 - 522)] = "Debris"; _I00OOIOl = 13116
+    elseif _I00OOIOl == 38073 then _IlOOOlO0Ol[((370 + 836 + 748) - 836 - 748)] = "Normal [Z]"; _I00OOIOl = 21107
+    elseif _I00OOIOl == 95870 then local _IlI00I = 0.7868381312365601 _I00OOIOl = 49942
+    elseif _I00OOIOl == 85331 then local _lO0I0I = 0.531966974382311 _I00OOIOl = 16471
+    elseif _I00OOIOl == 82929 then local _II0O0O = 0.35272268068336843 _I00OOIOl = 44661
+    elseif _I00OOIOl == 46475 then _IlOOOlO0Ol[((517 + 97 + 922) - 97 - 922)] = 0; _I00OOIOl = 29417
+    elseif _I00OOIOl == 25839 then _IlOOOlO0Ol[((508 + 944 + 720) - 944 - 720)] = 20; _I00OOIOl = 11164
+    elseif _I00OOIOl == 1286 then _IlOOOlO0Ol[((623 + 5 + 842) - 5 - 842)] = 1; _I00OOIOl = 23325
+    elseif _I00OOIOl == 40545 then _IlOOOlO0Ol[((663 + 643 + 310) - 643 - 310)] = 8; _I00OOIOl = 5818
+    elseif _I00OOIOl == 109421 then local _IOI0Il = 0.5167411050162409 _I00OOIOl = 50121
+    elseif _I00OOIOl == 37271 then _IlOOOlO0Ol[((417 + 247 + 231) - 247 - 231)] = "WeldConstraint"; _I00OOIOl = 23646
+    elseif _I00OOIOl == 27913 then _IlOOOlO0Ol[((865 + 454 + 237) - 454 - 237)] = "Island"; _I00OOIOl = 24366
+    elseif _I00OOIOl == 6682 then _IlOOOlO0Ol[((611 + 345 + 638) - 345 - 638)] = 30; _I00OOIOl = 22543
+    elseif _I00OOIOl == 30213 then _IlOOOlO0Ol[((672 + 129 + 509) - 129 - 509)] = 0.3; _I00OOIOl = 44491
+    elseif _I00OOIOl == 40499 then _IlOOOlO0Ol[((852 + 706 + 812) - 706 - 812)] = 4; _I00OOIOl = 18934
+    elseif _I00OOIOl == 35250 then _IlOOOlO0Ol[((720 + 899 + 329) - 899 - 329)] = 0; _I00OOIOl = 13961
+    elseif _I00OOIOl == 44835 then _IlOOOlO0Ol[((808 + 751 + 468) - 751 - 468)] = 0; _I00OOIOl = 1786
+    elseif _I00OOIOl == 47122 then _IlOOOlO0Ol[((847 + 445 + 188) - 445 - 188)] = "HumanoidRootPart"; _I00OOIOl = 7599
+    elseif _I00OOIOl == 8453 then _IlOOOlO0Ol[((781 + 308 + 561) - 308 - 561)] = 210; _I00OOIOl = 20021
+    elseif _I00OOIOl == 60638 then local _IOIIOl = 0.6462894603402412 _I00OOIOl = 44872
+    elseif _I00OOIOl == 16834 then _IlOOOlO0Ol[((616 + 126 + 66) - 126 - 66)] = 1; _I00OOIOl = 21458
+    elseif _I00OOIOl == 75233 then local _ll0OOl = 0.9859421119800447 _I00OOIOl = 13882
+    elseif _I00OOIOl == 32824 then _IlOOOlO0Ol[((548 + 935 + 106) - 935 - 106)] = "PlayerGui"; _I00OOIOl = 38929
+    elseif _I00OOIOl == 69464 then local _I0IlOI = 0.5053127290519572 _I00OOIOl = 16939
+    elseif _I00OOIOl == 31813 then _IlOOOlO0Ol[((562 + 939 + 14) - 939 - 14)] = 40; _I00OOIOl = 22137
+    elseif _I00OOIOl == 103881 then local _lIl0lI = 0.7623047551075206 _I00OOIOl = 8101
+    elseif _I00OOIOl == 74483 then local _l0IOl0 = 0.5348107510778074 _I00OOIOl = 45850
+    elseif _I00OOIOl == 24242 then _IlOOOlO0Ol[((723 + 597 + 48) - 597 - 48)] = 0.9; _I00OOIOl = 37330
+    elseif _I00OOIOl == 16938 then _IlOOOlO0Ol[((744 + 291 + 625) - 291 - 625)] = 75; _I00OOIOl = 10464
+    elseif _I00OOIOl == 103418 then local _IOll0l = 0.5503895403643764 _I00OOIOl = 22393
+    elseif _I00OOIOl == 44191 then _IlOOOlO0Ol[((437 + 464 + 944) - 464 - 944)] = 25; _I00OOIOl = 36195
+    elseif _I00OOIOl == 67246 then local _IIOllI = 0.24561040928860922 _I00OOIOl = 23271
+    elseif _I00OOIOl == 16764 then _IlOOOlO0Ol[((353 + 930 + 357) - 930 - 357)] = 57; _I00OOIOl = 5984
+    elseif _I00OOIOl == 39770 then _IlOOOlO0Ol[((751 + 331 + 587) - 331 - 587)] = 6; _I00OOIOl = 6078
+    elseif _I00OOIOl == 83856 then local _I00III = 0.5940949484404945 _I00OOIOl = 32431
+    elseif _I00OOIOl == 18486 then _IlOOOlO0Ol[((685 + 847 + 218) - 847 - 218)] = 1; _I00OOIOl = 24507
+    elseif _I00OOIOl == 5312 then _IlOOOlO0Ol[((427 + 420 + 653) - 420 - 653)] = 0; _I00OOIOl = 8449
+    elseif _I00OOIOl == 12231 then _IlOOOlO0Ol[((608 + 955 + 860) - 955 - 860)] = 0; _I00OOIOl = 13445
+    elseif _I00OOIOl == 29338 then _IlOOOlO0Ol[((646 + 575 + 619) - 575 - 619)] = "Frame"; _I00OOIOl = 47576
+    elseif _I00OOIOl == 24966 then _IlOOOlO0Ol[((358 + 590 + 942) - 590 - 942)] = 0; _I00OOIOl = 15353
+    elseif _I00OOIOl == 104575 then local _I0lI0l = 0.49462283224041526 _I00OOIOl = 44837
+    elseif _I00OOIOl == 48674 then _IlOOOlO0Ol[((363 + 740 + 799) - 740 - 799)] = "Time (1-14s):"; _I00OOIOl = 41101
+    elseif _I00OOIOl == 45904 then _IlOOOlO0Ol[((592 + 345 + 745) - 345 - 745)] = 28; _I00OOIOl = 7748
+    elseif _I00OOIOl == 70610 then local _IO0I0I = 0.20283027785993968 _I00OOIOl = 37271
+    elseif _I00OOIOl == 64643 then local _I0OIIO = 0.26468661345316735 _I00OOIOl = 7429
+    elseif _I00OOIOl == 50126 then _IlOOOlO0Ol[((796 + 684 + 246) - 684 - 246)] = "Follow"; _I00OOIOl = 2437
+    elseif _I00OOIOl == 63122 then local _l0OOll = 0.5568791570499703 _I00OOIOl = 32322
+    elseif _I00OOIOl == 80244 then local _Il0O00 = 0.5141390881744241 _I00OOIOl = 2310
+    elseif _I00OOIOl == 2665 then _IlOOOlO0Ol[((661 + 293 + 423) - 293 - 423)] = 0; _I00OOIOl = 1775
+    elseif _I00OOIOl == 40585 then _IlOOOlO0Ol[((625 + 667 + 180) - 667 - 180)] = 0; _I00OOIOl = 13706
+    elseif _I00OOIOl == 16159 then _IlOOOlO0Ol[((813 + 827 + 705) - 827 - 705)] = 0; _I00OOIOl = 4338
+    elseif _I00OOIOl == 14402 then _IlOOOlO0Ol[((831 + 643 + 976) - 643 - 976)] = 1; _I00OOIOl = 24549
+    elseif _I00OOIOl == 44200 then _IlOOOlO0Ol[((773 + 147 + 299) - 147 - 299)] = 50; _I00OOIOl = 37295
+    elseif _I00OOIOl == 44373 then _IlOOOlO0Ol[((656 + 819 + 961) - 819 - 961)] = 6; _I00OOIOl = 47583
+    elseif _I00OOIOl == 35825 then _IlOOOlO0Ol[((495 + 192 + 363) - 192 - 363)] = 255; _I00OOIOl = 38479
+    elseif _I00OOIOl == 2217 then _IlOOOlO0Ol[((477 + 815 + 732) - 815 - 732)] = "PortalFlashGui"; _I00OOIOl = 16934
+    elseif _I00OOIOl == 5184 then _IlOOOlO0Ol[((822 + 794 + 584) - 794 - 584)] = 10; _I00OOIOl = 21660
+    elseif _I00OOIOl == 62455 then local _IlOOOl = 0.1973658994384987 _I00OOIOl = 3486
+    elseif _I00OOIOl == 26196 then _IlOOOlO0Ol[((826 + 383 + 469) - 383 - 469)] = 1; _I00OOIOl = 11953
+    elseif _I00OOIOl == 4966 then _IlOOOlO0Ol[((395 + 328 + 851) - 328 - 851)] = 0; _I00OOIOl = 35577
+    elseif _I00OOIOl == 49265 then _IlOOOlO0Ol[((388 + 413 + 2) - 413 - 2)] = "Слежка [F]"; _I00OOIOl = 6540
+    elseif _I00OOIOl == 29121 then _IlOOOlO0Ol[((754 + 459 + 462) - 459 - 462)] = ""; _I00OOIOl = 48379
+    elseif _I00OOIOl == 2857 then _IlOOOlO0Ol[((787 + 83 + 785) - 83 - 785)] = 30; _I00OOIOl = 50341
+    elseif _I00OOIOl == 50190 then _IlOOOlO0Ol[((507 + 884 + 118) - 884 - 118)] = 20; _I00OOIOl = 25839
+    elseif _I00OOIOl == 5557 then _IlOOOlO0Ol[((603 + 364 + 445) - 364 - 445)] = 1; _I00OOIOl = 9446
+    elseif _I00OOIOl == 90133 then local _lI0l00 = 0.28984116844892127 _I00OOIOl = 50341
+    elseif _I00OOIOl == 49804 then _IlOOOlO0Ol[((643 + 164 + 945) - 164 - 945)] = "UIListLayout"; _I00OOIOl = 6036
+    elseif _I00OOIOl == 15900 then _IlOOOlO0Ol[((654 + 991 + 586) - 991 - 586)] = "UICorner"; _I00OOIOl = 26671
+    elseif _I00OOIOl == 19959 then _IlOOOlO0Ol[((677 + 706 + 766) - 706 - 766)] = 0; _I00OOIOl = 5453
+    elseif _I00OOIOl == 74594 then local _IOlO0O = 0.22288265541876395 _I00OOIOl = 46454
+    elseif _I00OOIOl == 14784 then _IlOOOlO0Ol[((580 + 421 + 533) - 421 - 533)] = 0; _I00OOIOl = 19335
+    elseif _I00OOIOl == 22372 then _IlOOOlO0Ol[((415 + 910 + 504) - 910 - 504)] = 0.6; _I00OOIOl = 40811
+    elseif _I00OOIOl == 64453 then local _l0IOOI = 0.06112267099583635 _I00OOIOl = 45904
+    elseif _I00OOIOl == 75131 then local _lIOlOI = 0.05304584201476126 _I00OOIOl = 34364
+    elseif _I00OOIOl == 72958 then local _llI0I0 = 0.10101466742919474 _I00OOIOl = 17574
+    elseif _I00OOIOl == 109050 then local _l0OO0l = 0.5174825963340464 _I00OOIOl = 8200
+    elseif _I00OOIOl == 31468 then _IlOOOlO0Ol[((936 + 154 + 220) - 154 - 220)] = 3; _I00OOIOl = 8101
+    elseif _I00OOIOl == 16152 then _IlOOOlO0Ol[((794 + 785 + 771) - 785 - 771)] = "GameMap"; _I00OOIOl = 34322
+    elseif _I00OOIOl == 62817 then local _II0I00 = 0.28460258690797313 _I00OOIOl = 5818
+    elseif _I00OOIOl == 28646 then _IlOOOlO0Ol[((571 + 755 + 7) - 755 - 7)] = 30; _I00OOIOl = 47747
+    elseif _I00OOIOl == 45178 then _IlOOOlO0Ol[((447 + 503 + 614) - 503 - 614)] = 2; _I00OOIOl = 13839
+    elseif _I00OOIOl == 85737 then local _lOOOOl = 0.8601141134115081 _I00OOIOl = 37818
+    elseif _I00OOIOl == 26596 then _IlOOOlO0Ol[((530 + 918 + 44) - 918 - 44)] = 0; _I00OOIOl = 30458
+    elseif _I00OOIOl == 29415 then _IlOOOlO0Ol[((594 + 87 + 505) - 87 - 505)] = 30; _I00OOIOl = 36339
+    elseif _I00OOIOl == 32599 then _IlOOOlO0Ol[((806 + 979 + 618) - 979 - 618)] = 0; _I00OOIOl = 42035
+    elseif _I00OOIOl == 12072 then _IlOOOlO0Ol[((919 + 861 + 353) - 861 - 353)] = 1; _I00OOIOl = 5732
+    elseif _I00OOIOl == 107726 then local _I00I00 = 0.5718855298300481 _I00OOIOl = 43196
+    elseif _I00OOIOl == 26346 then _IlOOOlO0Ol[((631 + 719 + 549) - 719 - 549)] = 0; _I00OOIOl = 46352
+    elseif _I00OOIOl == 62609 then local _IIOO00 = 0.40530026385842755 _I00OOIOl = 34691
+    elseif _I00OOIOl == 24366 then _IlOOOlO0Ol[((866 + 26 + 883) - 26 - 883)] = 122; _I00OOIOl = 24134
+    elseif _I00OOIOl == 42064 then _IlOOOlO0Ol[((526 + 675 + 750) - 675 - 750)] = 0; _I00OOIOl = 38577
+    elseif _I00OOIOl == 9334 then _IlOOOlO0Ol[((585 + 459 + 994) - 459 - 994)] = 1; _I00OOIOl = 1479
+    elseif _I00OOIOl == 108293 then local _lIOlII = 0.08382548093700548 _I00OOIOl = 26671
+    elseif _I00OOIOl == 43900 then _IlOOOlO0Ol[((605 + 87 + 240) - 87 - 240)] = "TextButton"; _I00OOIOl = 37722
+    elseif _I00OOIOl == 74161 then local _Il0lll = 0.3805697727060461 _I00OOIOl = 1642
+    elseif _I00OOIOl == 49942 then _IlOOOlO0Ol[((944 + 545 + 900) - 545 - 900)] = "Normal"; _I00OOIOl = 9890
+    elseif _I00OOIOl == 88912 then local _lIOOlO = 0.944905344610269 _I00OOIOl = 44466
+    elseif _I00OOIOl == 69835 then local _I0O0lO = 0.6326465647436316 _I00OOIOl = 5184
+    elseif _I00OOIOl == 14232 then _IlOOOlO0Ol[((895 + 711 + 819) - 711 - 819)] = 0; _I00OOIOl = 22102
+    elseif _I00OOIOl == 66778 then local _IIllll = 0.43846861176258656 _I00OOIOl = 12541
+    elseif _I00OOIOl == 83269 then local _I0OIIO = 0.8187637823855061 _I00OOIOl = 18934
+    elseif _I00OOIOl == 87152 then local _IlOIl0 = 0.6539472592319829 _I00OOIOl = 3582
+    elseif _I00OOIOl == 7599 then _IlOOOlO0Ol[((848 + 129 + 253) - 129 - 253)] = "Humanoid"; _I00OOIOl = 2537
+    elseif _I00OOIOl == 30474 then _IlOOOlO0Ol[((469 + 448 + 61) - 448 - 61)] = 15; _I00OOIOl = 16664
+    elseif _I00OOIOl == 34329 then _IlOOOlO0Ol[((780 + 627 + 818) - 627 - 818)] = 0; _I00OOIOl = 8453
+    elseif _I00OOIOl == 67175 then local _IOOOI0 = 0.8481219723287662 _I00OOIOl = 18822
+    elseif _I00OOIOl == 76580 then local _I0llO0 = 0.4244339881210545 _I00OOIOl = 47437
+    elseif _I00OOIOl == 3766 then _IlOOOlO0Ol[((550 + 361 + 3) - 361 - 3)] = 0; _I00OOIOl = 47460
+    elseif _I00OOIOl == 42511 then _IlOOOlO0Ol[((393 + 661 + 134) - 661 - 134)] = 0.3; _I00OOIOl = 48523
+    elseif _I00OOIOl == 77625 then local _Il0l0O = 0.5292067994189057 _I00OOIOl = 29605
+    elseif _I00OOIOl == 43196 then _IlOOOlO0Ol[((645 + 228 + 66) - 228 - 66)] = 6; _I00OOIOl = 29338
+    elseif _I00OOIOl == 24231 then _IlOOOlO0Ol[((399 + 15 + 509) - 15 - 509)] = "Part"; _I00OOIOl = 41496
+    elseif _I00OOIOl == 75828 then local _Il0Ill = 0.8464822710097887 _I00OOIOl = 8453
+    elseif _I00OOIOl == 46870 then _IlOOOlO0Ol[((772 + 480 + 465) - 480 - 465)] = 0; _I00OOIOl = 44200
+    elseif _I00OOIOl == 98410 then local _IlOI0l = 0.596524158658301 _I00OOIOl = 22372
+    elseif _I00OOIOl == 108643 then local _lOIIIl = 0.3182198119354611 _I00OOIOl = 8257
+    elseif _I00OOIOl == 81368 then local _Il0O0l = 0.4711862492042349 _I00OOIOl = 25991
+    elseif _I00OOIOl == 97401 then local _l000l0 = 0.08517709335666779 _I00OOIOl = 11205
+    elseif _I00OOIOl == 62193 then local _lO00l0 = 0.21505161663008943 _I00OOIOl = 16356
+    elseif _I00OOIOl == 67226 then local _I0llII = 0.5764238401211257 _I00OOIOl = 6682
+    elseif _I00OOIOl == 63428 then local _lOO00l = 0.5717888851004931 _I00OOIOl = 50427
+    elseif _I00OOIOl == 10464 then _IlOOOlO0Ol[((745 + 131 + 335) - 131 - 335)] = 1; _I00OOIOl = 9193
+    elseif _I00OOIOl == 75631 then local _l0lllO = 0.06626372485734844 _I00OOIOl = 48516
+    elseif _I00OOIOl == 26967 then _IlOOOlO0Ol[((762 + 918 + 296) - 918 - 296)] = 255; _I00OOIOl = 41553
+    elseif _I00OOIOl == 34364 then _IlOOOlO0Ol[((501 + 855 + 968) - 855 - 968)] = "RickPocketDimension"; _I00OOIOl = 18114
+    elseif _I00OOIOl == 84624 then local _l0IIlO = 0.8838714261760741 _I00OOIOl = 8478
+    elseif _I00OOIOl == 3988 then _IlOOOlO0Ol[((760 + 649 + 813) - 649 - 813)] = 60; _I00OOIOl = 24979
+    elseif _I00OOIOl == 15353 then _IlOOOlO0Ol[((359 + 648 + 734) - 648 - 734)] = "Green"; _I00OOIOl = 42464
+    elseif _I00OOIOl == 33192 then _IlOOOlO0Ol[((846 + 122 + 180) - 122 - 180)] = "Follow"; _I00OOIOl = 47122
+    elseif _I00OOIOl == 17275 then _IlOOOlO0Ol[((504 + 459 + 572) - 459 - 572)] = 0; _I00OOIOl = 46048
+    elseif _I00OOIOl == 90272 then local _Il0lOl = 0.9406853696312274 _I00OOIOl = 8430
+    elseif _I00OOIOl == 108215 then local _lOl0I0 = 0.3723443212391926 _I00OOIOl = 5818
+    elseif _I00OOIOl == 36339 then _IlOOOlO0Ol[((595 + 429 + 131) - 429 - 131)] = 1; _I00OOIOl = 40974
+    elseif _I00OOIOl == 39801 then _IlOOOlO0Ol[((544 + 22 + 614) - 22 - 614)] = 1; _I00OOIOl = 3101
+    elseif _I00OOIOl == 92929 then local _llI0Ol = 0.014832226180812591 _I00OOIOl = 50341
+    elseif _I00OOIOl == 33204 then _IlOOOlO0Ol[((488 + 703 + 303) - 703 - 303)] = 1; _I00OOIOl = 44056
+    elseif _I00OOIOl == 34670 then _IlOOOlO0Ol[((479 + 648 + 80) - 648 - 80)] = "PlayerGui"; _I00OOIOl = 26330
+    elseif _I00OOIOl == 97369 then local _lIOOI0 = 0.28181675954838403 _I00OOIOl = 29417
+    elseif _I00OOIOl == 4202 then _IlOOOlO0Ol[((815 + 233 + 22) - 233 - 22)] = 1; _I00OOIOl = 8924
+    elseif _I00OOIOl == 78878 then local _lllOlI = 0.2809299581667345 _I00OOIOl = 11806
+    elseif _I00OOIOl == 15523 then _IlOOOlO0Ol[((570 + 113 + 803) - 113 - 803)] = 0; _I00OOIOl = 28646
+    elseif _I00OOIOl == 1798 then _IlOOOlO0Ol[((457 + 71 + 501) - 71 - 501)] = "ShootEffect"; _I00OOIOl = 37107
+    elseif _I00OOIOl == 23436 then _IlOOOlO0Ol[((446 + 474 + 737) - 474 - 737)] = 0; _I00OOIOl = 45178
+    elseif _I00OOIOl == 7172 then _IlOOOlO0Ol[((567 + 150 + 458) - 150 - 458)] = "Frame"; _I00OOIOl = 11331
+    elseif _I00OOIOl == 24500 then _IlOOOlO0Ol[((558 + 49 + 236) - 49 - 236)] = 0.5; _I00OOIOl = 44575
+    elseif _I00OOIOl == 29008 then _IlOOOlO0Ol[((534 + 859 + 360) - 859 - 360)] = 1; _I00OOIOl = 42325
+    elseif _I00OOIOl == 24979 then _IlOOOlO0Ol[((761 + 195 + 310) - 195 - 310)] = 255; _I00OOIOl = 26967
+    elseif _I00OOIOl == 26705 then _IlOOOlO0Ol[((812 + 975 + 213) - 975 - 213)] = "ParticleEmitter"; _I00OOIOl = 16159
+    elseif _I00OOIOl == 12025 then _IlOOOlO0Ol[((833 + 185 + 379) - 185 - 379)] = 2; _I00OOIOl = 6057
+    elseif _I00OOIOl == 46352 then _IlOOOlO0Ol[((632 + 43 + 251) - 43 - 251)] = 5; _I00OOIOl = 35817
+    elseif _I00OOIOl == 3114 then _IlOOOlO0Ol[((805 + 370 + 209) - 370 - 209)] = 30; _I00OOIOl = 32599
+    elseif _I00OOIOl == 23123 then _IlOOOlO0Ol[((439 + 347 + 517) - 347 - 517)] = 0; _I00OOIOl = 38258
+    elseif _I00OOIOl == 40356 then _IlOOOlO0Ol[((888 + 953 + 924) - 953 - 924)] = 0.25; _I00OOIOl = 17131
+    elseif _I00OOIOl == 46454 then _IlOOOlO0Ol[((520 + 413 + 339) - 413 - 339)] = 2; _I00OOIOl = 20913
+    elseif _I00OOIOl == 47460 then _IlOOOlO0Ol[((551 + 572 + 591) - 572 - 591)] = "Backpack"; _I00OOIOl = 50480
+    elseif _I00OOIOl == 79897 then local _IIlOl0 = 0.4270006998967045 _I00OOIOl = 34723
+    elseif _I00OOIOl == 72701 then local _IO00lI = 0.3605106333173378 _I00OOIOl = 8660
+    elseif _I00OOIOl == 78496 then local _llOII0 = 0.5345643888660879 _I00OOIOl = 35817
+    elseif _I00OOIOl == 41553 then _IlOOOlO0Ol[((763 + 737 + 10) - 737 - 10)] = 255; _I00OOIOl = 3994
+    elseif _I00OOIOl == 38929 then _IlOOOlO0Ol[((549 + 108 + 732) - 108 - 732)] = "Humanoid"; _I00OOIOl = 3766
+    elseif _I00OOIOl == 83616 then local _lIl0O0 = 0.7755289912778459 _I00OOIOl = 38577
+    elseif _I00OOIOl == 108633 then local _I00OIO = 0.30336040186458757 _I00OOIOl = 22372
+    elseif _I00OOIOl == 8122 then _IlOOOlO0Ol[((362 + 960 + 181) - 960 - 181)] = "Settings"; _I00OOIOl = 48674
+    elseif _I00OOIOl == 42325 then _IlOOOlO0Ol[((535 + 385 + 747) - 385 - 747)] = 0; _I00OOIOl = 3797
+    elseif _I00OOIOl == 42830 then _IlOOOlO0Ol[((821 + 940 + 900) - 940 - 900)] = 5; _I00OOIOl = 5184
+    elseif _I00OOIOl == 47163 then _IlOOOlO0Ol[((369 + 711 + 136) - 711 - 136)] = "← Back to modes"; _I00OOIOl = 38073
+    elseif _I00OOIOl == 8784 then _IlOOOlO0Ol[((750 + 806 + 304) - 806 - 304)] = 0; _I00OOIOl = 39770
+    elseif _I00OOIOl == 17160 then _IlOOOlO0Ol[((380 + 170 + 144) - 170 - 144)] = "Размер: Обычный 🧍"; _I00OOIOl = 29117
+    elseif _I00OOIOl == 20025 then _IlOOOlO0Ol[((373 + 887 + 676) - 887 - 676)] = "PocketDim [V]"; _I00OOIOl = 1115
+    elseif _I00OOIOl == 37722 then _IlOOOlO0Ol[((606 + 546 + 484) - 546 - 484)] = 0; _I00OOIOl = 48516
+    elseif _I00OOIOl == 6968 then _IlOOOlO0Ol[((741 + 651 + 62) - 651 - 62)] = 30; _I00OOIOl = 19050
+    elseif _I00OOIOl == 91090 then local _ll0lOI = 0.03064507528618765 _I00OOIOl = 38871
+    elseif _I00OOIOl == 96800 then local _lOIIll = 0.6527738555082535 _I00OOIOl = 39134
+    elseif _I00OOIOl == 9446 then _IlOOOlO0Ol[((604 + 980 + 357) - 980 - 357)] = 14; _I00OOIOl = 43900
+    elseif _I00OOIOl == 22481 then _IlOOOlO0Ol[((627 + 142 + 882) - 142 - 882)] = 0; _I00OOIOl = 7279
+    elseif _I00OOIOl == 93184 then local _IlO0lI = 0.6639588319554197 _I00OOIOl = 44575
+    elseif _I00OOIOl == 5732 then _IlOOOlO0Ol[((920 + 941 + 124) - 941 - 124)] = 0; _I00OOIOl = 5956
+    elseif _I00OOIOl == 103036 then local _lll0IO = 0.24212412743445633 _I00OOIOl = 46475
+    elseif _I00OOIOl == 89719 then local _IIOO00 = 0.14364681657793255 _I00OOIOl = 21660
+    elseif _I00OOIOl == 88436 then local _I0OO00 = 0.22964619972999933 _I00OOIOl = 11660
+    elseif _I00OOIOl == 24549 then _IlOOOlO0Ol[((832 + 155 + 622) - 155 - 622)] = 2; _I00OOIOl = 12025
+    elseif _I00OOIOl == 101462 then local _llO0ll = 0.5016810546434384 _I00OOIOl = 11660
+    elseif _I00OOIOl == 74890 then local _lOIl00 = 0.045433687391672195 _I00OOIOl = 1115
+    elseif _I00OOIOl == 96567 then local _l0OlOI = 0.9060233815958489 _I00OOIOl = 37624
+    elseif _I00OOIOl == 23271 then _IlOOOlO0Ol[((828 + 475 + 479) - 475 - 479)] = "Humanoid"; _I00OOIOl = 48301
+    elseif _I00OOIOl == 12035 then _IlOOOlO0Ol[((882 + 244 + 13) - 244 - 13)] = 0; _I00OOIOl = 19237
+    elseif _I00OOIOl == 18934 then _IlOOOlO0Ol[((853 + 120 + 265) - 120 - 265)] = 0; _I00OOIOl = 32431
+    elseif _I00OOIOl == 17131 then _IlOOOlO0Ol[((889 + 860 + 817) - 860 - 817)] = 0; _I00OOIOl = 12297
+    elseif _I00OOIOl == 23770 then _IlOOOlO0Ol[((367 + 922 + 783) - 922 - 783)] = "Size: Big 🚗"; _I00OOIOl = 11435
+    elseif _I00OOIOl == 94802 then local _IlIO0I = 0.4962902040663748 _I00OOIOl = 14232
+    elseif _I00OOIOl == 3994 then _IlOOOlO0Ol[((764 + 129 + 578) - 129 - 578)] = "EN"; _I00OOIOl = 3486
+    elseif _I00OOIOl == 44248 then _IlOOOlO0Ol[((542 + 985 + 828) - 985 - 828)] = 255; _I00OOIOl = 30299
+    elseif _I00OOIOl == 42607 then _IlOOOlO0Ol[((911 + 948 + 321) - 948 - 321)] = 1; _I00OOIOl = 4184
+    elseif _I00OOIOl == 37898 then _IlOOOlO0Ol[((648 + 952 + 299) - 952 - 299)] = 0; _I00OOIOl = 27499
+    elseif _I00OOIOl == 5958 then _IlOOOlO0Ol[((564 + 90 + 4) - 90 - 4)] = "UICorner"; _I00OOIOl = 24634
+    elseif _I00OOIOl == 12761 then _IlOOOlO0Ol[((599 + 358 + 623) - 358 - 623)] = 1; _I00OOIOl = 20476
+    elseif _I00OOIOl == 102022 then local _lllO0I = 0.5343330642514169 _I00OOIOl = 47747
+    elseif _I00OOIOl == 22146 then _IlOOOlO0Ol[((392 + 873 + 499) - 873 - 499)] = 250; _I00OOIOl = 42511
+    elseif _I00OOIOl == 91750 then local _II0OIO = 0.5370581863058904 _I00OOIOl = 44191
+    elseif _I00OOIOl == 47827 then _IlOOOlO0Ol[((863 + 228 + 17) - 228 - 17)] = 0; _I00OOIOl = 48959
+    elseif _I00OOIOl == 40811 then _IlOOOlO0Ol[((416 + 778 + 209) - 778 - 209)] = 0.4; _I00OOIOl = 37271
+    elseif _I00OOIOl == 1369 then _IlOOOlO0Ol[((779 + 831 + 839) - 831 - 839)] = "–"; _I00OOIOl = 34329
+    elseif _I00OOIOl == 3625 then _IlOOOlO0Ol[((516 + 636 + 495) - 636 - 495)] = 7.5; _I00OOIOl = 46475
+    elseif _I00OOIOl == 13085 then _IlOOOlO0Ol[((777 + 683 + 286) - 683 - 286)] = 1; _I00OOIOl = 49184
+    elseif _I00OOIOl == 20476 then _IlOOOlO0Ol[((600 + 232 + 652) - 232 - 652)] = "⚙️"; _I00OOIOl = 47437
+    elseif _I00OOIOl == 42436 then _IlOOOlO0Ol[((566 + 137 + 198) - 137 - 198)] = 8; _I00OOIOl = 7172
+    elseif _I00OOIOl == 84575 then local _lOOOOl = 0.270695215338552 _I00OOIOl = 50341
+    elseif _I00OOIOl == 92902 then local _lIIO0O = 0.12224464937659107 _I00OOIOl = 42511
+    elseif _I00OOIOl == 50341 then _IlOOOlO0Ol[((788 + 415 + 200) - 415 - 200)] = 12; _I00OOIOl = 22634
+    elseif _I00OOIOl == 49474 then _IlOOOlO0Ol[((770 + 915 + 194) - 915 - 194)] = 0; _I00OOIOl = 49185
+    elseif _I00OOIOl == 7094 then _IlOOOlO0Ol[((561 + 441 + 620) - 441 - 620)] = 35; _I00OOIOl = 31813
+    elseif _I00OOIOl == 20073 then _IlOOOlO0Ol[((554 + 37 + 249) - 37 - 249)] = 210; _I00OOIOl = 20448
+    elseif _I00OOIOl == 70271 then local _IO0I0O = 0.32977392082051604 _I00OOIOl = 9334
+    elseif _I00OOIOl == 1083 then _IlOOOlO0Ol[((634 + 69 + 428) - 69 - 428)] = 1; _I00OOIOl = 26046
+    elseif _I00OOIOl == 1775 then _IlOOOlO0Ol[((662 + 404 + 893) - 404 - 893)] = 0; _I00OOIOl = 40545
+    elseif _I00OOIOl == 103254 then local _II0l0l = 0.9154887831398764 _I00OOIOl = 38073
+    elseif _I00OOIOl == 79744 then local _llII00 = 0.145351633125539 _I00OOIOl = 14784
+    elseif _I00OOIOl == 31372 then _IlOOOlO0Ol[((650 + 277 + 276) - 277 - 276)] = 30; _I00OOIOl = 37734
+    elseif _I00OOIOl == 66464 then local _lOIOOO = 0.39836767314984334 _I00OOIOl = 22334
+    elseif _I00OOIOl == 63439 then local _lIIlIl = 0.3317451640509621 _I00OOIOl = 19263
+    elseif _I00OOIOl == 5075 then _IlOOOlO0Ol[((769 + 92 + 415) - 92 - 415)] = "Green"; _I00OOIOl = 49474
+    elseif _I00OOIOl == 2176 then _IlOOOlO0Ol[((528 + 607 + 354) - 607 - 354)] = 15; _I00OOIOl = 27492
+    elseif _I00OOIOl == 44575 then _IlOOOlO0Ol[((559 + 238 + 909) - 238 - 909)] = 2; _I00OOIOl = 7375
+    elseif _I00OOIOl == 33217 then _IlOOOlO0Ol[((910 + 687 + 461) - 687 - 461)] = 0; _I00OOIOl = 42607
+    elseif _I00OOIOl == 7161 then _IlOOOlO0Ol[((484 + 104 + 487) - 104 - 487)] = 0; _I00OOIOl = 28328
+    elseif _I00OOIOl == 10379 then _IlOOOlO0Ol[((875 + 38 + 676) - 38 - 676)] = 1; _I00OOIOl = 19245
+    elseif _I00OOIOl == 37390 then _IlOOOlO0Ol[((397 + 868 + 867) - 868 - 867)] = "Tool"; _I00OOIOl = 20650
+    elseif _I00OOIOl == 8200 then _IlOOOlO0Ol[((749 + 44 + 62) - 44 - 62)] = "UICorner"; _I00OOIOl = 8784
+    elseif _I00OOIOl == 18125 then _IlOOOlO0Ol[((793 + 824 + 900) - 824 - 900)] = "LobbyMap"; _I00OOIOl = 16152
+    elseif _I00OOIOl == 20960 then _IlOOOlO0Ol[((943 + 537 + 379) - 537 - 379)] = 2000; _I00OOIOl = 49942
+    elseif _I00OOIOl == 48034 then _IlOOOlO0Ol[((909 + 465 + 698) - 465 - 698)] = 0; _I00OOIOl = 33217
+    elseif _I00OOIOl == 50813 then _IlOOOlO0Ol[((681 + 906 + 441) - 906 - 441)] = 60; _I00OOIOl = 38059
+    elseif _I00OOIOl == 37764 then _IlOOOlO0Ol[((905 + 261 + 867) - 261 - 867)] = 0.6; _I00OOIOl = 28470
+    elseif _I00OOIOl == 107512 then local _IIII0l = 0.35364809604076397 _I00OOIOl = 36578
+    elseif _I00OOIOl == 13676 then _IlOOOlO0Ol[((884 + 794 + 491) - 794 - 491)] = 0; _I00OOIOl = 37624
+    elseif _I00OOIOl == 1481 then _IlOOOlO0Ol[((790 + 263 + 581) - 263 - 581)] = 0; _I00OOIOl = 47319
+    elseif _I00OOIOl == 19237 then _IlOOOlO0Ol[((883 + 344 + 800) - 344 - 800)] = 0; _I00OOIOl = 13676
+    elseif _I00OOIOl == 27603 then _IlOOOlO0Ol[((640 + 730 + 630) - 730 - 630)] = 0; _I00OOIOl = 49671
+    elseif _I00OOIOl == 37295 then _IlOOOlO0Ol[((774 + 529 + 143) - 529 - 143)] = 50; _I00OOIOl = 1138
+    elseif _I00OOIOl == 109535 then local _IIlIO0 = 0.2560013471395637 _I00OOIOl = 8660
+    elseif _I00OOIOl == 15744 then _IlOOOlO0Ol[((670 + 907 + 789) - 907 - 789)] = 11; _I00OOIOl = 43972
+    elseif _I00OOIOl == 105880 then local _l0IlO0 = 0.1391345458013411 _I00OOIOl = 3226
+    elseif _I00OOIOl == 31512 then _IlOOOlO0Ol[((877 + 60 + 290) - 60 - 290)] = 4; _I00OOIOl = 41825
+    elseif _I00OOIOl == 5453 then _IlOOOlO0Ol[((678 + 338 + 336) - 338 - 336)] = 0.125; _I00OOIOl = 15636
+    elseif _I00OOIOl == 50889 then _IlOOOlO0Ol[((792 + 801 + 160) - 801 - 160)] = "Normal"; _I00OOIOl = 18125
+    elseif _I00OOIOl == 14365 then _IlOOOlO0Ol[((785 + 7 + 102) - 7 - 102)] = 0; _I00OOIOl = 10153
+    elseif _I00OOIOl == 93081 then local _lI0I0O = 0.18114663440796275 _I00OOIOl = 18270
+    elseif _I00OOIOl == 35761 then _IlOOOlO0Ol[((783 + 484 + 912) - 484 - 912)] = "TextButton"; _I00OOIOl = 26986
+    elseif _I00OOIOl == 32322 then _IlOOOlO0Ol[((856 + 676 + 977) - 676 - 977)] = "PocketDim"; _I00OOIOl = 36350
+    elseif _I00OOIOl == 78149 then local _lOOOlO = 0.4713763873554866 _I00OOIOl = 44491
+    elseif _I00OOIOl == 1138 then _IlOOOlO0Ol[((775 + 516 + 819) - 516 - 819)] = 60; _I00OOIOl = 10193
+    elseif _I00OOIOl == 96555 then local _IIIIOO = 0.027576803447122544 _I00OOIOl = 23770
+    elseif _I00OOIOl == 81240 then local _lOOl00 = 0.06748982778585189 _I00OOIOl = 19335
+    elseif _I00OOIOl == 34322 then _IlOOOlO0Ol[((795 + 612 + 787) - 612 - 787)] = "PocketDim"; _I00OOIOl = 50126
+    elseif _I00OOIOl == 30299 then _IlOOOlO0Ol[((543 + 890 + 444) - 890 - 444)] = 200; _I00OOIOl = 39801
+    elseif _I00OOIOl == 82077 then local _I0I00O = 0.49588987511771365 _I00OOIOl = 42436
+    elseif _I00OOIOl == 98733 then local _l0lIOO = 0.9943059166265991 _I00OOIOl = 11566
+    elseif _I00OOIOl == 67111 then local _I0l0Ol = 0.40283861915014785 _I00OOIOl = 29415
+    elseif _I00OOIOl == 85092 then local _llOI00 = 0.7387902284178565 _I00OOIOl = 31964
+    elseif _I00OOIOl == 4909 then _IlOOOlO0Ol[((925 + 29 + 729) - 29 - 729)] = 0.5; _I00OOIOl = 18822
+    elseif _I00OOIOl == 15407 then _IlOOOlO0Ol[((907 + 980 + 369) - 980 - 369)] = "Hitbox"; _I00OOIOl = 16300
+    elseif _I00OOIOl == 27240 then _IlOOOlO0Ol[((898 + 625 + 562) - 625 - 562)] = 0.5; _I00OOIOl = 40430
+    elseif _I00OOIOl == 73838 then local _I00OOI = 0.13645785149858458 _I00OOIOl = 20953
+    elseif _I00OOIOl == 76016 then local _IIlOO0 = 0.3493945655709716 _I00OOIOl = 4291
+    elseif _I00OOIOl == 105801 then local _IOl0I0 = 0.2389903904121944 _I00OOIOl = 16562
+    elseif _I00OOIOl == 108194 then local _ll0IlI = 0.5552695824091292 _I00OOIOl = 19245
+    elseif _I00OOIOl == 76857 then local _llIOll = 0.3218182851089537 _I00OOIOl = 37490
+    elseif _I00OOIOl == 66767 then local _I00OOO = 0.18294553190892815 _I00OOIOl = 14365
+    elseif _I00OOIOl == 40093 then _IlOOOlO0Ol[((897 + 788 + 369) - 788 - 369)] = 20; _I00OOIOl = 27240
+    elseif _I00OOIOl == 105025 then local _I0lOlO = 0.2457798997245889 _I00OOIOl = 29117
+    elseif _I00OOIOl == 69826 then local _lI0lOO = 0.20198495920416504 _I00OOIOl = 17340
+    elseif _I00OOIOl == 65830 then local _l0IO00 = 0.6113671957642779 _I00OOIOl = 50660
+    elseif _I00OOIOl == 67726 then local _llOO0O = 0.6538756292195479 _I00OOIOl = 39770
+    elseif _I00OOIOl == 99181 then local _llOl0O = 0.6952762977262038 _I00OOIOl = 41825
+    elseif _I00OOIOl == 86726 then local _lO0ll0 = 0.41107387331150025 _I00OOIOl = 11435
+    elseif _I00OOIOl == 31964 then _IlOOOlO0Ol[((930 + 949 + 496) - 949 - 496)] = 0.25; _I00OOIOl = 16592
+    elseif _I00OOIOl == 45699 then _IlOOOlO0Ol[((871 + 841 + 423) - 841 - 423)] = 0; _I00OOIOl = 44837
+    elseif _I00OOIOl == 11864 then _IlOOOlO0Ol[((924 + 237 + 258) - 237 - 258)] = 0; _I00OOIOl = 4909
+    elseif _I00OOIOl == 92399 then local _I0IOOI = 0.27096229320915155 _I00OOIOl = 2310
+    elseif _I00OOIOl == 94659 then local _lllOII = 0.6528289343545577 _I00OOIOl = 35250
+    elseif _I00OOIOl == 22102 then _IlOOOlO0Ol[((896 + 432 + 263) - 432 - 263)] = 16; _I00OOIOl = 40093
+    elseif _I00OOIOl == 18159 then _IlOOOlO0Ol[((861 + 910 + 952) - 910 - 952)] = 0; _I00OOIOl = 24808
+    elseif _I00OOIOl == 109135 then local _I0O0Ol = 0.8193211129088476 _I00OOIOl = 30474
+    elseif _I00OOIOl == 25645 then _IlOOOlO0Ol[((932 + 118 + 25) - 118 - 25)] = 255; _I00OOIOl = 26543
+    elseif _I00OOIOl == 18349 then _IlOOOlO0Ol[((903 + 252 + 692) - 252 - 692)] = 6; _I00OOIOl = 18244
+    elseif _I00OOIOl == 49351 then _IlOOOlO0Ol[((887 + 704 + 54) - 704 - 54)] = "RickPortal"; _I00OOIOl = 40356
+    elseif _I00OOIOl == 64233 then local _Il0l0l = 0.2366722924682504 _I00OOIOl = 28764
+    elseif _I00OOIOl == 84891 then local _lIIII0 = 0.9490159989112313 _I00OOIOl = 32525
+    elseif _I00OOIOl == 3947 then _IlOOOlO0Ol[((894 + 238 + 34) - 238 - 34)] = 0; _I00OOIOl = 14232
+    elseif _I00OOIOl == 35821 then _IlOOOlO0Ol[((860 + 537 + 273) - 537 - 273)] = "StepPart"; _I00OOIOl = 18159
+    elseif _I00OOIOl == 88636 then local _IOIOOO = 0.42104422654619866 _I00OOIOl = 50813
+    elseif _I00OOIOl == 14665 then _IlOOOlO0Ol[((868 + 24 + 580) - 24 - 580)] = 0; _I00OOIOl = 47160
+    elseif _I00OOIOl == 16300 then _IlOOOlO0Ol[((908 + 538 + 277) - 538 - 277)] = 0; _I00OOIOl = 48034
+    elseif _I00OOIOl == 48959 then _IlOOOlO0Ol[((864 + 433 + 301) - 433 - 301)] = "GameMap"; _I00OOIOl = 27913
+    elseif _I00OOIOl == 21660 then _IlOOOlO0Ol[((823 + 316 + 319) - 316 - 319)] = 360; _I00OOIOl = 34121
+    elseif _I00OOIOl == 24808 then _IlOOOlO0Ol[((862 + 562 + 541) - 562 - 541)] = 5; _I00OOIOl = 47827
+    elseif _I00OOIOl == 19211 then _IlOOOlO0Ol[((732 + 74 + 176) - 74 - 176)] = 1; _I00OOIOl = 21499
+    elseif _I00OOIOl == 39993 then break end
+end
+
+local _l00OlO0IOlIOO0O = game:GetService(_IlOOOlO0Ol[((347 + 879 + 515) - 879 - 515)])
+local _ll0Ol0l0O0IlOOl = game:GetService(_IlOOOlO0Ol[((348 + 401 + 908) - 401 - 908)])
+local _I0IO0OI0lIIlO0l = game:GetService(_IlOOOlO0Ol[((349 + 400 + 773) - 400 - 773)])
+local _l000O00l00IOI0I = game:GetService(_IlOOOlO0Ol[((350 + 374 + 756) - 374 - 756)])
+local _lOOl0l0I00Il0II = game:GetService(_IlOOOlO0Ol[((351 + 362 + 316) - 362 - 316)])
+
+local _ll0IlII0OlOIOlO = _l00OlO0IOlIOO0O.LocalPlayer
+local _llIIOOlOIOIlllO = _ll0IlII0OlOIOlO:GetMouse()
+
+
+
+
+local _lIlOl00I0OIOOIl = _IlOOOlO0Ol[((352 + 411 + 884) - 411 - 884)]
+local _Ill0llllO00lI0O = (game.PlaceId == _lIlOl00I0OIOOIl)
+
+local _lOllOOI0IIIIOll = Color3.fromRGB(_IlOOOlO0Ol[((353 + 735 + 560) - 735 - 560)], _IlOOOlO0Ol[((354 + 259 + 738) - 259 - 738)], _IlOOOlO0Ol[((355 + 176 + 474) - 176 - 474)])
+local _IllOlIlOOllIIlI = Color3.fromRGB(_IlOOOlO0Ol[((356 + 853 + 590) - 853 - 590)], _IlOOOlO0Ol[((357 + 947 + 224) - 947 - 224)], _IlOOOlO0Ol[((358 + 577 + 540) - 577 - 540)])
+
+local _lI0Ol0OIII0IOOl = _IlOOOlO0Ol[((359 + 997 + 912) - 997 - 912)]
+local _IlIOOlIl00llll0 = _lOllOOI0IIIIOll
+local _lI0IOO0IllOIOIO = false
+
+
+
+
+local _IIIlOIlII0IOlIl = _IlOOOlO0Ol[((360 + 203 + 911) - 203 - 911)]
+
+local _llIOOOOlIO0IOlO = {
+	EN = {
+		mode = _IlOOOlO0Ol[((361 + 295 + 415) - 295 - 415)],
+		settings = _IlOOOlO0Ol[((362 + 25 + 21) - 25 - 21)],
+		time = _IlOOOlO0Ol[((363 + 688 + 492) - 688 - 492)],
+		colorGreen = _IlOOOlO0Ol[((364 + 238 + 977) - 238 - 977)],
+		colorYellow = _IlOOOlO0Ol[((365 + 509 + 397) - 509 - 397)],
+		sizeNormal = _IlOOOlO0Ol[((366 + 834 + 234) - 834 - 234)],
+		sizeBig = _IlOOOlO0Ol[((367 + 891 + 580) - 891 - 580)],
+		langBtn = _IlOOOlO0Ol[((368 + 542 + 681) - 542 - 681)],
+		_I00lll0llOI0III = _IlOOOlO0Ol[((369 + 633 + 226) - 633 - 226)],
+		modeNames = {
+			Normal = _IlOOOlO0Ol[((370 + 811 + 979) - 811 - 979)],
+			LobbyMap = _IlOOOlO0Ol[((371 + 713 + 917) - 713 - 917)],
+			GameMap = _IlOOOlO0Ol[((372 + 546 + 236) - 546 - 236)],
+			PocketDim = _IlOOOlO0Ol[((373 + 681 + 403) - 681 - 403)],
+			Follow = _IlOOOlO0Ol[((374 + 545 + 739) - 545 - 739)]
+		}
+	},
+	RU = {
+		mode = _IlOOOlO0Ol[((375 + 383 + 292) - 383 - 292)],
+		settings = _IlOOOlO0Ol[((376 + 134 + 432) - 134 - 432)],
+		time = _IlOOOlO0Ol[((377 + 756 + 448) - 756 - 448)],
+		colorGreen = _IlOOOlO0Ol[((378 + 377 + 293) - 377 - 293)],
+		colorYellow = _IlOOOlO0Ol[((379 + 817 + 95) - 817 - 95)],
+		sizeNormal = _IlOOOlO0Ol[((380 + 844 + 925) - 844 - 925)],
+		sizeBig = _IlOOOlO0Ol[((381 + 239 + 155) - 239 - 155)],
+		langBtn = _IlOOOlO0Ol[((382 + 255 + 308) - 255 - 308)],
+		_I00lll0llOI0III = _IlOOOlO0Ol[((383 + 975 + 521) - 975 - 521)],
+		modeNames = {
+			Normal = _IlOOOlO0Ol[((384 + 10 + 565) - 10 - 565)],
+			LobbyMap = _IlOOOlO0Ol[((385 + 235 + 474) - 235 - 474)],
+			GameMap = _IlOOOlO0Ol[((386 + 319 + 238) - 319 - 238)],
+			PocketDim = _IlOOOlO0Ol[((387 + 395 + 874) - 395 - 874)],
+			Follow = _IlOOOlO0Ol[((388 + 321 + 555) - 321 - 555)]
+		}
+	}
+}
+
+
+
+
+local _l0lII0IO0IlOIOO, handle, mainBody, bulb, frontFace
+local _II0IlllIO0IIllO, shootSound
+local _lOOO0OO0OllOI0I = {}
+
+local _Il0OOlIIOII0l00 = {} 
+local _IllOl0II0lOllOO = nil 
+local _IllIIllIOOlIlO0 = _IlOOOlO0Ol[((389 + 460 + 645) - 460 - 645)]
+local _I0OOOlI0lOII000 = {} 
+local _IOl0OI0IOllOIOI = false 
+local _lIl0OlOI0OlIIl0 = false 
+local _I00I0OlI00l0000 = _IlOOOlO0Ol[((390 + 730 + 625) - 730 - 625)] 
+local _I0OI0O00OllOIOO = false
+
+local _I00lO0l0lIIOl0I = _Ill0llllO00lI0O and _IlOOOlO0Ol[((391 + 642 + 285) - 642 - 285)] or _IlOOOlO0Ol[((392 + 268 + 642) - 268 - 642)] 
+
+local _lllI0Ol0Il0000I, mainFrame
+
+local function _II0IIlIOI0OOl0O(portalObj)
+	if not portalObj or not portalObj.PrimaryPart then return end
+	local _lllOlIlOI0lI0lI = _I0IO0OI0lIIlO0l:Create(portalObj.PrimaryPart, TweenInfo.new(_IlOOOlO0Ol[((393 + 121 + 226) - 121 - 226)], Enum.EasingStyle.Back, Enum.EasingDirection.In), {Size = Vector3.new(_IlOOOlO0Ol[((394 + 21 + 998) - 21 - 998)], _IlOOOlO0Ol[((395 + 780 + 68) - 780 - 68)], _IlOOOlO0Ol[((396 + 817 + 172) - 817 - 172)])})
+	_lllOlIlOI0lI0lI:Play()
+	_lllOlIlOI0lI0lI.Completed:Connect(function()
+		portalObj:Destroy()
+	end)
+end
+
+local function _IllI0OIIl0Ol0l0()
+	for _, p in ipairs(_Il0OOlIIOII0l00) do
+		_II0IIlIOI0OOl0O(p)
+	end
+	table.clear(_Il0OOlIIOII0l00)
+	
+	if _IllOl0II0lOllOO then
+		_II0IIlIOI0OOl0O(_IllOl0II0lOllOO)
+		_IllOl0II0lOllOO = nil
+	end
+end
+
+
+
+
+local function _llOlllOOOIlII0O()
+	if _l0lII0IO0IlOIOO then _l0lII0IO0IlOIOO:Destroy() end
+	table.clear(_lOOO0OO0OllOI0I)
+
+	_l0lII0IO0IlOIOO = Instance.new(_IlOOOlO0Ol[((397 + 809 + 973) - 809 - 973)])
+	_l0lII0IO0IlOIOO.Name = _IlOOOlO0Ol[((398 + 82 + 101) - 82 - 101)]
+	_l0lII0IO0IlOIOO.RequiresHandle = true
+	_l0lII0IO0IlOIOO.CanBeDropped = false
+
+	handle = Instance.new(_IlOOOlO0Ol[((399 + 391 + 879) - 391 - 879)])
+	handle.Name = _IlOOOlO0Ol[((400 + 569 + 778) - 569 - 778)]
+	handle.Size = Vector3.new(_IlOOOlO0Ol[((401 + 769 + 139) - 769 - 139)], _IlOOOlO0Ol[((402 + 190 + 721) - 190 - 721)], _IlOOOlO0Ol[((403 + 752 + 739) - 752 - 739)])
+	handle.Color = Color3.fromRGB(_IlOOOlO0Ol[((404 + 102 + 702) - 102 - 702)], _IlOOOlO0Ol[((405 + 940 + 58) - 940 - 58)], _IlOOOlO0Ol[((406 + 592 + 521) - 592 - 521)])
+	handle.Material = Enum.Material.SmoothPlastic
+	handle.Massless = true
+	handle.CanCollide = false
+	handle.Parent = _l0lII0IO0IlOIOO
+
+	mainBody = Instance.new(_IlOOOlO0Ol[((407 + 642 + 872) - 642 - 872)])
+	mainBody.Size = Vector3.new(_IlOOOlO0Ol[((408 + 465 + 740) - 465 - 740)], _IlOOOlO0Ol[((409 + 529 + 262) - 529 - 262)], _IlOOOlO0Ol[((410 + 378 + 54) - 378 - 54)])
+	mainBody.Color = Color3.fromRGB(_IlOOOlO0Ol[((411 + 896 + 76) - 896 - 76)], _IlOOOlO0Ol[((412 + 954 + 604) - 954 - 604)], _IlOOOlO0Ol[((413 + 177 + 709) - 177 - 709)]) 
+	mainBody.Material = Enum.Material.SmoothPlastic
+	mainBody.Massless = true
+	mainBody.CanCollide = false
+	mainBody.CFrame = handle.CFrame * CFrame.new(_IlOOOlO0Ol[((414 + 333 + 968) - 333 - 968)], _IlOOOlO0Ol[((415 + 120 + 146) - 120 - 146)], -_IlOOOlO0Ol[((416 + 96 + 358) - 96 - 358)])
+	mainBody.Parent = _l0lII0IO0IlOIOO
+
+	local _lIl0l0O00llll0O = Instance.new(_IlOOOlO0Ol[((417 + 558 + 294) - 558 - 294)])
+	_lIl0l0O00llll0O.Part0 = handle
+	_lIl0l0O00llll0O.Part1 = mainBody
+	_lIl0l0O00llll0O.Parent = handle
+
+	bulb = Instance.new(_IlOOOlO0Ol[((418 + 220 + 336) - 220 - 336)])
+	bulb.Name = _IlOOOlO0Ol[((419 + 161 + 522) - 161 - 522)]
+	bulb.Size = Vector3.new(_IlOOOlO0Ol[((420 + 34 + 985) - 34 - 985)], _IlOOOlO0Ol[((421 + 893 + 408) - 893 - 408)], _IlOOOlO0Ol[((422 + 6 + 335) - 6 - 335)]) 
+	bulb.Shape = Enum.PartType.Cylinder
+	bulb.Color = _IlIOOlIl00llll0
+	bulb.Material = Enum.Material.Neon
+	bulb.Massless = true
+	bulb.CanCollide = false
+	bulb.CFrame = mainBody.CFrame * CFrame.new(_IlOOOlO0Ol[((423 + 54 + 160) - 54 - 160)], _IlOOOlO0Ol[((424 + 726 + 841) - 726 - 841)], _IlOOOlO0Ol[((425 + 495 + 290) - 495 - 290)]) * CFrame.Angles(_IlOOOlO0Ol[((426 + 482 + 859) - 482 - 859)], _IlOOOlO0Ol[((427 + 493 + 322) - 493 - 322)], math.rad(_IlOOOlO0Ol[((428 + 842 + 134) - 842 - 134)]))
+	bulb.Parent = _l0lII0IO0IlOIOO
+
+	local _lOlllIIOIOIOO0l = Instance.new(_IlOOOlO0Ol[((429 + 374 + 638) - 374 - 638)])
+	_lOlllIIOIOIOO0l.Part0 = mainBody
+	_lOlllIIOIOIOO0l.Part1 = bulb
+	_lOlllIIOIOIOO0l.Parent = mainBody
+
+	frontFace = Instance.new(_IlOOOlO0Ol[((430 + 292 + 202) - 292 - 202)])
+	frontFace.Name = _IlOOOlO0Ol[((431 + 423 + 144) - 423 - 144)]
+	frontFace.Size = Vector3.new(_IlOOOlO0Ol[((432 + 810 + 317) - 810 - 317)], _IlOOOlO0Ol[((433 + 210 + 152) - 210 - 152)], _IlOOOlO0Ol[((434 + 926 + 981) - 926 - 981)])
+	frontFace.Color = Color3.fromRGB(_IlOOOlO0Ol[((435 + 404 + 990) - 404 - 990)], _IlOOOlO0Ol[((436 + 766 + 67) - 766 - 67)], _IlOOOlO0Ol[((437 + 526 + 607) - 526 - 607)]) 
+	frontFace.Material = Enum.Material.SmoothPlastic
+	frontFace.Massless = true
+	frontFace.CanCollide = false
+	frontFace.CFrame = mainBody.CFrame * CFrame.new(_IlOOOlO0Ol[((438 + 673 + 343) - 673 - 343)], _IlOOOlO0Ol[((439 + 856 + 267) - 856 - 267)], -_IlOOOlO0Ol[((440 + 383 + 632) - 383 - 632)])
+	frontFace.Parent = _l0lII0IO0IlOIOO
+
+	local _IIl0O00lO0IOOll = Instance.new(_IlOOOlO0Ol[((441 + 770 + 963) - 770 - 963)])
+	_IIl0O00lO0IOOll.Part0 = mainBody
+	_IIl0O00lO0IOOll.Part1 = frontFace
+	_IIl0O00lO0IOOll.Parent = mainBody
+
+	local _I00O0IOI0O0IIOl, startY = -_IlOOOlO0Ol[((442 + 988 + 123) - 988 - 123)], -_IlOOOlO0Ol[((443 + 146 + 744) - 146 - 744)]
+	local _IlI0lIllO0II0OO, stepY = _IlOOOlO0Ol[((444 + 605 + 491) - 605 - 491)], _IlOOOlO0Ol[((445 + 72 + 934) - 72 - 934)]
+
+	for row = _IlOOOlO0Ol[((446 + 422 + 779) - 422 - 779)], _IlOOOlO0Ol[((447 + 1 + 132) - 1 - 132)] do
+		for col = _IlOOOlO0Ol[((448 + 647 + 705) - 647 - 705)], _IlOOOlO0Ol[((449 + 92 + 639) - 92 - 639)] do
+			local _IOlI0OIllI0l0OO = Instance.new(_IlOOOlO0Ol[((450 + 802 + 326) - 802 - 326)])
+			_IOlI0OIllI0l0OO.Size = Vector3.new(_IlOOOlO0Ol[((451 + 10 + 893) - 10 - 893)], _IlOOOlO0Ol[((452 + 385 + 931) - 385 - 931)], _IlOOOlO0Ol[((453 + 492 + 822) - 492 - 822)])
+			_IOlI0OIllI0l0OO.Shape = Enum.PartType.Ball
+			_IOlI0OIllI0l0OO.Color = _IlIOOlIl00llll0
+			_IOlI0OIllI0l0OO.Material = Enum.Material.Neon
+			_IOlI0OIllI0l0OO.Massless = true
+			_IOlI0OIllI0l0OO.CanCollide = false
+			_IOlI0OIllI0l0OO.CFrame = frontFace.CFrame * CFrame.new(_I00O0IOI0O0IIOl + (col * _IlI0lIllO0II0OO), startY + (row * stepY), -_IlOOOlO0Ol[((454 + 910 + 336) - 910 - 336)])
+			_IOlI0OIllI0l0OO.Parent = _l0lII0IO0IlOIOO
+			table.insert(_lOOO0OO0OllOI0I, _IOlI0OIllI0l0OO)
+			
+			local _IlOOOlIOIl0O0lI = Instance.new(_IlOOOlO0Ol[((455 + 46 + 926) - 46 - 926)])
+			_IlOOOlIOIl0O0lI.Part0 = frontFace
+			_IlOOOlIOIl0O0lI.Part1 = _IOlI0OIllI0l0OO
+			_IlOOOlIOIl0O0lI.Parent = frontFace
+		end
+	end
+
+	_II0IlllIO0IIllO = Instance.new(_IlOOOlO0Ol[((456 + 541 + 992) - 541 - 992)])
+	_II0IlllIO0IIllO.Name = _IlOOOlO0Ol[((457 + 581 + 90) - 581 - 90)]
+	_II0IlllIO0IIllO.Color = ColorSequence.new(_IlIOOlIl00llll0)
+	_II0IlllIO0IIllO.Size = NumberSequence.new({NumberSequenceKeypoint.new(_IlOOOlO0Ol[((458 + 344 + 40) - 344 - 40)], _IlOOOlO0Ol[((459 + 583 + 533) - 583 - 533)]), NumberSequenceKeypoint.new(_IlOOOlO0Ol[((460 + 672 + 363) - 672 - 363)], _IlOOOlO0Ol[((461 + 985 + 365) - 985 - 365)])})
+	_II0IlllIO0IIllO.Texture = _IlOOOlO0Ol[((462 + 183 + 767) - 183 - 767)]
+	_II0IlllIO0IIllO.Lifetime = NumberRange.new(_IlOOOlO0Ol[((463 + 458 + 797) - 458 - 797)], _IlOOOlO0Ol[((464 + 111 + 687) - 111 - 687)])
+	_II0IlllIO0IIllO.Rate = _IlOOOlO0Ol[((465 + 531 + 675) - 531 - 675)]
+	_II0IlllIO0IIllO.Speed = NumberRange.new(_IlOOOlO0Ol[((466 + 675 + 196) - 675 - 196)], _IlOOOlO0Ol[((467 + 866 + 427) - 866 - 427)])
+	_II0IlllIO0IIllO.SpreadAngle = Vector2.new(_IlOOOlO0Ol[((468 + 208 + 915) - 208 - 915)], _IlOOOlO0Ol[((469 + 438 + 280) - 438 - 280)])
+	_II0IlllIO0IIllO.Parent = frontFace
+
+	shootSound = Instance.new(_IlOOOlO0Ol[((470 + 396 + 518) - 396 - 518)])
+	shootSound.SoundId = _IlOOOlO0Ol[((471 + 239 + 18) - 239 - 18)]
+	shootSound.Volume = _IlOOOlO0Ol[((472 + 437 + 766) - 437 - 766)] 
+	shootSound.Parent = handle
+
+	local _llIlO0ll0OO0O0O = _ll0IlII0OlOIOlO:WaitForChild(_IlOOOlO0Ol[((473 + 511 + 62) - 511 - 62)], _IlOOOlO0Ol[((474 + 566 + 834) - 566 - 834)])
+	if _llIlO0ll0OO0O0O then
+		_l0lII0IO0IlOIOO.Parent = _llIlO0ll0OO0O0O
+	end
+end
+
+local function _lOOOOlIl0lI0OI0()
+	if bulb then bulb.Color = _IlIOOlIl00llll0 end
+	for _, _IOlI0OIllI0l0OO in ipairs(_lOOO0OO0OllOI0I) do
+		if _IOlI0OIllI0l0OO then _IOlI0OIllI0l0OO.Color = _IlIOOlIl00llll0 end
+	end
+	if _II0IlllIO0IIllO then _II0IlllIO0IIllO.Color = ColorSequence.new(_IlIOOlIl00llll0) end
+end
+
+
+
+
+_ll0IlII0OlOIOlO.CharacterRemoving:Connect(function()
+	_IllI0OIIl0Ol0l0() 
+end)
+
+_ll0IlII0OlOIOlO.CharacterAdded:Connect(function(_l0OIlIIIIlIOOOO)
+	task.wait(_IlOOOlO0Ol[((475 + 50 + 362) - 50 - 362)]) 
+	_llOlllOOOIlII0O() 
+end)
+
+
+
+
+local _IOIIllI0Oll0I0l = Instance.new(_IlOOOlO0Ol[((476 + 2 + 623) - 2 - 623)])
+_IOIIllI0Oll0I0l.Name = _IlOOOlO0Ol[((477 + 42 + 229) - 42 - 229)]
+_IOIIllI0Oll0I0l.IgnoreGuiInset = true
+local _IO0lOIO0lIl0l00 = pcall(function() _IOIIllI0Oll0I0l.Parent = game:GetService(_IlOOOlO0Ol[((478 + 59 + 242) - 59 - 242)]) end)
+if not _IO0lOIO0lIl0l00 then _IOIIllI0Oll0I0l.Parent = _ll0IlII0OlOIOlO:WaitForChild(_IlOOOlO0Ol[((479 + 173 + 56) - 173 - 56)]) end
+
+local _Il0l0ll0000000I = Instance.new(_IlOOOlO0Ol[((480 + 811 + 665) - 811 - 665)])
+_Il0l0ll0000000I.Size = UDim2.new(_IlOOOlO0Ol[((481 + 768 + 195) - 768 - 195)], _IlOOOlO0Ol[((482 + 802 + 226) - 802 - 226)], _IlOOOlO0Ol[((483 + 471 + 217) - 471 - 217)], _IlOOOlO0Ol[((484 + 148 + 109) - 148 - 109)])
+_Il0l0ll0000000I.BackgroundColor3 = Color3.new(_IlOOOlO0Ol[((485 + 156 + 689) - 156 - 689)], _IlOOOlO0Ol[((486 + 455 + 963) - 455 - 963)], _IlOOOlO0Ol[((487 + 77 + 473) - 77 - 473)])
+_Il0l0ll0000000I.BackgroundTransparency = _IlOOOlO0Ol[((488 + 451 + 210) - 451 - 210)] 
+_Il0l0ll0000000I.BorderSizePixel = _IlOOOlO0Ol[((489 + 867 + 744) - 867 - 744)]
+_Il0l0ll0000000I.Parent = _IOIIllI0Oll0I0l
+
+local function _l0I0OlIO0l0OIOO()
+	_Il0l0ll0000000I.BackgroundColor3 = (_lI0Ol0OIII0IOOl == _IlOOOlO0Ol[((490 + 423 + 734) - 423 - 734)]) and Color3.fromRGB(_IlOOOlO0Ol[((491 + 625 + 863) - 625 - 863)], _IlOOOlO0Ol[((492 + 817 + 846) - 817 - 846)], _IlOOOlO0Ol[((493 + 467 + 13) - 467 - 13)]) or Color3.fromRGB(_IlOOOlO0Ol[((494 + 20 + 784) - 20 - 784)], _IlOOOlO0Ol[((495 + 646 + 846) - 646 - 846)], _IlOOOlO0Ol[((496 + 697 + 555) - 697 - 555)])
+	_Il0l0ll0000000I.BackgroundTransparency = _IlOOOlO0Ol[((497 + 662 + 459) - 662 - 459)]
+	local _lllOlIlOI0lI0lI = _I0IO0OI0lIIlO0l:Create(_Il0l0ll0000000I, TweenInfo.new(_IlOOOlO0Ol[((498 + 420 + 239) - 420 - 239)], Enum.EasingStyle.Quad, Enum.EasingDirection.Out), {BackgroundTransparency = _IlOOOlO0Ol[((499 + 66 + 574) - 66 - 574)]})
+	_lllOlIlOI0lI0lI:Play()
+end
+
+local _lI0ll0II00llI0l = Instance.new(_IlOOOlO0Ol[((500 + 674 + 776) - 674 - 776)])
+_lI0ll0II00llI0l.Name = _IlOOOlO0Ol[((501 + 533 + 603) - 533 - 603)]
+_lI0ll0II00llI0l.Parent = workspace
+
+local _IIlO0O0IOIlI00l = Vector3.new(_IlOOOlO0Ol[((502 + 223 + 537) - 223 - 537)], _IlOOOlO0Ol[((503 + 221 + 644) - 221 - 644)], _IlOOOlO0Ol[((504 + 777 + 422) - 777 - 422)]) 
+local _lI0Il0OO0IIlll0 = _IlOOOlO0Ol[((505 + 924 + 920) - 924 - 920)] 
+
+local function _III0IO0I0Il0000(size, pos)
+	local _IOOIOOlI0O0IOll = Instance.new(_IlOOOlO0Ol[((506 + 369 + 898) - 369 - 898)])
+	_IOOIOOlI0O0IOll.Size = size
+	_IOOIOOlI0O0IOll.Position = pos
+	_IOOIOOlI0O0IOll.Anchored = true
+	_IOOIOOlI0O0IOll.Color = Color3.fromRGB(_IlOOOlO0Ol[((507 + 988 + 965) - 988 - 965)], _IlOOOlO0Ol[((508 + 344 + 97) - 344 - 97)], _IlOOOlO0Ol[((509 + 426 + 149) - 426 - 149)])
+	_IOOIOOlI0O0IOll.Material = Enum.Material.Neon
+	_IOOIOOlI0O0IOll.Parent = _lI0ll0II00llI0l
+end
+
+_III0IO0I0Il0000(Vector3.new(_lI0Il0OO0IIlll0, _IlOOOlO0Ol[((510 + 540 + 822) - 540 - 822)], _lI0Il0OO0IIlll0), _IIlO0O0IOIlI00l - Vector3.new(_IlOOOlO0Ol[((511 + 228 + 531) - 228 - 531)], _IlOOOlO0Ol[((512 + 322 + 898) - 322 - 898)], _IlOOOlO0Ol[((513 + 561 + 529) - 561 - 529)]))
+_III0IO0I0Il0000(Vector3.new(_lI0Il0OO0IIlll0, _IlOOOlO0Ol[((514 + 154 + 628) - 154 - 628)], _lI0Il0OO0IIlll0), _IIlO0O0IOIlI00l + Vector3.new(_IlOOOlO0Ol[((515 + 631 + 272) - 631 - 272)], _IlOOOlO0Ol[((516 + 305 + 867) - 305 - 867)], _IlOOOlO0Ol[((517 + 427 + 80) - 427 - 80)]))
+_III0IO0I0Il0000(Vector3.new(_IlOOOlO0Ol[((518 + 785 + 641) - 785 - 641)], _IlOOOlO0Ol[((519 + 414 + 296) - 414 - 296)], _lI0Il0OO0IIlll0), _IIlO0O0IOIlI00l - Vector3.new(_lI0Il0OO0IIlll0/_IlOOOlO0Ol[((520 + 666 + 257) - 666 - 257)], _IlOOOlO0Ol[((521 + 408 + 346) - 408 - 346)], _IlOOOlO0Ol[((522 + 677 + 673) - 677 - 673)]))
+_III0IO0I0Il0000(Vector3.new(_IlOOOlO0Ol[((523 + 652 + 92) - 652 - 92)], _IlOOOlO0Ol[((524 + 964 + 602) - 964 - 602)], _lI0Il0OO0IIlll0), _IIlO0O0IOIlI00l + Vector3.new(_lI0Il0OO0IIlll0/_IlOOOlO0Ol[((525 + 751 + 260) - 751 - 260)], _IlOOOlO0Ol[((526 + 894 + 20) - 894 - 20)], _IlOOOlO0Ol[((527 + 691 + 630) - 691 - 630)]))
+_III0IO0I0Il0000(Vector3.new(_lI0Il0OO0IIlll0, _IlOOOlO0Ol[((528 + 529 + 9) - 529 - 9)], _IlOOOlO0Ol[((529 + 106 + 158) - 106 - 158)]), _IIlO0O0IOIlI00l - Vector3.new(_IlOOOlO0Ol[((530 + 140 + 915) - 140 - 915)], _IlOOOlO0Ol[((531 + 997 + 426) - 997 - 426)], _lI0Il0OO0IIlll0/_IlOOOlO0Ol[((532 + 436 + 661) - 436 - 661)]))
+_III0IO0I0Il0000(Vector3.new(_lI0Il0OO0IIlll0, _IlOOOlO0Ol[((533 + 78 + 392) - 78 - 392)], _IlOOOlO0Ol[((534 + 40 + 293) - 40 - 293)]), _IIlO0O0IOIlI00l + Vector3.new(_IlOOOlO0Ol[((535 + 327 + 900) - 327 - 900)], _IlOOOlO0Ol[((536 + 553 + 468) - 553 - 468)], _lI0Il0OO0IIlll0/_IlOOOlO0Ol[((537 + 721 + 44) - 721 - 44)]))
+
+local _I0O0OllII00OI00 = Instance.new(_IlOOOlO0Ol[((538 + 551 + 698) - 551 - 698)])
+_I0O0OllII00OI00.Range = _IlOOOlO0Ol[((539 + 635 + 213) - 635 - 213)]
+_I0O0OllII00OI00.Brightness = _IlOOOlO0Ol[((540 + 371 + 171) - 371 - 171)]
+_I0O0OllII00OI00.Color = Color3.fromRGB(_IlOOOlO0Ol[((541 + 976 + 293) - 976 - 293)], _IlOOOlO0Ol[((542 + 862 + 919) - 862 - 919)], _IlOOOlO0Ol[((543 + 705 + 437) - 705 - 437)])
+_I0O0OllII00OI00.Parent = _lI0ll0II00llI0l.PrimaryPart or _lI0ll0II00llI0l:GetChildren()[_IlOOOlO0Ol[((544 + 273 + 450) - 273 - 450)]]
+
+
+
+
+_lllI0Ol0Il0000I = Instance.new(_IlOOOlO0Ol[((545 + 265 + 3) - 265 - 3)])
+_lllI0Ol0Il0000I.Name = _IlOOOlO0Ol[((546 + 679 + 759) - 679 - 759)]
+_lllI0Ol0Il0000I.ResetOnSpawn = false
+_lllI0Ol0Il0000I.Enabled = true 
+local _IOlOlllOOOIOI0O = pcall(function() _lllI0Ol0Il0000I.Parent = game:GetService(_IlOOOlO0Ol[((547 + 349 + 677) - 349 - 677)]) end)
+if not _IOlOlllOOOIOI0O then _lllI0Ol0Il0000I.Parent = _ll0IlII0OlOIOlO:WaitForChild(_IlOOOlO0Ol[((548 + 269 + 469) - 269 - 469)]) end
+
+
+local function _ll0lOOO000OOIll()
+	local _l0OIlIIIIlIOOOO = _ll0IlII0OlOIOlO.Character
+	local _lIl0lOIIIIO0OlI = _l0OIlIIIIlIOOOO and _l0OIlIIIIlIOOOO:FindFirstChildOfClass(_IlOOOlO0Ol[((549 + 934 + 941) - 934 - 941)])
+	if not _l0OIlIIIIlIOOOO or not _lIl0lOIIIIO0OlI or _lIl0lOIIIIO0OlI.Health <= _IlOOOlO0Ol[((550 + 180 + 572) - 180 - 572)] or not _l0lII0IO0IlOIOO then return end
+	
+	if _l0lII0IO0IlOIOO.Parent == _l0OIlIIIIlIOOOO then
+		_l0lII0IO0IlOIOO.Parent = _ll0IlII0OlOIOlO:FindFirstChild(_IlOOOlO0Ol[((551 + 197 + 558) - 197 - 558)])
+	else
+		_l0lII0IO0IlOIOO.Parent = _l0OIlIIIIlIOOOO
+	end
+end
+
+
+mainFrame = Instance.new(_IlOOOlO0Ol[((552 + 855 + 565) - 855 - 565)])
+mainFrame.Size = UDim2.new(_IlOOOlO0Ol[((553 + 788 + 692) - 788 - 692)], _IlOOOlO0Ol[((554 + 411 + 69) - 411 - 69)], _IlOOOlO0Ol[((555 + 191 + 594) - 191 - 594)], _I00lO0l0lIIOl0I)
+mainFrame.Position = UDim2.new(_IlOOOlO0Ol[((556 + 906 + 473) - 906 - 473)], _IlOOOlO0Ol[((557 + 536 + 479) - 536 - 479)], _IlOOOlO0Ol[((558 + 197 + 847) - 197 - 847)], -(_I00lO0l0lIIOl0I/_IlOOOlO0Ol[((559 + 957 + 175) - 957 - 175)]))
+mainFrame.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((560 + 924 + 183) - 924 - 183)], _IlOOOlO0Ol[((561 + 703 + 414) - 703 - 414)], _IlOOOlO0Ol[((562 + 141 + 740) - 141 - 740)])
+mainFrame.BorderSizePixel = _IlOOOlO0Ol[((563 + 685 + 362) - 685 - 362)]
+mainFrame.Visible = false 
+mainFrame.Parent = _lllI0Ol0Il0000I
+
+local _lIl0lO0OlOI0O0O = Instance.new(_IlOOOlO0Ol[((564 + 733 + 23) - 733 - 23)])
+_lIl0lO0OlOI0O0O.CornerRadius = UDim.new(_IlOOOlO0Ol[((565 + 392 + 70) - 392 - 70)], _IlOOOlO0Ol[((566 + 383 + 664) - 383 - 664)])
+_lIl0lO0OlOI0O0O.Parent = mainFrame
+
+local _lOlO0O0IOI0O0lI = Instance.new(_IlOOOlO0Ol[((567 + 605 + 981) - 605 - 981)])
+_lOlO0O0IOI0O0lI.Size = UDim2.new(_IlOOOlO0Ol[((568 + 150 + 442) - 150 - 442)], _IlOOOlO0Ol[((569 + 686 + 855) - 686 - 855)], _IlOOOlO0Ol[((570 + 135 + 836) - 135 - 836)], _IlOOOlO0Ol[((571 + 148 + 386) - 148 - 386)])
+_lOlO0O0IOI0O0lI.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((572 + 889 + 583) - 889 - 583)], _IlOOOlO0Ol[((573 + 750 + 675) - 750 - 675)], _IlOOOlO0Ol[((574 + 218 + 281) - 218 - 281)])
+_lOlO0O0IOI0O0lI.BorderSizePixel = _IlOOOlO0Ol[((575 + 747 + 751) - 747 - 751)]
+_lOlO0O0IOI0O0lI.Parent = mainFrame
+
+local _lOOIllllO0Il0l0 = Instance.new(_IlOOOlO0Ol[((576 + 748 + 831) - 748 - 831)])
+_lOOIllllO0Il0l0.Size = UDim2.new(_IlOOOlO0Ol[((577 + 319 + 966) - 319 - 966)], -_IlOOOlO0Ol[((578 + 935 + 872) - 935 - 872)], _IlOOOlO0Ol[((579 + 715 + 623) - 715 - 623)], _IlOOOlO0Ol[((580 + 786 + 200) - 786 - 200)])
+_lOOIllllO0Il0l0.Position = UDim2.new(_IlOOOlO0Ol[((581 + 777 + 978) - 777 - 978)], _IlOOOlO0Ol[((582 + 367 + 472) - 367 - 472)], _IlOOOlO0Ol[((583 + 769 + 454) - 769 - 454)], _IlOOOlO0Ol[((584 + 599 + 831) - 599 - 831)])
+_lOOIllllO0Il0l0.BackgroundTransparency = _IlOOOlO0Ol[((585 + 469 + 898) - 469 - 898)]
+_lOOIllllO0Il0l0.TextColor3 = Color3.new(_IlOOOlO0Ol[((586 + 391 + 920) - 391 - 920)], _IlOOOlO0Ol[((587 + 969 + 451) - 969 - 451)], _IlOOOlO0Ol[((588 + 139 + 445) - 139 - 445)])
+_lOOIllllO0Il0l0.Font = Enum.Font.GothamBold
+_lOOIllllO0Il0l0.TextSize = _IlOOOlO0Ol[((589 + 783 + 194) - 783 - 194)]
+_lOOIllllO0Il0l0.TextXAlignment = Enum.TextXAlignment.Left
+_lOOIllllO0Il0l0.Parent = _lOlO0O0IOI0O0lI
+
+local _l0lIIO00IIlO0OO = Instance.new(_IlOOOlO0Ol[((590 + 580 + 287) - 580 - 287)])
+_l0lIIO00IIlO0OO.Size = UDim2.new(_IlOOOlO0Ol[((591 + 872 + 352) - 872 - 352)], _IlOOOlO0Ol[((592 + 34 + 763) - 34 - 763)], _IlOOOlO0Ol[((593 + 81 + 861) - 81 - 861)], _IlOOOlO0Ol[((594 + 230 + 249) - 230 - 249)])
+_l0lIIO00IIlO0OO.Position = UDim2.new(_IlOOOlO0Ol[((595 + 689 + 906) - 689 - 906)], -_IlOOOlO0Ol[((596 + 215 + 422) - 215 - 422)], _IlOOOlO0Ol[((597 + 860 + 509) - 860 - 509)], _IlOOOlO0Ol[((598 + 378 + 284) - 378 - 284)])
+_l0lIIO00IIlO0OO.BackgroundTransparency = _IlOOOlO0Ol[((599 + 719 + 227) - 719 - 227)]
+_l0lIIO00IIlO0OO.Text = _IlOOOlO0Ol[((600 + 48 + 197) - 48 - 197)]
+_l0lIIO00IIlO0OO.TextColor3 = Color3.new(_IlOOOlO0Ol[((601 + 536 + 7) - 536 - 7)], _IlOOOlO0Ol[((602 + 390 + 741) - 390 - 741)], _IlOOOlO0Ol[((603 + 952 + 331) - 952 - 331)])
+_l0lIIO00IIlO0OO.Font = Enum.Font.GothamBold
+_l0lIIO00IIlO0OO.TextSize = _IlOOOlO0Ol[((604 + 396 + 958) - 396 - 958)]
+_l0lIIO00IIlO0OO.Parent = _lOlO0O0IOI0O0lI
+
+local _llll0OOIO0lIIll = Instance.new(_IlOOOlO0Ol[((605 + 687 + 817) - 687 - 817)])
+_llll0OOIO0lIIll.Size = UDim2.new(_IlOOOlO0Ol[((606 + 995 + 759) - 995 - 759)], _IlOOOlO0Ol[((607 + 524 + 392) - 524 - 392)], _IlOOOlO0Ol[((608 + 741 + 25) - 741 - 25)], _IlOOOlO0Ol[((609 + 492 + 530) - 492 - 530)])
+_llll0OOIO0lIIll.Position = UDim2.new(_IlOOOlO0Ol[((610 + 604 + 322) - 604 - 322)], -_IlOOOlO0Ol[((611 + 19 + 350) - 19 - 350)], _IlOOOlO0Ol[((612 + 87 + 399) - 87 - 399)], _IlOOOlO0Ol[((613 + 33 + 163) - 33 - 163)])
+_llll0OOIO0lIIll.BackgroundTransparency = _IlOOOlO0Ol[((614 + 458 + 974) - 458 - 974)]
+_llll0OOIO0lIIll.Text = _IlOOOlO0Ol[((615 + 919 + 231) - 919 - 231)]
+_llll0OOIO0lIIll.TextColor3 = Color3.new(_IlOOOlO0Ol[((616 + 628 + 971) - 628 - 971)], _IlOOOlO0Ol[((617 + 750 + 653) - 750 - 653)], _IlOOOlO0Ol[((618 + 493 + 971) - 493 - 971)])
+_llll0OOIO0lIIll.Font = Enum.Font.GothamBold
+_llll0OOIO0lIIll.TextSize = _IlOOOlO0Ol[((619 + 844 + 69) - 844 - 69)]
+_llll0OOIO0lIIll.Parent = _lOlO0O0IOI0O0lI
+
+local _lO0OOl0lOl0lOIl = Instance.new(_IlOOOlO0Ol[((620 + 819 + 402) - 819 - 402)])
+_lO0OOl0lOl0lOIl.Size = UDim2.new(_IlOOOlO0Ol[((621 + 320 + 654) - 320 - 654)], _IlOOOlO0Ol[((622 + 210 + 80) - 210 - 80)], _IlOOOlO0Ol[((623 + 603 + 466) - 603 - 466)], -_IlOOOlO0Ol[((624 + 126 + 694) - 126 - 694)])
+_lO0OOl0lOl0lOIl.Position = UDim2.new(_IlOOOlO0Ol[((625 + 406 + 653) - 406 - 653)], _IlOOOlO0Ol[((626 + 618 + 585) - 618 - 585)], _IlOOOlO0Ol[((627 + 724 + 615) - 724 - 615)], _IlOOOlO0Ol[((628 + 481 + 779) - 481 - 779)])
+_lO0OOl0lOl0lOIl.BackgroundTransparency = _IlOOOlO0Ol[((629 + 789 + 381) - 789 - 381)]
+_lO0OOl0lOl0lOIl.Parent = mainFrame
+
+local _IOOOIIlOOl00I00 = Instance.new(_IlOOOlO0Ol[((630 + 208 + 810) - 208 - 810)])
+_IOOOIIlOOl00I00.Padding = UDim.new(_IlOOOlO0Ol[((631 + 255 + 91) - 255 - 91)], _IlOOOlO0Ol[((632 + 401 + 948) - 401 - 948)])
+_IOOOIIlOOl00I00.HorizontalAlignment = Enum.HorizontalAlignment.Center
+_IOOOIIlOOl00I00.VerticalAlignment = Enum.VerticalAlignment.Center
+_IOOOIIlOOl00I00.Parent = _lO0OOl0lOl0lOIl
+
+local _IlIl0IOII00lIOl = Instance.new(_IlOOOlO0Ol[((633 + 815 + 703) - 815 - 703)])
+_IlIl0IOII00lIOl.Size = UDim2.new(_IlOOOlO0Ol[((634 + 791 + 45) - 791 - 45)], _IlOOOlO0Ol[((635 + 175 + 372) - 175 - 372)], _IlOOOlO0Ol[((636 + 180 + 173) - 180 - 173)], -_IlOOOlO0Ol[((637 + 438 + 226) - 438 - 226)])
+_IlIl0IOII00lIOl.Position = UDim2.new(_IlOOOlO0Ol[((638 + 286 + 389) - 286 - 389)], _IlOOOlO0Ol[((639 + 933 + 143) - 933 - 143)], _IlOOOlO0Ol[((640 + 58 + 781) - 58 - 781)], _IlOOOlO0Ol[((641 + 817 + 788) - 817 - 788)])
+_IlIl0IOII00lIOl.BackgroundTransparency = _IlOOOlO0Ol[((642 + 867 + 393) - 867 - 393)]
+_IlIl0IOII00lIOl.Visible = false
+_IlIl0IOII00lIOl.Parent = mainFrame
+
+local _III0ll0IIl00Oll = Instance.new(_IlOOOlO0Ol[((643 + 409 + 436) - 409 - 436)])
+_III0ll0IIl00Oll.Padding = UDim.new(_IlOOOlO0Ol[((644 + 792 + 56) - 792 - 56)], _IlOOOlO0Ol[((645 + 256 + 339) - 256 - 339)])
+_III0ll0IIl00Oll.HorizontalAlignment = Enum.HorizontalAlignment.Center
+_III0ll0IIl00Oll.VerticalAlignment = Enum.VerticalAlignment.Center
+_III0ll0IIl00Oll.Parent = _IlIl0IOII00lIOl
+
+local _lOlIIOOII0lOlII = Instance.new(_IlOOOlO0Ol[((646 + 611 + 153) - 611 - 153)])
+_lOlIIOOII0lOlII.Size = UDim2.new(_IlOOOlO0Ol[((647 + 240 + 546) - 240 - 546)], _IlOOOlO0Ol[((648 + 489 + 399) - 489 - 399)], _IlOOOlO0Ol[((649 + 463 + 606) - 463 - 606)], _IlOOOlO0Ol[((650 + 618 + 150) - 618 - 150)])
+_lOlIIOOII0lOlII.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((651 + 884 + 150) - 884 - 150)], _IlOOOlO0Ol[((652 + 205 + 374) - 205 - 374)], _IlOOOlO0Ol[((653 + 740 + 786) - 740 - 786)])
+local _IlIl0OIlIlllI00 = Instance.new(_IlOOOlO0Ol[((654 + 979 + 969) - 979 - 969)], _lOlIIOOII0lOlII)
+_IlIl0OIlIlllI00.CornerRadius = UDim.new(_IlOOOlO0Ol[((655 + 871 + 239) - 871 - 239)], _IlOOOlO0Ol[((656 + 890 + 908) - 890 - 908)])
+_lOlIIOOII0lOlII.Parent = _IlIl0IOII00lIOl
+
+local _lO00OlOIlII00l0 = Instance.new(_IlOOOlO0Ol[((657 + 991 + 712) - 991 - 712)])
+_lO00OlOIlII00l0.Size = UDim2.new(_IlOOOlO0Ol[((658 + 196 + 280) - 196 - 280)], _IlOOOlO0Ol[((659 + 429 + 273) - 429 - 273)], _IlOOOlO0Ol[((660 + 31 + 892) - 31 - 892)], _IlOOOlO0Ol[((661 + 152 + 92) - 152 - 92)])
+_lO00OlOIlII00l0.Position = UDim2.new(_IlOOOlO0Ol[((662 + 403 + 724) - 403 - 724)], _IlOOOlO0Ol[((663 + 149 + 223) - 149 - 223)], _IlOOOlO0Ol[((664 + 490 + 280) - 490 - 280)], _IlOOOlO0Ol[((665 + 685 + 773) - 685 - 773)])
+_lO00OlOIlII00l0.BackgroundTransparency = _IlOOOlO0Ol[((666 + 850 + 226) - 850 - 226)]
+_lO00OlOIlII00l0.TextColor3 = Color3.new(_IlOOOlO0Ol[((667 + 62 + 532) - 62 - 532)], _IlOOOlO0Ol[((668 + 969 + 2) - 969 - 2)], _IlOOOlO0Ol[((669 + 575 + 333) - 575 - 333)])
+_lO00OlOIlII00l0.Font = Enum.Font.GothamMedium
+_lO00OlOIlII00l0.TextSize = _IlOOOlO0Ol[((670 + 776 + 466) - 776 - 466)]
+_lO00OlOIlII00l0.TextXAlignment = Enum.TextXAlignment.Left
+_lO00OlOIlII00l0.Parent = _lOlIIOOII0lOlII
+
+local _IOOOOII0lO0OlI0 = Instance.new(_IlOOOlO0Ol[((671 + 862 + 48) - 862 - 48)])
+_IOOOOII0lO0OlI0.Size = UDim2.new(_IlOOOlO0Ol[((672 + 398 + 896) - 398 - 896)], _IlOOOlO0Ol[((673 + 228 + 947) - 228 - 947)], _IlOOOlO0Ol[((674 + 11 + 992) - 11 - 992)], _IlOOOlO0Ol[((675 + 429 + 686) - 429 - 686)])
+_IOOOOII0lO0OlI0.Position = UDim2.new(_IlOOOlO0Ol[((676 + 340 + 45) - 340 - 45)], _IlOOOlO0Ol[((677 + 820 + 668) - 820 - 668)], _IlOOOlO0Ol[((678 + 20 + 726) - 20 - 726)], _IlOOOlO0Ol[((679 + 426 + 432) - 426 - 432)])
+_IOOOOII0lO0OlI0.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((680 + 235 + 728) - 235 - 728)], _IlOOOlO0Ol[((681 + 313 + 406) - 313 - 406)], _IlOOOlO0Ol[((682 + 152 + 24) - 152 - 24)])
+_IOOOOII0lO0OlI0.TextColor3 = Color3.new(_IlOOOlO0Ol[((683 + 236 + 474) - 236 - 474)], _IlOOOlO0Ol[((684 + 534 + 132) - 534 - 132)], _IlOOOlO0Ol[((685 + 882 + 275) - 882 - 275)])
+_IOOOOII0lO0OlI0.Font = Enum.Font.GothamBold
+_IOOOOII0lO0OlI0.TextSize = _IlOOOlO0Ol[((686 + 652 + 987) - 652 - 987)]
+_IOOOOII0lO0OlI0.Text = tostring(_I00I0OlI00l0000)
+_IOOOOII0lO0OlI0.ClearTextOnFocus = false
+local _IOlIO0lOIIlO0I0 = Instance.new(_IlOOOlO0Ol[((687 + 173 + 137) - 173 - 137)], _IOOOOII0lO0OlI0)
+_IOlIO0lOIIlO0I0.CornerRadius = UDim.new(_IlOOOlO0Ol[((688 + 446 + 544) - 446 - 544)], _IlOOOlO0Ol[((689 + 792 + 843) - 792 - 843)])
+_IOOOOII0lO0OlI0.Parent = _lOlIIOOII0lOlII
+
+_IOOOOII0lO0OlI0.FocusLost:Connect(function()
+	local _l00I0O0IOIlllOO = tonumber(_IOOOOII0lO0OlI0.Text)
+	if _l00I0O0IOIlllOO then
+		_l00I0O0IOIlllOO = math.clamp(math.floor(_l00I0O0IOIlllOO), _IlOOOlO0Ol[((690 + 175 + 11) - 175 - 11)], _IlOOOlO0Ol[((691 + 939 + 265) - 939 - 265)])
+		_I00I0OlI00l0000 = _l00I0O0IOIlllOO
+	end
+	_IOOOOII0lO0OlI0.Text = tostring(_I00I0OlI00l0000)
+end)
+
+local _lll0O0I000O00OI = Instance.new(_IlOOOlO0Ol[((692 + 563 + 351) - 563 - 351)])
+_lll0O0I000O00OI.Size = UDim2.new(_IlOOOlO0Ol[((693 + 458 + 16) - 458 - 16)], _IlOOOlO0Ol[((694 + 822 + 478) - 822 - 478)], _IlOOOlO0Ol[((695 + 493 + 451) - 493 - 451)], _IlOOOlO0Ol[((696 + 700 + 583) - 700 - 583)])
+_lll0O0I000O00OI.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((697 + 12 + 371) - 12 - 371)], _IlOOOlO0Ol[((698 + 154 + 313) - 154 - 313)], _IlOOOlO0Ol[((699 + 450 + 218) - 450 - 218)])
+_lll0O0I000O00OI.TextColor3 = Color3.new(_IlOOOlO0Ol[((700 + 976 + 293) - 976 - 293)], _IlOOOlO0Ol[((701 + 296 + 518) - 296 - 518)], _IlOOOlO0Ol[((702 + 467 + 733) - 467 - 733)])
+_lll0O0I000O00OI.Font = Enum.Font.GothamMedium
+_lll0O0I000O00OI.TextSize = _IlOOOlO0Ol[((703 + 492 + 634) - 492 - 634)]
+local _lIIllIOll0IlIOI = Instance.new(_IlOOOlO0Ol[((704 + 119 + 50) - 119 - 50)], _lll0O0I000O00OI)
+_lIIllIOll0IlIOI.CornerRadius = UDim.new(_IlOOOlO0Ol[((705 + 838 + 372) - 838 - 372)], _IlOOOlO0Ol[((706 + 31 + 225) - 31 - 225)])
+_lll0O0I000O00OI.Parent = _IlIl0IOII00lIOl
+
+local _lOlI0IIO00II00I = Instance.new(_IlOOOlO0Ol[((707 + 158 + 879) - 158 - 879)])
+_lOlI0IIO00II00I.Size = UDim2.new(_IlOOOlO0Ol[((708 + 70 + 659) - 70 - 659)], _IlOOOlO0Ol[((709 + 300 + 302) - 300 - 302)], _IlOOOlO0Ol[((710 + 987 + 929) - 987 - 929)], _IlOOOlO0Ol[((711 + 38 + 371) - 38 - 371)])
+_lOlI0IIO00II00I.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((712 + 917 + 681) - 917 - 681)], _IlOOOlO0Ol[((713 + 12 + 439) - 12 - 439)], _IlOOOlO0Ol[((714 + 927 + 68) - 927 - 68)])
+_lOlI0IIO00II00I.TextColor3 = Color3.new(_IlOOOlO0Ol[((715 + 217 + 576) - 217 - 576)], _IlOOOlO0Ol[((716 + 313 + 367) - 313 - 367)], _IlOOOlO0Ol[((717 + 492 + 39) - 492 - 39)])
+_lOlI0IIO00II00I.Font = Enum.Font.GothamMedium
+_lOlI0IIO00II00I.TextSize = _IlOOOlO0Ol[((718 + 988 + 90) - 988 - 90)]
+local _lIl0IIOl0I00lOI = Instance.new(_IlOOOlO0Ol[((719 + 670 + 213) - 670 - 213)], _lOlI0IIO00II00I)
+_lIl0IIOl0I00lOI.CornerRadius = UDim.new(_IlOOOlO0Ol[((720 + 393 + 936) - 393 - 936)], _IlOOOlO0Ol[((721 + 209 + 702) - 209 - 702)])
+_lOlI0IIO00II00I.Parent = _IlIl0IOII00lIOl
+
+
+local _IO00l0OIO0lIIIO = Instance.new(_IlOOOlO0Ol[((722 + 863 + 36) - 863 - 36)])
+_IO00l0OIO0lIIIO.Size = UDim2.new(_IlOOOlO0Ol[((723 + 432 + 123) - 432 - 123)], _IlOOOlO0Ol[((724 + 554 + 399) - 554 - 399)], _IlOOOlO0Ol[((725 + 81 + 726) - 81 - 726)], _IlOOOlO0Ol[((726 + 973 + 702) - 973 - 702)])
+_IO00l0OIO0lIIIO.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((727 + 732 + 523) - 732 - 523)], _IlOOOlO0Ol[((728 + 140 + 840) - 140 - 840)], _IlOOOlO0Ol[((729 + 379 + 34) - 379 - 34)])
+_IO00l0OIO0lIIIO.TextColor3 = Color3.new(_IlOOOlO0Ol[((730 + 114 + 711) - 114 - 711)], _IlOOOlO0Ol[((731 + 849 + 192) - 849 - 192)], _IlOOOlO0Ol[((732 + 10 + 890) - 10 - 890)])
+_IO00l0OIO0lIIIO.Font = Enum.Font.GothamMedium
+_IO00l0OIO0lIIIO.TextSize = _IlOOOlO0Ol[((733 + 931 + 929) - 931 - 929)]
+local _lllI0IIIO0I0O00 = Instance.new(_IlOOOlO0Ol[((734 + 878 + 865) - 878 - 865)], _IO00l0OIO0lIIIO)
+_lllI0IIIO0I0O00.CornerRadius = UDim.new(_IlOOOlO0Ol[((735 + 537 + 903) - 537 - 903)], _IlOOOlO0Ol[((736 + 184 + 200) - 184 - 200)])
+_IO00l0OIO0lIIIO.Parent = _IlIl0IOII00lIOl
+
+local _I00lll0llOI0III = Instance.new(_IlOOOlO0Ol[((737 + 187 + 154) - 187 - 154)])
+_I00lll0llOI0III.Size = UDim2.new(_IlOOOlO0Ol[((738 + 468 + 299) - 468 - 299)], _IlOOOlO0Ol[((739 + 510 + 264) - 510 - 264)], _IlOOOlO0Ol[((740 + 157 + 392) - 157 - 392)], _IlOOOlO0Ol[((741 + 357 + 366) - 357 - 366)])
+_I00lll0llOI0III.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((742 + 832 + 68) - 832 - 68)], _IlOOOlO0Ol[((743 + 680 + 561) - 680 - 561)], _IlOOOlO0Ol[((744 + 595 + 869) - 595 - 869)])
+_I00lll0llOI0III.TextColor3 = Color3.new(_IlOOOlO0Ol[((745 + 742 + 922) - 742 - 922)], _IlOOOlO0Ol[((746 + 3 + 387) - 3 - 387)], _IlOOOlO0Ol[((747 + 665 + 498) - 665 - 498)])
+_I00lll0llOI0III.Font = Enum.Font.GothamBold
+_I00lll0llOI0III.TextSize = _IlOOOlO0Ol[((748 + 559 + 986) - 559 - 986)]
+local _lIIIO00lOOOI0II = Instance.new(_IlOOOlO0Ol[((749 + 505 + 703) - 505 - 703)], _I00lll0llOI0III)
+_lIIIO00lOOOI0II.CornerRadius = UDim.new(_IlOOOlO0Ol[((750 + 147 + 569) - 147 - 569)], _IlOOOlO0Ol[((751 + 171 + 442) - 171 - 442)])
+_I00lll0llOI0III.Parent = _IlIl0IOII00lIOl
+
+
+local function _lOllOlIOIO0IO0l()
+	local _lOIl0OIIOlOOIOI = _llIOOOOlIO0IOlO[_IIIlOIlII0IOlIl]
+	
+	_lO00OlOIlII00l0.Text = _lOIl0OIIOlOOIOI.time
+	_lll0O0I000O00OI.Text = (_lI0Ol0OIII0IOOl == _IlOOOlO0Ol[((752 + 571 + 414) - 571 - 414)]) and _lOIl0OIIOlOOIOI.colorYellow or _lOIl0OIIOlOOIOI.colorGreen
+	_lOlI0IIO00II00I.Text = _lI0IOO0IllOIOIO and _lOIl0OIIOlOOIOI.sizeBig or _lOIl0OIIOlOOIOI.sizeNormal
+	_IO00l0OIO0lIIIO.Text = _lOIl0OIIOlOOIOI.langBtn
+	_I00lll0llOI0III.Text = _lOIl0OIIOlOOIOI.backBtn
+	
+	for mName, _I0IlIIOII0llO0O in pairs(_I0OOOlI0lOII000) do
+		_I0IlIIOII0llO0O.Text = _lOIl0OIIOlOOIOI.modeNames[mName]
+	end
+	
+	if _IlIl0IOII00lIOl.Visible then
+		_lOOIllllO0Il0l0.Text = _lOIl0OIIOlOOIOI.settings
+	else
+		
+		local _IlIllIIIO0IOIOO = _lOIl0OIIOlOOIOI.modeNames[_IllIIllIOOlIlO0]:gsub(_IlOOOlO0Ol[((753 + 242 + 168) - 242 - 168)], _IlOOOlO0Ol[((754 + 464 + 273) - 464 - 273)])
+		_lOOIllllO0Il0l0.Text = _lOIl0OIIOlOOIOI.mode .. displayName
+	end
+end
+
+local function _l0IIl0Il00llI0I()
+	for modeName, _I0IlIIOII0llO0O in pairs(_I0OOOlI0lOII000) do
+		if modeName == _IllIIllIOOlIlO0 then
+			_I0IlIIOII0llO0O.BackgroundColor3 = _IlIOOlIl00llll0
+			_I0IlIIOII0llO0O.TextColor3 = Color3.fromRGB(_IlOOOlO0Ol[((755 + 312 + 800) - 312 - 800)], _IlOOOlO0Ol[((756 + 421 + 875) - 421 - 875)], _IlOOOlO0Ol[((757 + 789 + 996) - 789 - 996)]) 
+		else
+			_I0IlIIOII0llO0O.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((758 + 314 + 480) - 314 - 480)], _IlOOOlO0Ol[((759 + 80 + 918) - 80 - 918)], _IlOOOlO0Ol[((760 + 542 + 743) - 542 - 743)]) 
+			_I0IlIIOII0llO0O.TextColor3 = Color3.fromRGB(_IlOOOlO0Ol[((761 + 68 + 668) - 68 - 668)], _IlOOOlO0Ol[((762 + 622 + 764) - 622 - 764)], _IlOOOlO0Ol[((763 + 374 + 229) - 374 - 229)]) 
+		end
+	end
+end
+
+_IO00l0OIO0lIIIO.MouseButton1Click:Connect(function()
+	_IIIlOIlII0IOlIl = (_IIIlOIlII0IOlIl == _IlOOOlO0Ol[((764 + 763 + 230) - 763 - 230)]) and _IlOOOlO0Ol[((765 + 306 + 657) - 306 - 657)] or _IlOOOlO0Ol[((766 + 574 + 682) - 574 - 682)]
+	_lOllOlIOIO0IO0l()
+end)
+
+_lll0O0I000O00OI.MouseButton1Click:Connect(function()
+	if _lI0Ol0OIII0IOOl == _IlOOOlO0Ol[((767 + 570 + 667) - 570 - 667)] then
+		_lI0Ol0OIII0IOOl = _IlOOOlO0Ol[((768 + 588 + 862) - 588 - 862)]
+		_IlIOOlIl00llll0 = _IllOlIlOOllIIlI
+		_lll0O0I000O00OI.TextColor3 = _IllOlIlOOllIIlI
+	else
+		_lI0Ol0OIII0IOOl = _IlOOOlO0Ol[((769 + 951 + 188) - 951 - 188)]
+		_IlIOOlIl00llll0 = _lOllOOI0IIIIOll
+		_lll0O0I000O00OI.TextColor3 = _lOllOOI0IIIIOll
+	end
+	
+	if _lI0IOO0IllOIOIO then
+		_lOlI0IIO00II00I.BackgroundColor3 = _IlIOOlIl00llll0
+	end
+	
+	_lOOOOlIl0lI0OI0()
+	_l0IIl0Il00llI0I()
+	_lOllOlIOIO0IO0l()
+end)
+
+_lOlI0IIO00II00I.MouseButton1Click:Connect(function()
+	_lI0IOO0IllOIOIO = not _lI0IOO0IllOIOIO
+	if _lI0IOO0IllOIOIO then
+		_lOlI0IIO00II00I.BackgroundColor3 = _IlIOOlIl00llll0
+		_lOlI0IIO00II00I.TextColor3 = Color3.fromRGB(_IlOOOlO0Ol[((770 + 747 + 638) - 747 - 638)], _IlOOOlO0Ol[((771 + 881 + 268) - 881 - 268)], _IlOOOlO0Ol[((772 + 774 + 288) - 774 - 288)])
+	else
+		_lOlI0IIO00II00I.BackgroundColor3 = Color3.fromRGB(_IlOOOlO0Ol[((773 + 794 + 922) - 794 - 922)], _IlOOOlO0Ol[((774 + 50 + 426) - 50 - 426)], _IlOOOlO0Ol[((775 + 151 + 983) - 151 - 983)])
+		_lOlI0IIO00II00I.TextColor3 = Color3.new(_IlOOOlO0Ol[((776 + 887 + 170) - 887 - 170)], _IlOOOlO0Ol[((777 + 565 + 903) - 565 - 903)], _IlOOOlO0Ol[((778 + 954 + 397) - 954 - 397)])
+	end
+	_lOllOlIOIO0IO0l()
+end)
+
+_l0lIIO00IIlO0OO.MouseButton1Click:Connect(function()
+	if _I0OI0O00OllOIOO then
+		_I0OI0O00OllOIOO = false
+		_llll0OOIO0lIIll.Text = _IlOOOlO0Ol[((779 + 518 + 239) - 518 - 239)]
+		mainFrame.Size = UDim2.new(_IlOOOlO0Ol[((780 + 929 + 365) - 929 - 365)], _IlOOOlO0Ol[((781 + 626 + 197) - 626 - 197)], _IlOOOlO0Ol[((782 + 422 + 200) - 422 - 200)], _I00lO0l0lIIOl0I)
+	end
+	
+	local _IIl0OO0IlIlll00 = not _IlIl0IOII00lIOl.Visible
+	_IlIl0IOII00lIOl.Visible = _IIl0OO0IlIlll00
+	_lO0OOl0lOl0lOIl.Visible = not _IIl0OO0IlIlll00
+	_lOllOlIOIO0IO0l()
+end)
+
+_I00lll0llOI0III.MouseButton1Click:Connect(function()
+	_IlIl0IOII00lIOl.Visible = false
+	_lO0OOl0lOl0lOIl.Visible = true
+	_lOllOlIOIO0IO0l()
+end)
+
+local function _l0IO00lll00OO00(modeName)
+	if _IllIIllIOOlIlO0 ~= modeName then
+		_IllIIllIOOlIlO0 = modeName
+		_lOllOlIOIO0IO0l()
+		_l0IIl0Il00llI0I()
+		_IllI0OIIl0Ol0l0() 
+	end
+end
+
+local function _lOlOI0Ol0Olll0l(modeName)
+	local _I0IlIIOII0llO0O = Instance.new(_IlOOOlO0Ol[((783 + 103 + 570) - 103 - 570)])
+	_I0IlIIOII0llO0O.Size = UDim2.new(_IlOOOlO0Ol[((784 + 200 + 749) - 200 - 749)], _IlOOOlO0Ol[((785 + 318 + 494) - 318 - 494)], _IlOOOlO0Ol[((786 + 251 + 144) - 251 - 144)], _IlOOOlO0Ol[((787 + 887 + 118) - 887 - 118)])
+	_I0IlIIOII0llO0O.Font = Enum.Font.GothamMedium
+	_I0IlIIOII0llO0O.TextSize = _IlOOOlO0Ol[((788 + 238 + 541) - 238 - 541)]
+	_I0IlIIOII0llO0O.AutoButtonColor = true
+	local _I0I0IO0I0IlIllI = Instance.new(_IlOOOlO0Ol[((789 + 352 + 191) - 352 - 191)])
+	_I0I0IO0I0IlIllI.CornerRadius = UDim.new(_IlOOOlO0Ol[((790 + 680 + 575) - 680 - 575)], _IlOOOlO0Ol[((791 + 932 + 894) - 932 - 894)])
+	_I0I0IO0I0IlIllI.Parent = _I0IlIIOII0llO0O
+	_I0IlIIOII0llO0O.Parent = _lO0OOl0lOl0lOIl
+	
+	_I0OOOlI0lOII000[modeName] = _I0IlIIOII0llO0O
+	_I0IlIIOII0llO0O.MouseButton1Click:Connect(function() _l0IO00lll00OO00(modeName) end)
+end
+
+
+_lOlOI0Ol0Olll0l(_IlOOOlO0Ol[((792 + 493 + 382) - 493 - 382)])
+if _Ill0llllO00lI0O then
+	_lOlOI0Ol0Olll0l(_IlOOOlO0Ol[((793 + 484 + 520) - 484 - 520)])
+	_lOlOI0Ol0Olll0l(_IlOOOlO0Ol[((794 + 164 + 311) - 164 - 311)])
+end
+_lOlOI0Ol0Olll0l(_IlOOOlO0Ol[((795 + 732 + 24) - 732 - 24)])
+_lOlOI0Ol0Olll0l(_IlOOOlO0Ol[((796 + 195 + 588) - 195 - 588)])
+
+
+_lOllOlIOIO0IO0l()
+_l0IIl0Il00llI0I()
+
+_ll0Ol0l0O0IlOOl.InputBegan:Connect(function(input, gameProcessed)
+	if gameProcessed then return end 
+	
+	if input.KeyCode == Enum.KeyCode.P then 
+		_ll0lOOO000OOIll()
+	elseif input.KeyCode == Enum.KeyCode.Z then _l0IO00lll00OO00(_IlOOOlO0Ol[((797 + 61 + 279) - 61 - 279)])
+	elseif input.KeyCode == Enum.KeyCode.X and _Ill0llllO00lI0O then _l0IO00lll00OO00(_IlOOOlO0Ol[((798 + 108 + 974) - 108 - 974)])
+	elseif input.KeyCode == Enum.KeyCode.C and _Ill0llllO00lI0O then _l0IO00lll00OO00(_IlOOOlO0Ol[((799 + 514 + 688) - 514 - 688)])
+	elseif input.KeyCode == Enum.KeyCode.V then _l0IO00lll00OO00(_IlOOOlO0Ol[((800 + 162 + 336) - 162 - 336)])
+	elseif input.KeyCode == Enum.KeyCode.F then _l0IO00lll00OO00(_IlOOOlO0Ol[((801 + 975 + 518) - 975 - 518)])
+	end
+end)
+
+local _I0I0OOOOO0ll00I, dragInput, dragStart, startPos
+_lOlO0O0IOI0O0lI.InputBegan:Connect(function(input)
+	if input.UserInputType == Enum.UserInputType.MouseButton1 then
+		_I0I0OOOOO0ll00I = true; dragStart = input.Position; startPos = mainFrame.Position
+		input.Changed:Connect(function() if input.UserInputState == Enum.UserInputState.End then _I0I0OOOOO0ll00I = false end end)
+	end
+end)
+_lOlO0O0IOI0O0lI.InputChanged:Connect(function(input) if input.UserInputType == Enum.UserInputType.MouseMovement then dragInput = input end end)
+_ll0Ol0l0O0IlOOl.InputChanged:Connect(function(input)
+	if input == dragInput and _I0I0OOOOO0ll00I then
+		local _lI0OOOOI0OI0IOl = input.Position - dragStart
+		mainFrame.Position = UDim2.new(startPos.X.Scale, startPos.X.Offset + _lI0OOOOI0OI0IOl.X, startPos.Y.Scale, startPos.Y.Offset + _lI0OOOOI0OI0IOl.Y)
+	end
+end)
+
+_llll0OOIO0lIIll.MouseButton1Click:Connect(function()
+	_I0OI0O00OllOIOO = not _I0OI0O00OllOIOO
+	_lO0OOl0lOl0lOIl.Visible = (not _I0OI0O00OllOIOO) and (not _IlIl0IOII00lIOl.Visible)
+	_IlIl0IOII00lIOl.Visible = (not _I0OI0O00OllOIOO) and _IlIl0IOII00lIOl.Visible
+	mainFrame.Size = _I0OI0O00OllOIOO and UDim2.new(_IlOOOlO0Ol[((802 + 554 + 155) - 554 - 155)], _IlOOOlO0Ol[((803 + 640 + 969) - 640 - 969)], _IlOOOlO0Ol[((804 + 966 + 254) - 966 - 254)], _IlOOOlO0Ol[((805 + 989 + 930) - 989 - 930)]) or UDim2.new(_IlOOOlO0Ol[((806 + 937 + 553) - 937 - 553)], _IlOOOlO0Ol[((807 + 821 + 596) - 821 - 596)], _IlOOOlO0Ol[((808 + 850 + 242) - 850 - 242)], _I00lO0l0lIIOl0I)
+	_llll0OOIO0lIIll.Text = _I0OI0O00OllOIOO and _IlOOOlO0Ol[((809 + 538 + 894) - 538 - 894)] or _IlOOOlO0Ol[((810 + 767 + 362) - 767 - 362)]
+end)
+
+_l000O00l00IOI0I.Heartbeat:Connect(function()
+	local _l0OIlIIIIlIOOOO = _ll0IlII0OlOIOlO.Character
+	local _llIl0OOllIIIlO0 = false
+	
+	if _l0OIlIIIIlIOOOO and _l0lII0IO0IlOIOO and _l0lII0IO0IlOIOO.Parent == _l0OIlIIIIlIOOOO then
+		_llIl0OOllIIIlO0 = true
+	end
+	
+	if _lIl0OlOI0OlIIl0 ~= _llIl0OOllIIIlO0 then
+		_lIl0OlOI0OlIIl0 = _llIl0OOllIIIlO0
+		if mainFrame then mainFrame.Visible = _llIl0OOllIIIlO0 end
+	end
+end)
+
+
+
+
+local function _I0OllOOOOOIIIlO(character)
+	local _IO00Il0lIII0lOl = character:FindFirstChild(_IlOOOlO0Ol[((811 + 660 + 661) - 660 - 661)])
+	if not _IO00Il0lIII0lOl then return end
+	
+	local _IIO0Ol0IlI0OIOO = Instance.new(_IlOOOlO0Ol[((812 + 140 + 237) - 140 - 237)])
+	_IIO0Ol0IlI0OIOO.Color = ColorSequence.new(_IlIOOlIl00llll0)
+	_IIO0Ol0IlI0OIOO.Size = NumberSequence.new({NumberSequenceKeypoint.new(_IlOOOlO0Ol[((813 + 382 + 946) - 382 - 946)], _IlOOOlO0Ol[((814 + 631 + 256) - 631 - 256)]), NumberSequenceKeypoint.new(_IlOOOlO0Ol[((815 + 734 + 91) - 734 - 91)], _IlOOOlO0Ol[((816 + 263 + 612) - 263 - 612)])})
+	_IIO0Ol0IlI0OIOO.Texture = _IlOOOlO0Ol[((817 + 259 + 868) - 259 - 868)]
+	_IIO0Ol0IlI0OIOO.Lifetime = NumberRange.new(_IlOOOlO0Ol[((818 + 530 + 862) - 530 - 862)], _IlOOOlO0Ol[((819 + 652 + 894) - 652 - 894)])
+	_IIO0Ol0IlI0OIOO.Rate = _IlOOOlO0Ol[((820 + 451 + 693) - 451 - 693)]
+	_IIO0Ol0IlI0OIOO.Speed = NumberRange.new(_IlOOOlO0Ol[((821 + 415 + 709) - 415 - 709)], _IlOOOlO0Ol[((822 + 299 + 528) - 299 - 528)])
+	_IIO0Ol0IlI0OIOO.SpreadAngle = Vector2.new(_IlOOOlO0Ol[((823 + 303 + 270) - 303 - 270)], _IlOOOlO0Ol[((824 + 789 + 814) - 789 - 814)])
+	_IIO0Ol0IlI0OIOO.Parent = _IO00Il0lIII0lOl
+	
+	task.delay(_IlOOOlO0Ol[((825 + 642 + 899) - 642 - 899)], function()
+		if _IIO0Ol0IlI0OIOO and _IIO0Ol0IlI0OIOO.Parent then _IIO0Ol0IlI0OIOO.Enabled = false end
+		_lOOl0l0I00Il0II:AddItem(_IIO0Ol0IlI0OIOO, _IlOOOlO0Ol[((826 + 489 + 527) - 489 - 527)])
+	end)
+end
+
+local function _IIOO0IlOlO0O00l(portalObj, isNormalMode)
+	local _IIlIO0Ol0llOIIl = portalObj.PrimaryPart
+	_IIlIO0Ol0llOIIl.Touched:Connect(function(hit)
+		if _IOl0OI0IOllOIOI then return end
+
+		local _l0OIlIIIIlIOOOO = _ll0IlII0OlOIOlO.Character
+		local _IO00Il0lIII0lOl = _l0OIlIIIIlIOOOO and _l0OIlIIIIlIOOOO:FindFirstChild(_IlOOOlO0Ol[((827 + 566 + 58) - 566 - 58)])
+		local _lIl0lOIIIIO0OlI = _l0OIlIIIIlIOOOO and _l0OIlIIIIlIOOOO:FindFirstChildOfClass(_IlOOOlO0Ol[((828 + 843 + 51) - 843 - 51)])
+		if not _IO00Il0lIII0lOl or not _lIl0lOIIIIO0OlI then return end
+
+		local _Il0lOllIO00lOOO = hit:IsDescendantOf(_l0OIlIIIIlIOOOO)
+		local _llOI0I0IIlI000l = false
+		local _I00lO0lIIl00lI0 = nil
+		
+		if _lIl0lOIIIIO0OlI.SeatPart then
+			_I00lO0lIIl00lI0 = _lIl0lOIIIIO0OlI.SeatPart.AssemblyRootPart or _lIl0lOIIIIO0OlI.SeatPart
+			local _IlOllI0II0IOIl0 = _lIl0lOIIIIO0OlI.SeatPart:FindFirstAncestorOfClass(_IlOOOlO0Ol[((829 + 82 + 298) - 82 - 298)])
+			
+			if _IlOllI0II0IOIl0 and hit:IsDescendantOf(_IlOllI0II0IOIl0) then
+				_llOI0I0IIlI000l = true
+			elseif hit:IsDescendantOf(_lIl0lOIIIIO0OlI.SeatPart.Parent) then
+				_llOI0I0IIlI000l = true
+			end
+		end
+
+		if _Il0lOllIO00lOOO or (_llOI0I0IIlI000l and _lI0IOO0IllOIOIO) then
+			local _IllOOI000l0O0l0 = nil
+			
+			if isNormalMode and _IllIIllIOOlIlO0 == _IlOOOlO0Ol[((830 + 663 + 91) - 663 - 91)] then
+				local _l0l0IO0ll0IIl00 = nil
+				if _Il0OOlIIOII0l00[_IlOOOlO0Ol[((831 + 741 + 622) - 741 - 622)]] == portalObj and _Il0OOlIIOII0l00[_IlOOOlO0Ol[((832 + 398 + 250) - 398 - 250)]] then
+					_l0l0IO0ll0IIl00 = _Il0OOlIIOII0l00[_IlOOOlO0Ol[((833 + 208 + 677) - 208 - 677)]]
+				elseif _Il0OOlIIOII0l00[_IlOOOlO0Ol[((834 + 706 + 223) - 706 - 223)]] == portalObj and _Il0OOlIIOII0l00[_IlOOOlO0Ol[((835 + 420 + 968) - 420 - 968)]] then
+					_l0l0IO0ll0IIl00 = _Il0OOlIIOII0l00[_IlOOOlO0Ol[((836 + 831 + 649) - 831 - 649)]]
+				end
+				
+				if _l0l0IO0ll0IIl00 and _l0l0IO0ll0IIl00.PrimaryPart then
+					local _IOOll00l0llOII0 = _l0l0IO0ll0IIl00.PrimaryPart.CFrame.LookVector
+					local _l0l0OI0I00IOOlI = _l0l0IO0ll0IIl00.PrimaryPart.Position + (_IOOll00l0llOII0 * _IlOOOlO0Ol[((837 + 871 + 28) - 871 - 28)])
+					
+					local _I0lIIOOl00llO0O = Vector3.new(_IOOll00l0llOII0.X, _IlOOOlO0Ol[((838 + 791 + 604) - 791 - 604)], _IOOll00l0llOII0.Z)
+					if _I0lIIOOl00llO0O.Magnitude < _IlOOOlO0Ol[((839 + 271 + 220) - 271 - 220)] then _I0lIIOOl00llO0O = Vector3.new(_IO00Il0lIII0lOl.CFrame.LookVector.X, _IlOOOlO0Ol[((840 + 233 + 240) - 233 - 240)], _IO00Il0lIII0lOl.CFrame.LookVector.Z) end
+					if _I0lIIOOl00llO0O.Magnitude < _IlOOOlO0Ol[((841 + 827 + 503) - 827 - 503)] then _I0lIIOOl00llO0O = Vector3.new(_IlOOOlO0Ol[((842 + 622 + 265) - 622 - 265)], _IlOOOlO0Ol[((843 + 802 + 505) - 802 - 505)], -_IlOOOlO0Ol[((844 + 126 + 77) - 126 - 77)]) end
+					
+					_IllOOI000l0O0l0 = CFrame.lookAt(_l0l0OI0I00IOOlI, _l0l0OI0I00IOOlI + _I0lIIOOl00llO0O)
+				end
+			elseif not isNormalMode and _IllIIllIOOlIlO0 ~= _IlOOOlO0Ol[((845 + 899 + 981) - 899 - 981)] then
+				if _IllIIllIOOlIlO0 == _IlOOOlO0Ol[((846 + 729 + 265) - 729 - 265)] then
+					local _IOlIO0O0lOIO0Ol = {}
+					for _, otherPlayer in ipairs(_l00OlO0IOlIOO0O:GetPlayers()) do
+						if otherPlayer ~= _ll0IlII0OlOIOlO and otherPlayer.Character then
+							local _IIllIllII0lllII = otherPlayer.Character:FindFirstChild(_IlOOOlO0Ol[((847 + 665 + 762) - 665 - 762)])
+							local _lO0IlOlI0lO0O0I = otherPlayer.Character:FindFirstChildOfClass(_IlOOOlO0Ol[((848 + 928 + 582) - 928 - 582)])
+							if _IIllIllII0lllII and _lO0IlOlI0lO0O0I and _lO0IlOlI0lO0O0I.Health > _IlOOOlO0Ol[((849 + 240 + 659) - 240 - 659)] then
+								table.insert(_IOlIO0O0lOIO0Ol, _IIllIllII0lllII)
+							end
+						end
+					end
+					
+					if #_IOlIO0O0lOIO0Ol > _IlOOOlO0Ol[((850 + 406 + 820) - 406 - 820)] then
+						local _Il0O0lIIlIllO0O = _IOlIO0O0lOIO0Ol[math.random(_IlOOOlO0Ol[((851 + 540 + 505) - 540 - 505)], #_IOlIO0O0lOIO0Ol)]
+						local _lIOlOOO0O0IllO0 = _Il0O0lIIlIllO0O.Position - (_Il0O0lIIlIllO0O.CFrame.LookVector * _IlOOOlO0Ol[((852 + 870 + 873) - 870 - 873)]) + Vector3.new(_IlOOOlO0Ol[((853 + 553 + 768) - 553 - 768)], _IlOOOlO0Ol[((854 + 795 + 652) - 795 - 652)], _IlOOOlO0Ol[((855 + 304 + 139) - 304 - 139)])
+						_IllOOI000l0O0l0 = CFrame.lookAt(_lIOlOOO0O0IllO0, _Il0O0lIIlIllO0O.Position)
+					end
+				else
+					local _l0l0OI0I00IOOlI = nil
+					
+					if _IllIIllIOOlIlO0 == _IlOOOlO0Ol[((856 + 199 + 968) - 199 - 968)] then
+						_l0l0OI0I00IOOlI = _IIlO0O0IOIlI00l
+					elseif _Ill0llllO00lI0O then 
+						if _IllIIllIOOlIlO0 == _IlOOOlO0Ol[((857 + 250 + 249) - 250 - 249)] then
+							local _Il0lll0Ol00IlOO = workspace:FindFirstChild(_IlOOOlO0Ol[((858 + 180 + 441) - 180 - 441)]) and workspace.Tower:FindFirstChild(_IlOOOlO0Ol[((859 + 343 + 16) - 343 - 16)]) and workspace.Tower.Steps:FindFirstChild(_IlOOOlO0Ol[((860 + 254 + 449) - 254 - 449)])
+							if _Il0lll0Ol00IlOO then _l0l0OI0I00IOOlI = _Il0lll0Ol00IlOO.Position + Vector3.new(_IlOOOlO0Ol[((861 + 660 + 716) - 660 - 716)], _IlOOOlO0Ol[((862 + 477 + 431) - 477 - 431)], _IlOOOlO0Ol[((863 + 788 + 463) - 788 - 463)]) end
+							
+						elseif _IllIIllIOOlIlO0 == _IlOOOlO0Ol[((864 + 988 + 186) - 988 - 186)] then
+							local _I0l0lll000l00Ol = workspace:FindFirstChild(_IlOOOlO0Ol[((865 + 631 + 585) - 631 - 585)])
+							if _I0l0lll000l00Ol and #_I0l0lll000l00Ol:GetChildren() >= _IlOOOlO0Ol[((866 + 377 + 328) - 377 - 328)] then 
+								_l0l0OI0I00IOOlI = _I0l0lll000l00Ol:GetChildren()[_IlOOOlO0Ol[((867 + 841 + 35) - 841 - 35)]].Position + Vector3.new(_IlOOOlO0Ol[((868 + 698 + 539) - 698 - 539)], _IlOOOlO0Ol[((869 + 692 + 423) - 692 - 423)], _IlOOOlO0Ol[((870 + 106 + 279) - 106 - 279)])
+							end
+						end
+					end
+					
+					if _l0l0OI0I00IOOlI then
+						local _I0lIIOOl00llO0O = Vector3.new(_IO00Il0lIII0lOl.CFrame.LookVector.X, _IlOOOlO0Ol[((871 + 992 + 342) - 992 - 342)], _IO00Il0lIII0lOl.CFrame.LookVector.Z)
+						if _I0lIIOOl00llO0O.Magnitude < _IlOOOlO0Ol[((872 + 871 + 707) - 871 - 707)] then _I0lIIOOl00llO0O = Vector3.new(_IlOOOlO0Ol[((873 + 383 + 175) - 383 - 175)], _IlOOOlO0Ol[((874 + 376 + 559) - 376 - 559)], -_IlOOOlO0Ol[((875 + 917 + 725) - 917 - 725)]) end
+						_IllOOI000l0O0l0 = CFrame.lookAt(_l0l0OI0I00IOOlI, _l0l0OI0I00IOOlI + _I0lIIOOl00llO0O)
+					end
+				end
+			end
+			
+			if _IllOOI000l0O0l0 then
+				_IOl0OI0IOllOIOI = true
+				_I0OllOOOOOIIIlO(_l0OIlIIIIlIOOOO)
+				_l0I0OlIO0l0OIOO() 
+				
+				if _lI0IOO0IllOIOIO and _I00lO0lIIl00lI0 then
+					_I00lO0lIIl00lI0.CFrame = _IllOOI000l0O0l0 + Vector3.new(_IlOOOlO0Ol[((876 + 114 + 136) - 114 - 136)], _IlOOOlO0Ol[((877 + 393 + 62) - 393 - 62)], _IlOOOlO0Ol[((878 + 791 + 894) - 791 - 894)])
+					_I00lO0lIIl00lI0.AssemblyLinearVelocity = Vector3.new(_IlOOOlO0Ol[((879 + 661 + 850) - 661 - 850)], _IlOOOlO0Ol[((880 + 580 + 492) - 580 - 492)], _IlOOOlO0Ol[((881 + 650 + 965) - 650 - 965)])
+					_I00lO0lIIl00lI0.AssemblyAngularVelocity = Vector3.new(_IlOOOlO0Ol[((882 + 758 + 575) - 758 - 575)], _IlOOOlO0Ol[((883 + 356 + 950) - 356 - 950)], _IlOOOlO0Ol[((884 + 896 + 290) - 896 - 290)])
+				else
+					if _lIl0lOIIIIO0OlI.Sit then _lIl0lOIIIIO0OlI.Sit = false end 
+					_IO00Il0lIII0lOl.CFrame = _IllOOI000l0O0l0
+				end
+				
+				task.wait(_IlOOOlO0Ol[((885 + 139 + 924) - 139 - 924)])
+				_IOl0OI0IOllOIOI = false
+			end
+		end
+	end)
+end
+
+local function _IOOl0lOlIl00IOl(position, normal)
+	local _lllOl0OOIIOlO00 = Instance.new(_IlOOOlO0Ol[((886 + 914 + 364) - 914 - 364)])
+	_lllOl0OOIIOlO00.Name = _IlOOOlO0Ol[((887 + 757 + 433) - 757 - 433)]
+	
+	local _IOII0I00l00OllO = position + (normal * _IlOOOlO0Ol[((888 + 976 + 290) - 976 - 290)])
+	local _Il0OlI0IOIOl0ll = Vector3.new(_IlOOOlO0Ol[((889 + 400 + 335) - 400 - 335)], _IlOOOlO0Ol[((890 + 567 + 231) - 567 - 231)], _IlOOOlO0Ol[((891 + 62 + 750) - 62 - 750)])
+	if math.abs(normal.Y) > _IlOOOlO0Ol[((892 + 507 + 767) - 507 - 767)] then _Il0OlI0IOIOl0ll = Vector3.new(_IlOOOlO0Ol[((893 + 765 + 984) - 765 - 984)], _IlOOOlO0Ol[((894 + 63 + 319) - 63 - 319)], _IlOOOlO0Ol[((895 + 638 + 787) - 638 - 787)]) end
+	
+	local _l0OOI00lIlllI0l = CFrame.lookAt(_IOII0I00l00OllO, _IOII0I00l00OllO + normal, _Il0OlI0IOIOl0ll)
+	
+	local _IOIOOlIO0OI0OIO = _lI0IOO0IllOIOIO and Vector3.new(_IlOOOlO0Ol[((896 + 403 + 982) - 403 - 982)], _IlOOOlO0Ol[((897 + 355 + 507) - 355 - 507)], _IlOOOlO0Ol[((898 + 469 + 73) - 469 - 73)]) or Vector3.new(_IlOOOlO0Ol[((899 + 119 + 411) - 119 - 411)], _IlOOOlO0Ol[((900 + 378 + 464) - 378 - 464)], _IlOOOlO0Ol[((901 + 157 + 631) - 157 - 631)])
+	local _llOO0I0l00II0I0 = _lI0IOO0IllOIOIO and _IlOOOlO0Ol[((902 + 858 + 961) - 858 - 961)] or _IlOOOlO0Ol[((903 + 995 + 663) - 995 - 663)]
+	local _llIlOl0IOIl0Il0 = _lI0IOO0IllOIOIO and _IlOOOlO0Ol[((904 + 436 + 150) - 436 - 150)] or _IlOOOlO0Ol[((905 + 817 + 210) - 817 - 210)]
+	
+	local _lOOI00OlIIIO0II = Instance.new(_IlOOOlO0Ol[((906 + 550 + 642) - 550 - 642)])
+	_lOOI00OlIIIO0II.Name = _IlOOOlO0Ol[((907 + 669 + 209) - 669 - 209)]
+	_lOOI00OlIIIO0II.Size = Vector3.new(_IlOOOlO0Ol[((908 + 463 + 630) - 463 - 630)], _IlOOOlO0Ol[((909 + 51 + 963) - 51 - 963)], _IlOOOlO0Ol[((910 + 206 + 561) - 206 - 561)]) 
+	_lOOI00OlIIIO0II.Transparency = _IlOOOlO0Ol[((911 + 967 + 39) - 967 - 39)] 
+	_lOOI00OlIIIO0II.Anchored = true
+	_lOOI00OlIIIO0II.CanCollide = false
+	_lOOI00OlIIIO0II.CFrame = _l0OOI00lIlllI0l
+	_lOOI00OlIIIO0II.Parent = _lllOl0OOIIOlO00
+	
+	local _Illl000O0IIOlOl = Instance.new(_IlOOOlO0Ol[((912 + 211 + 357) - 211 - 357)])
+	_Illl000O0IIOlOl.Color = _IlIOOlIl00llll0
+	_Illl000O0IIOlOl.Range = _llOO0I0l00II0I0
+	_Illl000O0IIOlOl.Brightness = _llIlOl0IOIl0Il0
+	_Illl000O0IIOlOl.Parent = _lOOI00OlIIIO0II
+
+	local function _IOOll0OOl0llOII(faceId)
+		local _IOIlIOIIIOI0OI0 = Instance.new(_IlOOOlO0Ol[((913 + 787 + 987) - 787 - 987)])
+		_IOIlIOIIIOI0OI0.Face = faceId
+		_IOIlIOIIIOI0OI0.LightInfluence = _IlOOOlO0Ol[((914 + 728 + 799) - 728 - 799)]
+		_IOIlIOIIIOI0OI0.Parent = _lOOI00OlIIIO0II
+
+		local _lIOI0lIII0OI00O = Instance.new(_IlOOOlO0Ol[((915 + 706 + 252) - 706 - 252)])
+		_lIOI0lIII0OI00O.BackgroundTransparency = _IlOOOlO0Ol[((916 + 254 + 774) - 254 - 774)]
+		_lIOI0lIII0OI00O.Size = UDim2.new(_IlOOOlO0Ol[((917 + 200 + 667) - 200 - 667)], _IlOOOlO0Ol[((918 + 500 + 862) - 500 - 862)], _IlOOOlO0Ol[((919 + 732 + 170) - 732 - 170)], _IlOOOlO0Ol[((920 + 446 + 731) - 446 - 731)])
+		_lIOI0lIII0OI00O.Position = UDim2.new(_IlOOOlO0Ol[((921 + 855 + 351) - 855 - 351)], _IlOOOlO0Ol[((922 + 245 + 319) - 245 - 319)], _IlOOOlO0Ol[((923 + 100 + 276) - 100 - 276)], _IlOOOlO0Ol[((924 + 32 + 375) - 32 - 375)])
+		_lIOI0lIII0OI00O.AnchorPoint = Vector2.new(_IlOOOlO0Ol[((925 + 546 + 792) - 546 - 792)], _IlOOOlO0Ol[((926 + 546 + 468) - 546 - 468)])
+		
+		if _lI0Ol0OIII0IOOl == _IlOOOlO0Ol[((927 + 353 + 459) - 353 - 459)] then
+			_lIOI0lIII0OI00O.Image = _IlOOOlO0Ol[((928 + 242 + 550) - 242 - 550)] 
+		else
+			_lIOI0lIII0OI00O.Image = _IlOOOlO0Ol[((929 + 744 + 63) - 744 - 63)] 
+		end
+		
+		_lIOI0lIII0OI00O.ImageTransparency = _IlOOOlO0Ol[((930 + 852 + 323) - 852 - 323)]
+		_lIOI0lIII0OI00O.ImageColor3 = Color3.fromRGB(_IlOOOlO0Ol[((931 + 985 + 561) - 985 - 561)], _IlOOOlO0Ol[((932 + 78 + 937) - 78 - 937)], _IlOOOlO0Ol[((933 + 847 + 337) - 847 - 337)])
+		_lIOI0lIII0OI00O.Parent = _IOIlIOIIIOI0OI0
+		
+		return _lIOI0lIII0OI00O
+	end
+
+	local _I0lOIOOOO0OlI0I = _IOOll0OOl0llOII(Enum.NormalId.Front)
+	local _IlllO0IlOOII0II = _IOOll0OOl0llOII(Enum.NormalId.Back)
+
+	local _Il00OIlII0IO0I0 = _I0IO0OI0lIIlO0l:Create(_lOOI00OlIIIO0II, TweenInfo.new(_IlOOOlO0Ol[((934 + 772 + 329) - 772 - 329)], Enum.EasingStyle.Back, Enum.EasingDirection.Out), {Size = _IOIOOlIO0OI0OIO})
+	_Il00OIlII0IO0I0:Play()
+
+	task.spawn(function()
+		while _lOOI00OlIIIO0II.Parent do
+			_I0lOIOOOO0OlI0I.Rotation = _I0lOIOOOO0OlI0I.Rotation + _IlOOOlO0Ol[((935 + 257 + 231) - 257 - 231)] 
+			_IlllO0IlOOII0II.Rotation = _IlllO0IlOOII0II.Rotation - _IlOOOlO0Ol[((936 + 535 + 554) - 535 - 554)]   
+			task.wait(_IlOOOlO0Ol[((937 + 160 + 604) - 160 - 604)])
+		end
+	end)
+
+	_lllOl0OOIIOlO00.PrimaryPart = _lOOI00OlIIIO0II
+	_lllOl0OOIIOlO00.Parent = workspace
+	
+	task.delay(_I00I0OlI00l0000, function()
+		if _lllOl0OOIIOlO00 and _lllOl0OOIIOlO00.Parent then
+			_II0IIlIOI0OOl0O(_lllOl0OOIIOlO00)
+		end
+	end)
+	
+	return _lllOl0OOIIOlO00
+end
+
+_llIIOOlOIOIlllO.Button1Down:Connect(function()
+	if not _lIl0OlOI0OlIIl0 then return end 
+
+	local _l0l0IlO0IlllI0I = _ll0Ol0l0O0IlOOl:GetFocusedTextBox()
+	if _l0l0IlO0IlllI0I then return end
+	
+	if shootSound then shootSound:Play() end
+	if _II0IlllIO0IIllO then _II0IlllIO0IIllO:Emit(_lI0IOO0IllOIOIO and _IlOOOlO0Ol[((938 + 822 + 842) - 822 - 842)] or _IlOOOlO0Ol[((939 + 60 + 948) - 60 - 948)]) end 
+
+	local _III0l0lll0lOO0O = _llIIOOlOIOIlllO.Hit.Position
+	local _IlIOlOOII0O0Oll = Vector3.new(_IlOOOlO0Ol[((940 + 128 + 182) - 128 - 182)], _IlOOOlO0Ol[((941 + 63 + 781) - 63 - 781)], _IlOOOlO0Ol[((942 + 330 + 935) - 330 - 935)])
+	
+	local _lIlOOlI0lI0IOIl = workspace.CurrentCamera.CFrame
+	local _lOll0lllIIlOllI = (_III0l0lll0lOO0O - _lIlOOlI0lI0IOIl.Position).Unit * _IlOOOlO0Ol[((943 + 115 + 286) - 115 - 286)]
+	
+	local _I00Il0Oll0OIIlO = RaycastParams.new()
+	_I00Il0Oll0OIIlO.FilterType = Enum.RaycastFilterType.Exclude
+	_I00Il0Oll0OIIlO.FilterDescendantsInstances = {_ll0IlII0OlOIOlO.Character, _l0lII0IO0IlOIOO}
+	
+	local _lII0I0lI0Ol000O = workspace:Raycast(_lIlOOlI0lI0IOIl.Position, _lOll0lllIIlOllI, _I00Il0Oll0OIIlO)
+	if _lII0I0lI0Ol000O then
+		_III0l0lll0lOO0O = _lII0I0lI0Ol000O.Position
+		_IlIOlOOII0O0Oll = _lII0I0lI0Ol000O.Normal
+	end
+
+	local _lllOl0OOIIOlO00 = _IOOl0lOlIl00IOl(_III0l0lll0lOO0O, _IlIOlOOII0O0Oll)
+
+	if _IllIIllIOOlIlO0 == _IlOOOlO0Ol[((944 + 552 + 533) - 552 - 533)] then
+		table.insert(_Il0OOlIIOII0l00, _lllOl0OOIIOlO00)
+		if #_Il0OOlIIOII0l00 > _IlOOOlO0Ol[((945 + 798 + 978) - 798 - 978)] then
+			local _IOOIO00Il00lOO0 = table.remove(_Il0OOlIIOII0l00, _IlOOOlO0Ol[((946 + 906 + 767) - 906 - 767)])
+			if _IOOIO00Il00lOO0 then _II0IIlIOI0OOl0O(_IOOIO00Il00lOO0) end
+		end
+		_IIOO0IlOlO0O00l(_lllOl0OOIIOlO00, true)
+	else
+		if _IllOl0II0lOllOO then _II0IIlIOI0OOl0O(_IllOl0II0lOllOO) end
+		_IllOl0II0lOllOO = _lllOl0OOIIOlO00
+		_IIOO0IlOlO0O00l(_lllOl0OOIIOlO00, false)
+	end
+end)
+
+_llOlllOOOIlII0O()
+end)()
